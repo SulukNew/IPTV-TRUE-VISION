@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:-1,## SULUK® INTRO ##
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+#EXTINF:-1,Suluk® → Bein Sport 1 Full HD
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+#EXTINF:-1,Suluk® → Bein Sport 2 Full HD
+http://139.99.38.2:443/epl-bein2_1080/index.m3u8
+#EXTINF:-1,Suluk® → Bein Sport 3 Full HD
+http://139.99.38.3:443/epl-bein3_1080/index.m3u8
+#EXTINF:-1,Suluk® → Bein Sport 4 Full HD
+http://139.99.38.2:443/epl-bein4_1080/index.m3u8 
+#EXTINF:-1,Suluk® → True Sport HD1 
+http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
+#EXTINF:-1,Suluk® → True Sport HD2
+http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
+#EXTINF:-1,Suluk® → True Sport HD3
+http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
+#EXTINF:-1,Suluk® → Bein Sport 1 HD
+http://iptvthai.webhop.biz:443/epl-bein1_720/index.m3u8?
+#EXTINF:-1,Suluk® → Bein Sport 2 HD
+http://iptvthai.webhop.biz:443/epl-bein2_720/index.m3u8?
+#EXTINF:-1,Suluk® → Bein Sport 3 HD
+http://iptvthai.webhop.biz:443/epl-bein3_720/index.m3u8?
+#EXTINF:-1,Suluk® → Bein Sport 4 HD
+http://iptvthai.webhop.biz:443/epl-bein4_720/index.m3u8?
+
+#EXTINF:-1,Suluk® → TRHILL
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8
+#EXTINF:-1,Suluk® → WARNER TV
+http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE FILM HD
+http://iptvthai.webhop.biz:443/hd-tfilm_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FILM ASIA
+http://iptvthai.webhop.biz:443/sd-filmasia_480/index.m3u8
+#EXTINF:-1,Suluk® → TRUE THAI FILM
+http://main-a.for-our.info:8081/tv11/thaifilm/chunks.m3u8
+#EXTINF:-1,Suluk® → FOX ACTION MOVIE
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Suluk® → FOX FAMILY MOVIE
+http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
+#EXTINF:-1,Suluk® → FOX MOVIE PREMIUM
+http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE SERIE
+http://iptvthai.webhop.biz:443/sd-series_480/index.m3u8
+#EXTINF:-1,Suluk® → FOX CRIME
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_TH/playlist.m3u8
+#EXTINF:-1,Suluk® → M CHANNEL
+http://main-a.for-our.info:8081/tv1/ch19.m3u8
+#EXTINF:-1,Suluk® → Cartoon Network
+http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
+#EXTINF:-1,Suluk® → DISNEY CHANNEL
+http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
+#EXTINF:-1,Suluk® → NICK JR
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
+#EXTINF:-1,Suluk® → DISNEY XD
+http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE SPARK JUMP
+http://main-a.for-our.info:8081/tv11/sparkjump/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE SPARK PLAY
+http://main-a.for-our.info:8081/tv11/sparkplay/chunks.m3u8
+#EXTINF:-1,Suluk® → BOOMERANG
+http://main-a.for-our.info:8081/tv1/ch18.m3u8
+#EXTINF:-1,Suluk® → CARTOON CLUB
+https://p0.adintrend.com/live/ch31/i/ch31i.m3u8
+#EXTINF:-1,Suluk® → ANIMAL PLANET
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
+#EXTINF:-1,Suluk® → BBC EARTH
+http://139.99.38.3:443/sd-bbcearth_720/index.m3u8
+#EXTINF:-1,Suluk® → BBC Lifestyle
+http://139.99.38.3:443/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1,Suluk® → Nat Geo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+#EXTINF:-1,Suluk® → Natgeo Wild
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8
+#EXTINF:-1,Suluk® → Natgeo Graphic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8
+#EXTINF:-1,Suluk® → DISCOVERY
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+#EXTINF:-1,Suluk® → HITSTORY
+http://iptvthai.webhop.biz:443/hd-history_720/index.m3u8
+#EXTINF:-1,Suluk® → H2
+http://iptvthai.webhop.biz:443/hd-history2_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE EXPLORE LIFE
+http://main-a.for-our.info:8081/tv11/explorelife/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE EXPLORE WILD
+http://main-a.for-our.info:8081/tv11/explorewild/chunks.m3u8
+#EXTINF:-1,Suluk® → SCI CRIME
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/57.m3u8
+#EXTINF:-1,Suluk® → FYI
+http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT 1
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT 2
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT 3
+http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT 4
+http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 1
+http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 2
+http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 3
+http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
+#EXTINF:-1,Suluk® → FOX SPORT 1
+http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://main-a.for-our.info:8081/tv11/fox2/chunks.m3u8
+#EXTINF:-1,Suluk® → FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,Suluk® → BT Sport ESPN
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/163.m3u8
+#EXTINF:-1,Suluk® → BT Sport 1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/160.m3u8
+#EXTINF:-1,Suluk® → BT Sport 2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/161.m3u8
+#EXTINF:-1,Suluk® → BT Sport 3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/162.m3u8
+#EXTINF:-1,Suluk® → EURO SPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,Suluk® → EURO SPORT 2
+http://ssl2.sakkarinsai8.com:19358/footballfuck/0x444_eurosport2pl_360p/playlist.m3u8
+#EXTINF:-1,Suluk® → DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Suluk® → DUBAI Sport 1
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1,Suluk® → DUBAI Sport 2
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1,Suluk® → AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Suluk® →  AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
+#EXTINF:-1,Suluk® → Motor GP
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+#EXTINF:-1,Suluk® → Arena Sport 1
+http://139.99.9.49:8084/iptvhero-inter/arenasport1.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → Arena Sport 2
+http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → Arena Sport 3
+http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → Arena Sport 4
+http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → Arena Sport 5
+http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → Redbull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,Suluk® → SABUYDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,Suluk® → YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:-1,Suluk® → itv
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/70.m3u8
+#EXTINF:-1,Suluk® → 3 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/3hd.smil/chunklis.m3u8
+#EXTINF:-1,Suluk® → 3 SD
+http://103.212.181.21:8080/hdlive/0296e16fac6149ed99004125f37fa2e4.m3u8
+#EXTINF:-1,Suluk® → 3 FAMILY
+http://main-a.for-our.info:8081/tv2/ch1.m3u8
+#EXTINF:-1,Suluk® → 5 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/5hd.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → 7 HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/7hd.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → MCOT HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/mcothd.smil/chunklist_w957895901.m3u8
+#EXTINF:-1,Suluk® → MCOT FAMILY
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+#EXTINF:-1,Suluk® → NBT
+http://main-a.for-our.info:8081/tv1/ch14.m3u8
+#EXTINF:-1,Suluk® → TPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1,Suluk® → WORKPOINT
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/workpointtv.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → MONO29
+http://main-a.for-our.info:8081/tv1/ch3.m3u8
+#EXTINF:-1,Suluk® → CH8
+http://111.223.51.5/desktop/ch8_720p/playlist.m3u8
+#EXTINF:-1,Suluk® → THAI RATH HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1,Suluk® → ONE HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/onehd.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → TRUE4U
+http://191.96.38.54:19358/footballfuck/00_true4u_480p/playlist.m3u8
+#EXTINF:-1,Suluk® → AMARIN HD
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/amarinhd.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → NOW26
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/90.m3u8
+#EXTINF:-1,Suluk® → GMM 25
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/gmmchannel.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → NEW TV 18
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/newstv.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → NOW TV
+http://nationstream.nationgroup.com/hls/th_high.m3u8
+#EXTINF:-1,Suluk® → PPTV 36
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/pptvhd.smil/chunklist.m3u8
+#EXTINF:-1,Suluk® → National Geographic
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_th/chunks.m3u8?
+#EXTINF:-1,Suluk® →  Nat Geo People 
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8?
+#EXTINF:-1,Suluk® → Nat Geo Wild 
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_TH/chunks.m3u8?
+#EXTINF:-1,Suluk® → Discovery  
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8?
+
+
