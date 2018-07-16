@@ -1,7 +1,7 @@
 
 #EXTM3U 
 #EXTINF:-1, **SULUK TRUEVIS#
-http://185.59.220.134:8080/balkanika/mpegts
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 #EXTINF:-1,Suluk™ → TRUE SPORT HD 1
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
 #EXTINF:-1,Suluk™ → TRUE SPORT HD 2
