@@ -10,23 +10,13 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
 #EXTINF:-1,Suluk™ → SKYNET SPORT HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/203.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/159.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/149.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TH
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TRUE
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/235.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 2 TH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 2 TH
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 2 TRUE
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/152.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 3 TH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/153.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 3 TH
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 3 TRUE
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/154.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 4 TH
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 4 TH
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 4 TRUE
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/156.m3u8
 #EXTINF:-1,Suluk™ → FOX SPORT HD
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/174.m3u8
@@ -50,10 +40,17 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/226.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/227.m3u8
 #EXTINF:-1,Suluk™ → TRUE SPORT 7
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/228.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT HD2
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/149.m3u8
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 2 TH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 3 TH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/153.m3u8
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 4 TH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 2
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/140.m3u8
-#EXTINF:-1,Suluk™ → BEIN SPORT HD3
+#EXTINF:-1,Suluk™ → BEIN SPORT HD 3
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/141.m3u8
 #EXTINF:-1,Suluk™ → BEIN SPORT HD 5
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/143.m3u8
@@ -159,7 +156,7 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/87.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/89.m3u8
 #EXTINF:-1,Suluk™ → NOW
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/90.m3u8
-#EXTINF:-1,Suluk™ → Huh??
+#EXTINF:-1,Suluk™ → PHOENIX
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/91.m3u8
 #EXTINF:-1,Suluk™ → Huh??
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/101.m3u8
@@ -181,6 +178,8 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/115.m3u8
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/117.m3u8
 #EXTINF:-1,Suluk™ → TRUE SPARK
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/118.m3u8
+#EXTINF:-1,Suluk™ → TRUE
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/159.m3u8
 #EXTINF:-1,Suluk™ → TVB
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/122.m3u8
 #EXTINF:-1,Suluk™ → VERY
