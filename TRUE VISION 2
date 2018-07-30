@@ -1,7 +1,7 @@
 
 #EXTM3U 
-#EXTINF:-1,== SULUK IPTV ==
-http://bit.ly/SulukLogo1
+#EXTINF:-1, == SULUK IPTV ==
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 
 #EXTINF:-1,Suluk™ → TRUE SPORT HD 1
 http://139.99.38.15:443/hd-tsport1_720/index.m3u8
