@@ -11,8 +11,24 @@ rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",TRACE URBAN
 http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15711.ts
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",INTRO UCL
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",INTRO UCL
 https://bit.ly/2NUDl5P
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",SKYNET
+https://tinyurl.com/yc2hlr6m
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",TV CHINO EPL
+https://bit.ly/2MW9Hfg
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",MATCH! HD
+http://persik.by/stream/2944/263250/276.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",MATCH! FOOTBALL
+http://persik.by/stream/2944/263250/346.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",MATCH! FOOTBALL 1
+http://persik.by/stream/3903/293564/10266.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",MATCH! FOOTBALL 2
+http://persik.by/stream/3903/293564/10267.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="EPL",MATCH! FOOTBALL 3
+http://persik.by/stream/3903/293564/10268.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SONY TEN 1 HD
 http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SONY TEN 2 HD
@@ -23,18 +39,6 @@ http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! HD
-http://persik.by/stream/2944/263250/276.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL
-http://persik.by/stream/2944/263250/346.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 1
-http://persik.by/stream/3903/293564/10266.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 2
-http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 3
-http://persik.by/stream/3903/293564/10268.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TV PREMIER LEAGUE
-https://bit.ly/2MW9Hfg
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/t8wo61xv1/WORLD.png" group-title="MOVIE",HBO INDO
 http://bit.ly/SulukHBO
