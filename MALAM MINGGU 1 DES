@@ -53,7 +53,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 
-
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/D0SdjnJc/A2.png" group-title="LOVE ASIA♥",ASTRO AEC HD MY
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/18633
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/D0SdjnJc/A2.png" group-title="LOVE ASIA♥",ASTRO ARENA HD MY
@@ -189,6 +188,17 @@ http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8505
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8504
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",beIN Sports 4 HD TH
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8503
+
+#EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",Sony TEN 1
+http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",Sony TEN 2
+http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="TenCricket.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",Sony TEN 3
+http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",Sony SIX
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
+#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",Sony ESPN
+http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT ASIA♥",MySports FHD CH
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8081
@@ -397,3 +407,9 @@ http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/1873
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/1875
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/W3b7ZMsC/A1.png" group-title="WORLD LOVE♥",Discovery Turbo UK
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/1884
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/W3b7ZMsC/A1.png" group-title="WORLD LOVE♥",FASHION MIDNIGHT 18+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/W3b7ZMsC/A1.png" group-title="WORLD LOVE♥",JASMIN TV 18+
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
