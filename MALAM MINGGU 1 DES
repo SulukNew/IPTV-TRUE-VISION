@@ -7,7 +7,7 @@ https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",SUPERSOCCER
-http://178.128.101.58:8090/live/kempzal/zal/518.ts
+http://210.210.155.35/uq2663/h/h135/01.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET_TV HD
@@ -39,12 +39,10 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",FOX MOVIES
 http://178.128.101.58:8090/live/kempzal/zal/524.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",WARNER TV
-http://178.128.101.58:8090/live/kempzal/zal/517.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",WWE
 http://178.128.101.58:8090/live/kempzal/zal/513.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NAT GEO
-http://178.128.101.58:8090/live/kempzal/zal/405.ts
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",MIX TV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
