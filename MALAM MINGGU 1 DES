@@ -19,7 +19,7 @@ http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS HD
-https://stream-04.sg1.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
+http://210.210.155.35/session/e37747f0-f5aa-11e8-a629-b82a72d63267/qwr9ew/s/s09/01.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI HD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",GLOBAL_TV HD
