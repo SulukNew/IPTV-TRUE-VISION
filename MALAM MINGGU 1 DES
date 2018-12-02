@@ -262,23 +262,74 @@ http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0M
 #EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",Sony ESPN
 http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 1
-http://185.93.3.84:5019/play/a00d
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 2
-http://185.93.3.84:5019/play/a00e
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 3
-http://185.93.3.84:5019/play/a00g
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 4
-http://185.93.3.84:5019/play/a00m
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS ACTION
+http://gorilladick4.us:2086/live/irishboy/irishboy/998.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS NEWS
+http://gorilladick4.us:2086/live/irishboy/irishboy/1003.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MIX
+http://gorilladick4.us:2086/live/irishboy/irishboy/1002.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS PRE. LEAGUE
+http://gorilladick4.us:2086/live/irishboy/irishboy/1000.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS GOLF
+http://gorilladick4.us:2086/live/irishboy/irishboy/999.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS CRICKET
+http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MAIN EVENT
+http://gorilladick4.us:2086/live/irishboy/irishboy/996.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS BOX OFFICE PPV
+http://gorilladick4.us:2086/live/irishboy/irishboy/1004.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",PREMIER SPORTS
+http://gorilladick4.us:2086/live/irishboy/irishboy/1012.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 1
-http://163.172.211.93:8081/BT/1/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 2
-http://163.172.86.57:3135/B/2/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 3
-http://163.172.86.59:3135/1513/BT/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport ESPN
-http://163.172.86.59:3135/Espn/BT/index.m3u8
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TSN 1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1099.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TSN 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/1098.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TSN 3
+http://gorilladick4.us:2086/live/irishboy/irishboy/1097.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TSN 4
+http://gorilladick4.us:2086/live/irishboy/irishboy/1096.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TSN 5
+http://gorilladick4.us:2086/live/irishboy/irishboy/1095.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS 1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1005.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS 2
+http://gorilladick4.us:2086/live/irishboy/irishboy/1006.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS 3
+http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS ESPN
+http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 4
+http://185.93.3.84:5019/play/a00m
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",beINSports 1 FHD ARB
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8776
