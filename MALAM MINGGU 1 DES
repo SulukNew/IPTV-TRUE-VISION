@@ -262,26 +262,23 @@ http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0M
 #EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",Sony ESPN
 http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8081
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 1 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8080
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 2/Sky 2 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8079
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 3/Sky 3 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8078
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 4/Sky 4 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8077
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 5/Sky 5 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8076
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 6/Sky 6 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8075
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 7/Sky 7 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8074
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 8/Sky 8 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8073
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORT♥ASIA",MySports 9/Sky 9 FHD CH
-http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8072
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",RMC Sport 4
+http://185.93.3.84:5019/play/a00m
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 1
+http://163.172.211.93:8081/BT/1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 2
+http://163.172.86.57:3135/B/2/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",BT Sport ESPN
+http://163.172.86.59:3135/Espn/BT/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="WORLD♥SPORT",beINSports 1 FHD ARB
 http://portal.geniptv.com:8080/TKiq1297Hf/b7kz6Q5gWh/8776
