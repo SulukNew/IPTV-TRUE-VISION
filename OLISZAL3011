@@ -85,6 +85,14 @@ http://forzatv.tk:8080/live/lucky/444555/2632.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
 http://forzatv.tk:8080/live/lucky/444555/2085.ts
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS ONE HD
+http://124.190.199.195:9981/stream/channelid/1510100053?ticket=3142ED89962B6DBFC04F72277D63F71788318BC3&profile=pass
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS VICELAND HD
+http://124.190.199.195:9981/stream/channelid/1177787853?ticket=C3C9DAB417651717D3A735AB7175E401448A3E0B&profile=pass
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS ONE
+http://124.190.199.195:9981/stream/channelid/824147716?ticket=7B2BC1F4FFE1439E7FF84B2CE89FF3EB99427CDC&profile=pass
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS VICELAND
+http://124.190.199.195:9981/stream/channelid/697469466?ticket=76D3DCA95530377A20B840A59B7D3C015540F74A&profile=pass
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/D0SdjnJc/A2.png" group-title="LOVE♥ASIA",K+1
 http://iptv-nl3-qscdn.hdflixtv.com/VN-K+1-HD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/D0SdjnJc/A2.png" group-title="LOVE♥ASIA",K+PM HD
