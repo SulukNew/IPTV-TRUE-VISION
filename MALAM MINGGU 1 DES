@@ -652,6 +652,15 @@ http://163.172.86.59:3135/1513/BT/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport ESPN
 http://163.172.86.59:3135/Espn/BT/index.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 1 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/44.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 2 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/45.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 3 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/46.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 4 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/47.ts
+
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.2.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1 HD
 http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
