@@ -93,10 +93,12 @@ http://newyork.streamlive.to/mobile/zmtfudkfx3neras/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Nicktoons
 http://newyork.streamlive.to/mobile/477ltm5ematwdhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MDg6NTQgUE0maGFzaF92YWx1ZT1ZRk5XQllnTG5TVk9yZ1d6RW0wQVpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HBO [IN]
+http://179.43.156.222:8080/Grnfsali/Saligenf/2852
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY PIX HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+http://179.43.156.222:8080/Grnfsali/Saligenf/2821
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY LE PLEX HD
-http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/04.m3u8
+http://179.43.156.222:8080/Grnfsali/Saligenf/16016
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS ONE HD
 http://124.190.199.195:9981/stream/channelid/1510100053?ticket=3142ED89962B6DBFC04F72277D63F71788318BC3&profile=pass
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS VICELAND HD
@@ -116,106 +118,119 @@ http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO AEC HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18633
+http://179.43.156.222:8080/Grnfsali/Saligenf/18633
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO ARENA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18632
+http://179.43.156.222:8080/Grnfsali/Saligenf/18632
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO BELLA MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18631
+http://179.43.156.222:8080/Grnfsali/Saligenf/18631
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CERIA MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18630
+http://179.43.156.222:8080/Grnfsali/Saligenf/18630
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CRICKET HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18629
+http://179.43.156.222:8080/Grnfsali/Saligenf/18629
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO OASIS HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18628
+http://179.43.156.222:8080/Grnfsali/Saligenf/18628
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO PRIMA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18627
+http://179.43.156.222:8080/Grnfsali/Saligenf/18627
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO QUAN JIA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18626
+http://179.43.156.222:8080/Grnfsali/Saligenf/18626
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO RIA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18625
+http://179.43.156.222:8080/Grnfsali/Saligenf/18625
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO SHUANG XING HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18624
+http://179.43.156.222:8080/Grnfsali/Saligenf/18624
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",AXN HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18613
+http://179.43.156.222:8080/Grnfsali/Saligenf/18613
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Astro Awani MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1373
+http://179.43.156.222:8080/Grnfsali/Saligenf/1373
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Astro Maya HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1371
+http://179.43.156.222:8080/Grnfsali/Saligenf/1371
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO TARA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18619
+http://179.43.156.222:8080/Grnfsali/Saligenf/18619
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VAANAVIL HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18618
+http://179.43.156.222:8080/Grnfsali/Saligenf/18618
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VINMEEN HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18617
+http://179.43.156.222:8080/Grnfsali/Saligenf/18617
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO WARNA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18616
+http://179.43.156.222:8080/Grnfsali/Saligenf/18616
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO XI YUE MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18615
+http://179.43.156.222:8080/Grnfsali/Saligenf/18615
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO XIAO TAI YANG MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18614
+http://179.43.156.222:8080/Grnfsali/Saligenf/18614
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX FAMILY MOVIES HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18592
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX LIFE HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18591
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18590
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX TV HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18586
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FX CINEMA HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18585
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES ACTION HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1362
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES PREMIUM MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1361
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",OUTDOOR HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18564
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",PARAMOUNT CHANNEL MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18563
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",PESONA HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18562
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",RED HBO HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18561
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",TRAVEL CHANNEL HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18555
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",WARNER TV HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/18550
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet CGCN Docu MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9128
+http://179.43.156.222:8080/Grnfsali/Saligenf/9128
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Dmax MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9126
+http://179.43.156.222:8080/Grnfsali/Saligenf/9126
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Fox Action Movies HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9142
+http://179.43.156.222:8080/Grnfsali/Saligenf/9142
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Fox Action Movies MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9143
+http://179.43.156.222:8080/Grnfsali/Saligenf/9143
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Golf HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9123
+http://179.43.156.222:8080/Grnfsali/Saligenf/9123
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet MTV China MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9122
+http://179.43.156.222:8080/Grnfsali/Saligenf/9122
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Movies HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9114
+http://179.43.156.222:8080/Grnfsali/Saligenf/9114
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Music MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9121
+http://179.43.156.222:8080/Grnfsali/Saligenf/9121
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Phoenix Info News MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9132
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18590
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Fox Movies Action HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1362
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Fox Movies Premium MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1361
+http://179.43.156.222:8080/Grnfsali/Saligenf/9132
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HISTORY 1 PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24182
+http://179.43.156.222:8080/Grnfsali/Saligenf/24182
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HISTORY 2 PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24181
+http://179.43.156.222:8080/Grnfsali/Saligenf/24181
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",DISCOVERY ASIA WORLD PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24189
+http://179.43.156.222:8080/Grnfsali/Saligenf/24189
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO ASIA HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18571
+http://179.43.156.222:8080/Grnfsali/Saligenf/18571
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO PEOPLE HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18570
+http://179.43.156.222:8080/Grnfsali/Saligenf/18570
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO WILD HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18569
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Ginx TV/CH3 TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9387
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",DSPORT HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",WWE Network
-http://newyork.streamlive.to/mobile/i69u9isa4x7rbxf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDQ6MTQ6MzAgUE0maGFzaF92YWx1ZT11Mk4rZ0tXREdHQlFiL1hyNXFFN1lnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+http://179.43.156.222:8080/Grnfsali/Saligenf/18569
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 1 HD PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24198
+http://179.43.156.222:8080/Grnfsali/Saligenf/24198
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 2 HD PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24197
+http://179.43.156.222:8080/Grnfsali/Saligenf/24197
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 3 HD PH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24196
+http://179.43.156.222:8080/Grnfsali/Saligenf/24196
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 1 FHD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18623
+http://179.43.156.222:8080/Grnfsali/Saligenf/18623
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 2 FHD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18622
+http://179.43.156.222:8080/Grnfsali/Saligenf/18622
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 3 FHD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18621
+http://179.43.156.222:8080/Grnfsali/Saligenf/18621
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 4 FHD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18620
+http://179.43.156.222:8080/Grnfsali/Saligenf/18620
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Fox Sport 1 HD
 http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1971.ts
@@ -225,55 +240,55 @@ http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1972.ts
 http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1973.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 1 HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18579
+http://179.43.156.222:8080/Grnfsali/Saligenf/18579
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 2 HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18578
+http://179.43.156.222:8080/Grnfsali/Saligenf/18578
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 3 HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18577
+http://179.43.156.222:8080/Grnfsali/Saligenf/18577
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 1 HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1160
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 1 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1159
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 2 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1158
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 3 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1157
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 4 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1156
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 5 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1155
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports 6 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1154
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9113
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports Plus HD MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9110
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SkyNet Sports Plus MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9112
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 1 HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1160
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 1 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1159
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 2 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1158
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 3 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1157
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 4 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1156
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 5 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1155
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 6 MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/1154
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/9113
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT Plus HD MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/9110
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT Plus MY
+http://179.43.156.222:8080/Grnfsali/Saligenf/9112
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 1 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18589
+http://179.43.156.222:8080/Grnfsali/Saligenf/18589
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 2 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18588
+http://179.43.156.222:8080/Grnfsali/Saligenf/18588
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 3 MY
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18587
+http://179.43.156.222:8080/Grnfsali/Saligenf/18587
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE Sports 1 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8498
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE Sports 2 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8497
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE Sports 3 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8496
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 1 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8498
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 2 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8497
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 3 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8496
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN Sports 1 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8506
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN Sports 2 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8505
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN Sports 3 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8504
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN Sports 4 HD TH
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8503
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 1 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8506
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 2 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8505
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 3 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8504
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 4 HD TH
+http://179.43.156.222:8080/Grnfsali/Saligenf/8503
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
@@ -335,194 +350,194 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS ESPN
 http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 1 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8776
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 2 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8775
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 3 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8774
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 4 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8773
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 5 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8772
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 6 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8771
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 7 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8770
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 8 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8769
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 9 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8768
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 10 FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8767
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 1 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8776
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 2 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8775
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 3 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8774
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 4 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8773
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 5 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8772
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 6 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8771
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 7 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8770
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 8 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8769
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 9 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8768
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 10 FHD ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/8767
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 11 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9524
+http://179.43.156.222:8080/Grnfsali/Saligenf/9524
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 12 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9523
+http://179.43.156.222:8080/Grnfsali/Saligenf/9523
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 13 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9522
+http://179.43.156.222:8080/Grnfsali/Saligenf/9522
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",WWE
 http://178.128.101.58:8090/live/kempzal/zal/513.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 1 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15039
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 2 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15045
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 3 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15044
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 4 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15043
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 5 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15042
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 6 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15041
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 7 HD VIP ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15040
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 1 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15039
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 2 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15045
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 3 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15044
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 4 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15043
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 5 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15042
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 6 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15041
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 7 HD VIP ARB
+http://179.43.156.222:8080/Grnfsali/Saligenf/15040
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 1 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4093
+http://179.43.156.222:8080/Grnfsali/Saligenf/4093
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 2 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4092
+http://179.43.156.222:8080/Grnfsali/Saligenf/4092
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 3 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4091
+http://179.43.156.222:8080/Grnfsali/Saligenf/4091
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 4 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8932
+http://179.43.156.222:8080/Grnfsali/Saligenf/8932
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 5 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8931
+http://179.43.156.222:8080/Grnfsali/Saligenf/8931
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 6 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8930
+http://179.43.156.222:8080/Grnfsali/Saligenf/8930
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 7 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8929
+http://179.43.156.222:8080/Grnfsali/Saligenf/8929
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 8 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8907
+http://179.43.156.222:8080/Grnfsali/Saligenf/8907
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 9 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8906
+http://179.43.156.222:8080/Grnfsali/Saligenf/8906
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 10 FHD FR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/8905
+http://179.43.156.222:8080/Grnfsali/Saligenf/8905
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 1 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5702
+http://179.43.156.222:8080/Grnfsali/Saligenf/5702
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 2 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5703
+http://179.43.156.222:8080/Grnfsali/Saligenf/5703
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 3 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5704
+http://179.43.156.222:8080/Grnfsali/Saligenf/5704
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 4 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5705
+http://179.43.156.222:8080/Grnfsali/Saligenf/5705
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 5 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5706
+http://179.43.156.222:8080/Grnfsali/Saligenf/5706
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 6 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5707
+http://179.43.156.222:8080/Grnfsali/Saligenf/5707
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 7 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5708
+http://179.43.156.222:8080/Grnfsali/Saligenf/5708
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 8 HD GR
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5709
+http://179.43.156.222:8080/Grnfsali/Saligenf/5709
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 1 Action ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/6
+http://179.43.156.222:8080/Grnfsali/Saligenf/6
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 2 Action ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/5
+http://179.43.156.222:8080/Grnfsali/Saligenf/5
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 3 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4
+http://179.43.156.222:8080/Grnfsali/Saligenf/4
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 4 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3
+http://179.43.156.222:8080/Grnfsali/Saligenf/3
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 1 HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23238
+http://179.43.156.222:8080/Grnfsali/Saligenf/23238
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 2 HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23237
+http://179.43.156.222:8080/Grnfsali/Saligenf/23237
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 3 HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23191
+http://179.43.156.222:8080/Grnfsali/Saligenf/23191
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 4 HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23190
+http://179.43.156.222:8080/Grnfsali/Saligenf/23190
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Gold VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23236
+http://179.43.156.222:8080/Grnfsali/Saligenf/23236
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23182
+http://179.43.156.222:8080/Grnfsali/Saligenf/23182
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Plus FHD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23189
+http://179.43.156.222:8080/Grnfsali/Saligenf/23189
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Plus Live HD VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23234
+http://179.43.156.222:8080/Grnfsali/Saligenf/23234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Stars VIP IL
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23235
+http://179.43.156.222:8080/Grnfsali/Saligenf/23235
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar F1 FHD VIP ES
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/13960
+http://179.43.156.222:8080/Grnfsali/Saligenf/13960
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar Moto GP HD ES
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1041
+http://179.43.156.222:8080/Grnfsali/Saligenf/1041
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar Moto GP FHD ES
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/4399
+http://179.43.156.222:8080/Grnfsali/Saligenf/4399
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV+ FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/13248
+http://179.43.156.222:8080/Grnfsali/Saligenf/13248
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 1 FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3618
+http://179.43.156.222:8080/Grnfsali/Saligenf/3618
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 2 FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3617
+http://179.43.156.222:8080/Grnfsali/Saligenf/3617
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 3 FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3616
+http://179.43.156.222:8080/Grnfsali/Saligenf/3616
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 4 FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3615
+http://179.43.156.222:8080/Grnfsali/Saligenf/3615
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 5 FHD PT
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/3614
+http://179.43.156.222:8080/Grnfsali/Saligenf/3614
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Animal Planet ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/24
+http://179.43.156.222:8080/Grnfsali/Saligenf/24
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 1 HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/408
+http://179.43.156.222:8080/Grnfsali/Saligenf/408
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 2 HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/407
+http://179.43.156.222:8080/Grnfsali/Saligenf/407
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 3 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/406
+http://179.43.156.222:8080/Grnfsali/Saligenf/406
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/23
+http://179.43.156.222:8080/Grnfsali/Saligenf/23
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery History ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/22
+http://179.43.156.222:8080/Grnfsali/Saligenf/22
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery Science ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/21
+http://179.43.156.222:8080/Grnfsali/Saligenf/21
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery Xtra ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/405
+http://179.43.156.222:8080/Grnfsali/Saligenf/405
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney Channel ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/17
+http://179.43.156.222:8080/Grnfsali/Saligenf/17
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney Junior ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/15
+http://179.43.156.222:8080/Grnfsali/Saligenf/15
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney XD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/16
+http://179.43.156.222:8080/Grnfsali/Saligenf/16
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN E! ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/32
+http://179.43.156.222:8080/Grnfsali/Saligenf/32
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fashion ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/403
+http://179.43.156.222:8080/Grnfsali/Saligenf/403
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN First HBO ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/41
+http://179.43.156.222:8080/Grnfsali/Saligenf/41
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Action Movie FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/401
+http://179.43.156.222:8080/Grnfsali/Saligenf/401
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Family Movies HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/400
+http://179.43.156.222:8080/Grnfsali/Saligenf/400
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Movie HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/399
+http://179.43.156.222:8080/Grnfsali/Saligenf/399
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN H2 HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/397
+http://179.43.156.222:8080/Grnfsali/Saligenf/397
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN History 1 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/25
+http://179.43.156.222:8080/Grnfsali/Saligenf/25
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN IDX FHD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/30
+http://179.43.156.222:8080/Grnfsali/Saligenf/30
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie 1 HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/57
+http://179.43.156.222:8080/Grnfsali/Saligenf/57
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie 2 HD ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/56
+http://179.43.156.222:8080/Grnfsali/Saligenf/56
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie Action 1 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/55
+http://179.43.156.222:8080/Grnfsali/Saligenf/55
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie Action 2 ARB
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/54
+http://179.43.156.222:8080/Grnfsali/Saligenf/54
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Channel UK
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1886
+http://179.43.156.222:8080/Grnfsali/Saligenf/1886
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery History UK
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1873
+http://179.43.156.222:8080/Grnfsali/Saligenf/1873
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Science UK
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1875
+http://179.43.156.222:8080/Grnfsali/Saligenf/1875
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Turbo UK
-http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1884
+http://179.43.156.222:8080/Grnfsali/Saligenf/1884
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/3xhygfDn/D11.png" group-title="LOVE♥MOVIES",FOX MOVIES
 http://178.128.101.58:8090/live/kempzal/zal/524.ts
