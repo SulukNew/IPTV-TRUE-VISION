@@ -102,30 +102,64 @@ http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/200.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 4 HD
 http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/201.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS1 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/55
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS2 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/41
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS3 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/39
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS4 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/37
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS5 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/35
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS6 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/33
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS7 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/31
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS8 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/29
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS9 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/27
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS10 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/53
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS 11 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/51
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS 12 HD
-http://190.2.132.7:8080/atlasuk/i1ukulG3h1/49
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11711
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11710
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11709
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 4 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11708
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 5 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11707
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 6 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11706
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 7 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11705
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 8 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11704
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 9 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11703
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17132
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17131
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3569
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3570
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3571
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 6 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3572
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3573
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3574
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 9 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3575
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 10 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3576
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 11 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10543
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 12 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10541
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34459
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34458
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34457
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34456
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34455
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34454
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34453
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5+
 http://178.128.101.58:8090/live/kempzal/zal/14.ts
