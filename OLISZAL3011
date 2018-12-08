@@ -93,87 +93,6 @@ http://newyork.streamlive.to/mobile/zmtfudkfx3neras/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Nicktoons
 http://newyork.streamlive.to/mobile/477ltm5ematwdhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MDg6NTQgUE0maGFzaF92YWx1ZT1ZRk5XQllnTG5TVk9yZ1d6RW0wQVpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 1 HD
-http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/198.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 2 HD
-http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/199.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 3 HD
-http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/200.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 4 HD
-http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/201.ts
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 1 HD
-http://server.internext.tv:8080/gaurav/gaurav123/11711
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 2 HD
-http://server.internext.tv:8080/gaurav/gaurav123/11710
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 3 HD
-http://server.internext.tv:8080/gaurav/gaurav123/11709
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 4 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11708
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 5 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11707
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 6 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11706
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 7 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11705
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 8 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11704
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 9 MAX
-http://server.internext.tv:8080/gaurav/gaurav123/11703
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 1 HD
-http://server.internext.tv:8080/gaurav/gaurav123/17132
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 2 HD
-http://server.internext.tv:8080/gaurav/gaurav123/17131
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 3 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3569
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 4 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3570
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 5 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3571
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 6 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3572
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 7 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3573
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 8 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3574
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 9 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3575
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 10 HD
-http://server.internext.tv:8080/gaurav/gaurav123/3576
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 11 HD
-http://server.internext.tv:8080/gaurav/gaurav123/10543
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 12 HD
-http://server.internext.tv:8080/gaurav/gaurav123/10541
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 1 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34459
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 2 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34458
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 3 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34457
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 4 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34456
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 5 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34455
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 8 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34454
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 7 HD
-http://server.internext.tv:8080/gaurav/gaurav123/34453
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5+
-http://178.128.101.58:8090/live/kempzal/zal/14.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5
-http://178.128.101.58:8090/live/kempzal/zal/193.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP1
-http://178.128.101.58:8090/live/kempzal/zal/7.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP2
-http://178.128.101.58:8090/live/kempzal/zal/8.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP3
-http://178.128.101.58:8090/live/kempzal/zal/9.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP4
-http://178.128.101.58:8090/live/kempzal/zal/10.ts
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
 https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 1 HD
@@ -235,11 +154,11 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HBO [IN]
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/2852
+http://mag.homeip.net:8080/test11/test11/2852
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY PIX HD
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/2821
+http://mag.homeip.net:8080/test11/test11/2821
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY LE PLEX HD
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/16016
+http://mag.homeip.net:8080/test11/test11/16016
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS ONE HD
 http://124.190.199.195:9981/stream/channelid/1510100053?ticket=3142ED89962B6DBFC04F72277D63F71788318BC3&profile=pass
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SBS VICELAND HD
@@ -259,119 +178,119 @@ http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO AEC HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18633
+http://mag.homeip.net:8080/test11/test11/18633
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO ARENA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18632
+http://mag.homeip.net:8080/test11/test11/18632
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO BELLA MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18631
+http://mag.homeip.net:8080/test11/test11/18631
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CERIA MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18630
+http://mag.homeip.net:8080/test11/test11/18630
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO CRICKET HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18629
+http://mag.homeip.net:8080/test11/test11/18629
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO OASIS HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18628
+http://mag.homeip.net:8080/test11/test11/18628
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO PRIMA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18627
+http://mag.homeip.net:8080/test11/test11/18627
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO QUAN JIA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18626
+http://mag.homeip.net:8080/test11/test11/18626
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO RIA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18625
+http://mag.homeip.net:8080/test11/test11/18625
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO SHUANG XING HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18624
+http://mag.homeip.net:8080/test11/test11/18624
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",AXN HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18613
+http://mag.homeip.net:8080/test11/test11/18613
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Astro Awani MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1373
+http://mag.homeip.net:8080/test11/test11/1373
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Astro Maya HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1371
+http://mag.homeip.net:8080/test11/test11/1371
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO TARA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18619
+http://mag.homeip.net:8080/test11/test11/18619
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VAANAVIL HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18618
+http://mag.homeip.net:8080/test11/test11/18618
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO VINMEEN HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18617
+http://mag.homeip.net:8080/test11/test11/18617
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO WARNA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18616
+http://mag.homeip.net:8080/test11/test11/18616
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO XI YUE MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18615
+http://mag.homeip.net:8080/test11/test11/18615
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",ASTRO XIAO TAI YANG MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18614
+http://mag.homeip.net:8080/test11/test11/18614
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX FAMILY MOVIES HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18592
+http://mag.homeip.net:8080/test11/test11/18592
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX LIFE HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18591
+http://mag.homeip.net:8080/test11/test11/18591
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18590
+http://mag.homeip.net:8080/test11/test11/18590
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX TV HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18586
+http://mag.homeip.net:8080/test11/test11/18586
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FX CINEMA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18585
+http://mag.homeip.net:8080/test11/test11/18585
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES ACTION HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1362
+http://mag.homeip.net:8080/test11/test11/1362
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",FOX MOVIES PREMIUM MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1361
+http://mag.homeip.net:8080/test11/test11/1361
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",OUTDOOR HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18564
+http://mag.homeip.net:8080/test11/test11/18564
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",PARAMOUNT CHANNEL MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18563
+http://mag.homeip.net:8080/test11/test11/18563
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",PESONA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18562
+http://mag.homeip.net:8080/test11/test11/18562
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",RED HBO HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18561
+http://mag.homeip.net:8080/test11/test11/18561
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",TRAVEL CHANNEL HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18555
+http://mag.homeip.net:8080/test11/test11/18555
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",WARNER TV HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18550
+http://mag.homeip.net:8080/test11/test11/18550
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet CGCN Docu MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9128
+http://mag.homeip.net:8080/test11/test11/9128
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Dmax MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9126
+http://mag.homeip.net:8080/test11/test11/9126
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Fox Action Movies HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9142
+http://mag.homeip.net:8080/test11/test11/9142
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Fox Action Movies MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9143
+http://mag.homeip.net:8080/test11/test11/9143
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Golf HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9123
+http://mag.homeip.net:8080/test11/test11/9123
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet MTV China MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9122
+http://mag.homeip.net:8080/test11/test11/9122
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Movies HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9114
+http://mag.homeip.net:8080/test11/test11/9114
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Music MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9121
+http://mag.homeip.net:8080/test11/test11/9121
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SkyNet Phoenix Info News MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9132
+http://mag.homeip.net:8080/test11/test11/9132
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HISTORY 1 PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24182
+http://mag.homeip.net:8080/test11/test11/24182
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HISTORY 2 PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24181
+http://mag.homeip.net:8080/test11/test11/24181
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",DISCOVERY ASIA WORLD PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24189
+http://mag.homeip.net:8080/test11/test11/24189
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO ASIA HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18571
+http://mag.homeip.net:8080/test11/test11/18571
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO PEOPLE HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18570
+http://mag.homeip.net:8080/test11/test11/18570
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",NAT GEO WILD HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18569
+http://mag.homeip.net:8080/test11/test11/18569
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 1 HD PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24198
+http://mag.homeip.net:8080/test11/test11/24198
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 2 HD PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24197
+http://mag.homeip.net:8080/test11/test11/24197
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 3 HD PH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24196
+http://mag.homeip.net:8080/test11/test11/24196
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 1 FHD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18623
+http://mag.homeip.net:8080/test11/test11/18623
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 2 FHD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18622
+http://mag.homeip.net:8080/test11/test11/18622
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 3 FHD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18621
+http://mag.homeip.net:8080/test11/test11/18621
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 4 FHD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18620
+http://mag.homeip.net:8080/test11/test11/18620
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Fox Sport 1 HD
 http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1971.ts
@@ -381,55 +300,55 @@ http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1972.ts
 http://iptv.elcodemedia.net:8118/live/thoro/dymaz9898/1973.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 1 HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18579
+http://mag.homeip.net:8080/test11/test11/18579
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 2 HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18578
+http://mag.homeip.net:8080/test11/test11/18578
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",HYPP SPORTS 3 HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18577
+http://mag.homeip.net:8080/test11/test11/18577
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 1 HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1160
+http://mag.homeip.net:8080/test11/test11/1160
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 1 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1159
+http://mag.homeip.net:8080/test11/test11/1159
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 2 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1158
+http://mag.homeip.net:8080/test11/test11/1158
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 3 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1157
+http://mag.homeip.net:8080/test11/test11/1157
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 4 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1156
+http://mag.homeip.net:8080/test11/test11/1156
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 5 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1155
+http://mag.homeip.net:8080/test11/test11/1155
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT 6 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1154
+http://mag.homeip.net:8080/test11/test11/1154
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9113
+http://mag.homeip.net:8080/test11/test11/9113
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT Plus HD MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9110
+http://mag.homeip.net:8080/test11/test11/9110
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",SKYNET SPORT Plus MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9112
+http://mag.homeip.net:8080/test11/test11/9112
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 1 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18589
+http://mag.homeip.net:8080/test11/test11/18589
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 2 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18588
+http://mag.homeip.net:8080/test11/test11/18588
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",FOX SPORTS 3 MY
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/18587
+http://mag.homeip.net:8080/test11/test11/18587
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 1 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8498
+http://mag.homeip.net:8080/test11/test11/8498
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 2 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8497
+http://mag.homeip.net:8080/test11/test11/8497
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",TRUE SPORT 3 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8496
+http://mag.homeip.net:8080/test11/test11/8496
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 1 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8506
+http://mag.homeip.net:8080/test11/test11/8506
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 2 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8505
+http://mag.homeip.net:8080/test11/test11/8505
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 3 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8504
+http://mag.homeip.net:8080/test11/test11/8504
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN SPORT 4 HD TH
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8503
+http://mag.homeip.net:8080/test11/test11/8503
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
@@ -492,193 +411,193 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
 http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 1 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8776
+http://mag.homeip.net:8080/test11/test11/8776
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 2 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8775
+http://mag.homeip.net:8080/test11/test11/8775
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 3 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8774
+http://mag.homeip.net:8080/test11/test11/8774
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 4 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8773
+http://mag.homeip.net:8080/test11/test11/8773
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 5 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8772
+http://mag.homeip.net:8080/test11/test11/8772
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 6 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8771
+http://mag.homeip.net:8080/test11/test11/8771
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 7 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8770
+http://mag.homeip.net:8080/test11/test11/8770
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 8 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8769
+http://mag.homeip.net:8080/test11/test11/8769
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 9 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8768
+http://mag.homeip.net:8080/test11/test11/8768
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSPORT 10 FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8767
+http://mag.homeip.net:8080/test11/test11/8767
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 11 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9524
+http://mag.homeip.net:8080/test11/test11/9524
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 12 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9523
+http://mag.homeip.net:8080/test11/test11/9523
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",bein Sport 13 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/9522
+http://mag.homeip.net:8080/test11/test11/9522
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",WWE
 http://178.128.101.58:8090/live/kempzal/zal/513.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 1 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15039
+http://mag.homeip.net:8080/test11/test11/15039
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 2 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15045
+http://mag.homeip.net:8080/test11/test11/15045
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 3 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15044
+http://mag.homeip.net:8080/test11/test11/15044
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 4 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15043
+http://mag.homeip.net:8080/test11/test11/15043
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 5 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15042
+http://mag.homeip.net:8080/test11/test11/15042
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 6 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15041
+http://mag.homeip.net:8080/test11/test11/15041
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ SPORT 7 HD VIP ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15040
+http://mag.homeip.net:8080/test11/test11/15040
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 1 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/4093
+http://mag.homeip.net:8080/test11/test11/4093
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 2 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/4092
+http://mag.homeip.net:8080/test11/test11/4092
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS 3 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/4091
+http://mag.homeip.net:8080/test11/test11/4091
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 4 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8932
+http://mag.homeip.net:8080/test11/test11/8932
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 5 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8931
+http://mag.homeip.net:8080/test11/test11/8931
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 6 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8930
+http://mag.homeip.net:8080/test11/test11/8930
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 7 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8929
+http://mag.homeip.net:8080/test11/test11/8929
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 8 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8907
+http://mag.homeip.net:8080/test11/test11/8907
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 9 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8906
+http://mag.homeip.net:8080/test11/test11/8906
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beIN SPORTS MAX 10 FHD FR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/8905
+http://mag.homeip.net:8080/test11/test11/8905
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 1 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5702
+http://mag.homeip.net:8080/test11/test11/5702
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 2 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5703
+http://mag.homeip.net:8080/test11/test11/5703
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 3 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5704
+http://mag.homeip.net:8080/test11/test11/5704
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 4 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5705
+http://mag.homeip.net:8080/test11/test11/5705
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 5 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5706
+http://mag.homeip.net:8080/test11/test11/5706
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 6 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5707
+http://mag.homeip.net:8080/test11/test11/5707
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 7 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5708
+http://mag.homeip.net:8080/test11/test11/5708
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 8 HD GR
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5709
+http://mag.homeip.net:8080/test11/test11/5709
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 1 Action ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/6
+http://mag.homeip.net:8080/test11/test11/6
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 2 Action ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/5
+http://mag.homeip.net:8080/test11/test11/5
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 3 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/4
+http://mag.homeip.net:8080/test11/test11/4
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OSN Sport 4 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3
+http://mag.homeip.net:8080/test11/test11/3
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 1 HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23238
+http://mag.homeip.net:8080/test11/test11/23238
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 2 HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23237
+http://mag.homeip.net:8080/test11/test11/23237
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 3 HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23191
+http://mag.homeip.net:8080/test11/test11/23191
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 4 HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23190
+http://mag.homeip.net:8080/test11/test11/23190
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Gold VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23236
+http://mag.homeip.net:8080/test11/test11/23236
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23182
+http://mag.homeip.net:8080/test11/test11/23182
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Plus FHD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23189
+http://mag.homeip.net:8080/test11/test11/23189
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Plus Live HD VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23234
+http://mag.homeip.net:8080/test11/test11/23234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",YES Sport 5 Stars VIP IL
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23235
+http://mag.homeip.net:8080/test11/test11/23235
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar F1 FHD VIP ES
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/13960
+http://mag.homeip.net:8080/test11/test11/13960
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar Moto GP HD ES
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1041
+http://mag.homeip.net:8080/test11/test11/1041
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Movistar Moto GP FHD ES
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/4399
+http://mag.homeip.net:8080/test11/test11/4399
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV+ FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/13248
+http://mag.homeip.net:8080/test11/test11/13248
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 1 FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3618
+http://mag.homeip.net:8080/test11/test11/3618
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 2 FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3617
+http://mag.homeip.net:8080/test11/test11/3617
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 3 FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3616
+http://mag.homeip.net:8080/test11/test11/3616
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 4 FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3615
+http://mag.homeip.net:8080/test11/test11/3615
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SportTV 5 FHD PT
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/3614
+http://mag.homeip.net:8080/test11/test11/3614
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Animal Planet ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/24
+http://mag.homeip.net:8080/test11/test11/24
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 1 HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/408
+http://mag.homeip.net:8080/test11/test11/408
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 2 HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/407
+http://mag.homeip.net:8080/test11/test11/407
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Box Office 3 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/406
+http://mag.homeip.net:8080/test11/test11/406
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/23
+http://mag.homeip.net:8080/test11/test11/23
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery History ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/22
+http://mag.homeip.net:8080/test11/test11/22
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery Science ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/21
+http://mag.homeip.net:8080/test11/test11/21
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Discovery Xtra ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/405
+http://mag.homeip.net:8080/test11/test11/405
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney Channel ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/17
+http://mag.homeip.net:8080/test11/test11/17
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney Junior ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/15
+http://mag.homeip.net:8080/test11/test11/15
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Disney XD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/16
+http://mag.homeip.net:8080/test11/test11/16
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN E! ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/32
+http://mag.homeip.net:8080/test11/test11/32
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fashion ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/403
+http://mag.homeip.net:8080/test11/test11/403
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN First HBO ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/41
+http://mag.homeip.net:8080/test11/test11/41
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Action Movie FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/401
+http://mag.homeip.net:8080/test11/test11/401
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Family Movies HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/400
+http://mag.homeip.net:8080/test11/test11/400
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Fox Movie HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/399
+http://mag.homeip.net:8080/test11/test11/399
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN H2 HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/397
+http://mag.homeip.net:8080/test11/test11/397
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN History 1 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/25
+http://mag.homeip.net:8080/test11/test11/25
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN IDX FHD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/30
+http://mag.homeip.net:8080/test11/test11/30
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie 1 HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/57
+http://mag.homeip.net:8080/test11/test11/57
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie 2 HD ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/56
+http://mag.homeip.net:8080/test11/test11/56
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie Action 1 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/55
+http://mag.homeip.net:8080/test11/test11/55
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",OSN Movie Action 2 ARB
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/54
+http://mag.homeip.net:8080/test11/test11/54
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Channel UK
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1886
+http://mag.homeip.net:8080/test11/test11/1886
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery History UK
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1873
+http://mag.homeip.net:8080/test11/test11/1873
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Science UK
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1875
+http://mag.homeip.net:8080/test11/test11/1875
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/FKs76fpS/D4.png" group-title="WORLD♥LOVE",Discovery Turbo UK
-http://magiptv.zapto.org:8080/bno11/8lnUvLbqjI/1884
+http://mag.homeip.net:8080/test11/test11/1884
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/3xhygfDn/D11.png" group-title="LOVE♥MOVIES",FOX MOVIES
 http://178.128.101.58:8090/live/kempzal/zal/524.ts
@@ -776,3 +695,83 @@ http://forzatv.tk:8080/live/lucky/444555/1885.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",TRACE AFRICA
 http://forzatv.tk:8080/live/lucky/444555/367.ts
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 1 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/198.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 2 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/199.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 3 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/200.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 4 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/201.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11711
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11710
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11709
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 4 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11708
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 5 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11707
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 6 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11706
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 7 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11705
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 8 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11704
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",FR: beIN SPORTS 9 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11703
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17132
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/17131
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3569
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3570
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3571
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 6 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3572
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3573
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3574
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 9 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3575
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 10 HD
+http://server.internext.tv:8080/gaurav/gaurav123/3576
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 11 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10543
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEIN SPORTS 12 HD
+http://server.internext.tv:8080/gaurav/gaurav123/10541
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34459
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34458
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34457
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 4 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34456
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 5 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34455
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 8 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34454
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 7 HD
+http://server.internext.tv:8080/gaurav/gaurav123/34453
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5+
+http://178.128.101.58:8090/live/kempzal/zal/14.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5
+http://178.128.101.58:8090/live/kempzal/zal/193.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP1
+http://178.128.101.58:8090/live/kempzal/zal/7.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP2
+http://178.128.101.58:8090/live/kempzal/zal/8.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP3
+http://178.128.101.58:8090/live/kempzal/zal/9.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP4
+http://178.128.101.58:8090/live/kempzal/zal/10.ts
