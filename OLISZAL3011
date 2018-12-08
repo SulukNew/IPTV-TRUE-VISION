@@ -93,6 +93,113 @@ http://newyork.streamlive.to/mobile/zmtfudkfx3neras/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Nicktoons
 http://newyork.streamlive.to/mobile/477ltm5ematwdhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MDg6NTQgUE0maGFzaF92YWx1ZT1ZRk5XQllnTG5TVk9yZ1d6RW0wQVpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 1 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/198.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 2 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/199.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 3 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/200.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP 4 HD
+http://useetv.me:8800/live/MALUKU/CxYlPOc5b8/201.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS1 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/55
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS2 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/41
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS3 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/39
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS4 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/37
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS5 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/35
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS6 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/33
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS7 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/31
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS8 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/29
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS9 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/27
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS10 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/53
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS 11 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/51
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",BEIN SPORTS 12 HD
+http://190.2.132.7:8080/atlasuk/i1ukulG3h1/49
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5+
+http://178.128.101.58:8090/live/kempzal/zal/14.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5
+http://178.128.101.58:8090/live/kempzal/zal/193.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP1
+http://178.128.101.58:8090/live/kempzal/zal/7.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP2
+http://178.128.101.58:8090/live/kempzal/zal/8.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP3
+http://178.128.101.58:8090/live/kempzal/zal/9.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP4
+http://178.128.101.58:8090/live/kempzal/zal/10.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
+https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 1 HD
+http://persik.by/stream/3602/287583/10266.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 2 HD
+http://persik.by/stream/3602/287583/10267.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 3 HD
+http://persik.by/stream/3602/287583/10268.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH ARENA
+http://persik.by/stream/3602/287583/261.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH
+http://persik.by/stream/3602/287583/1077.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 4
+http://185.93.3.84:5019/play/a00m
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 1
+http://163.172.211.93:8081/BT/1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 2
+http://163.172.86.57:3135/B/2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport ESPN
+http://163.172.86.59:3135/Espn/BT/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 1 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/44.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 2 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/45.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 3 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/46.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 4 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/47.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1
+http://163.172.86.57:3135/Ten/1/index.m3u8?token=YmE0MzM4Y2E0ZmE1YzAzYWZmMWNjOGY1MzVlYTMxMjc6MTUzMzg5MDU4Mw==
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 2
+http://163.172.86.57:3135/Ten/2/index.m3u8?token=MGNkNDJhZjcwNzM2NzQ4ZDcwNTQ2ZTNlOTE3ZDc1OTg6MTUzMzg5MDU4Mw==
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 3
+http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Sony ESPN
+http://125.17.105.168/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
+http://46.40.5.99:8000/arena_4_high
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",HBO [IN]
 http://31.220.3.91:8080/billq/djg7MJDP46/2852
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY PIX HD
@@ -635,63 +742,5 @@ http://forzatv.tk:8080/live/lucky/444555/1885.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",TRACE AFRICA
 http://forzatv.tk:8080/live/lucky/444555/367.ts
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
-https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 1 HD
-http://persik.by/stream/3602/287583/10266.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 2 HD
-http://persik.by/stream/3602/287583/10267.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 3 HD
-http://persik.by/stream/3602/287583/10268.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH ARENA
-http://persik.by/stream/3602/287583/261.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH
-http://persik.by/stream/3602/287583/1077.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 1
-http://185.93.3.84:5019/play/a00d
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 2
-http://185.93.3.84:5019/play/a00e
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 3
-http://185.93.3.84:5019/play/a00g
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 4
-http://185.93.3.84:5019/play/a00m
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 1
-http://163.172.211.93:8081/BT/1/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 2
-http://163.172.86.57:3135/B/2/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 3
-http://163.172.86.59:3135/1513/BT/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport ESPN
-http://163.172.86.59:3135/Espn/BT/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 1 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/44.ts
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 2 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/45.ts
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 3 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/46.ts
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 4 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/47.ts
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1
-http://163.172.86.57:3135/Ten/1/index.m3u8?token=YmE0MzM4Y2E0ZmE1YzAzYWZmMWNjOGY1MzVlYTMxMjc6MTUzMzg5MDU4Mw==
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 2
-http://163.172.86.57:3135/Ten/2/index.m3u8?token=MGNkNDJhZjcwNzM2NzQ4ZDcwNTQ2ZTNlOTE3ZDc1OTg6MTUzMzg5MDU4Mw==
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 3
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX
-http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",Sony ESPN
-http://125.17.105.168/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 1
-http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 2
-http://46.40.5.99:8000/arena_2_high
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 3
-http://46.40.5.99:8000/arena_3_high
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
-http://46.40.5.99:8000/arena_4_high
 
