@@ -260,6 +260,8 @@ http://forzatv.tk:8080/live/lucky/444555/367.ts
 http://178.128.101.58:8090/live/kempzal/zal/14.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="SP♥RTS",CCTV5
 http://178.128.101.58:8090/live/kempzal/zal/193.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="SP♥RTS",FOX SPORT HD
+http://hplusliveall.e96bbe18.sabai.vn/8715d8a6d1e4ac7eadee69961085190f1544360125/foxsports1-720/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="SP♥RTS",ASTRO SPORT 1
 http://178.128.101.58:8090/live/kempzal/zal/7.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="SP♥RTS",ASTRO SPORT 2
