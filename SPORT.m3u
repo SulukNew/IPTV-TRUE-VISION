@@ -42,13 +42,13 @@ http://163.172.86.59:3135/1513/BT/index.m3u8
 http://163.172.86.59:3135/Espn/BT/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TRING SPORT 1 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/44.ts
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/44.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TRING SPORT 2 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/45.ts
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/45.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TRING SPORT 3 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/46.ts
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/46.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TRING SPORT 4 HD
-http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/47.ts
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/47.ts
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1
 http://163.172.86.57:3135/Ten/1/index.m3u8?token=YmE0MzM4Y2E0ZmE1YzAzYWZmMWNjOGY1MzVlYTMxMjc6MTUzMzg5MDU4Mw==
@@ -166,15 +166,16 @@ http://95.170.215.120/hls/m3u8/Bein-SPORT-HD9.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 10 HD (VIP)
 http://95.170.215.120/hls/m3u8/Bein-SPORT-HD10.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 11 HD (VIP)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 11 HD ENG (VIP)
 http://95.170.215.120/hls/m3u8/Bein-SPORT-HD11.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 12 HD (VIP)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 12 HD ENG (VIP)
 http://95.170.215.120/hls/m3u8/Bein-SPORT-HD12.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 13 HD (VIP)
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 13 HD FR (VIP)
 http://95.170.215.120/hls/m3u8/Bein-SPORT-HD13.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 14 HD (VIP)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 14 HD FR (VIP)
 http://95.170.215.120/hls/m3u8/Bein-SPORT-HD14.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 15 HD (VIP)
@@ -354,3 +355,15 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Fox Sports 5 HD NL
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 1 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/48.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 2 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/9.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 3 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/50.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 4 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/51.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 5 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhg/52.ts
+
