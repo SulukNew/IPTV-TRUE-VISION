@@ -253,18 +253,18 @@ http://51.15.0.231:8000/live/albboxi3.0/kanalet222/236.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",AL: TRING SPORT 4 HD
 http://51.15.0.231:8000/live/albboxi3.0/kanalet222/237.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV + HD
-http://m-iptv.net:6204/smart11/smart11/8809
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 1 HD
-http://m-iptv.net:6204/smart11/smart11/8807
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 2 HD
-http://m-iptv.net:6204/smart11/smart11/8805
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 3 HD
-http://m-iptv.net:6204/smart11/smart11/8803
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 4 HD
-http://m-iptv.net:6204/smart11/smart11/8801
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 5 HD
-http://m-iptv.net:6204/smart11/smart11/8800
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV+ FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/2324
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 1 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4445
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 2 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4444
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 3 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4443
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 4 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4441
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",PT: SPORT TV 5 FHD
+http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/4439
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",beIN 1 HD
 http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/21.ts
@@ -297,6 +297,25 @@ http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/38.ts
 http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/39.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",beIN 3 France
 http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/40.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 1 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11711
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 2 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11710
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 3 HD
+http://server.internext.tv:8080/gaurav/gaurav123/11709
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 4 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11708
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 5 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11707
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 6 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11706
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 7 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11705
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 8 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11704
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",FR: beIN SPORTS 9 MAX
+http://server.internext.tv:8080/gaurav/gaurav123/11703
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Sky Sports Main Event
 http://46.4.69.169:8000/live/boshkash@38766567sss/bzBY5n:k@wWv3}b!!/43.ts
@@ -356,6 +375,15 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts
 #EXTVLCOPT:http-user-agent=freeapppsss
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Fox Sports 5 HD NL
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",NL: Ziggo Sport Extra1
+http://server.internext.tv:8080/gaurav/gaurav123/36327
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",NL: Ziggo Sport Extra2
+http://server.internext.tv:8080/gaurav/gaurav123/36341
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",NL: Ziggo Sport Select HD
+http://server.internext.tv:8080/gaurav/gaurav123/36329
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",NL: Ziggo Voetbal
+http://server.internext.tv:8080/gaurav/gaurav123/36345
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/8cMqNVrY/IP7.png" group-title="SP♥RT_ 2",Super SPORT 1 HD
 http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/48.ts
