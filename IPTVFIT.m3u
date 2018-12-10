@@ -512,19 +512,19 @@ http://yacinetv1.ddns.net:8000/beinhd10/beinhd10/207
 
 #EXTVLCOPT:http-user-agent=yacinetv1234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN BOX OFFICE 1
-http://yacinetv1.ddns.net:8000/OSN05/OSN05/32.ts
+http://yacinetv1.ddns.net:8000/live/OSN05/OSN05/32.ts
 #EXTVLCOPT:http-user-agent=yacinetv1234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN MOVIES HD
-http://yacinetv1.ddns.net:8000/OSN05/OSN05/36.ts
+http://yacinetv1.ddns.net:8000/live/OSN05/OSN05/36.ts
 #EXTVLCOPT:http-user-agent=yacinetv1234.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN NAT GEO WILD
-http://yacinetv1.ddns.net:8000/OSN05/OSN05/38.ts
+http://yacinetv1.ddns.net:8000/live/OSN05/OSN05/38.ts
 #EXTVLCOPT:http-user-agent=yacinetv1234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN MOVIES FIRST
-http://yacinetv1.ddns.net:8000/OSN05/OSN05/112.ts
+http://yacinetv1.ddns.net:8000/live/OSN05/OSN05/112.ts
 #EXTVLCOPT:http-user-agent=yacinetv1234
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN MOVIES THRILLER
-http://yacinetv1.ddns.net:8000/OSN05/OSN05/114.ts
+http://yacinetv1.ddns.net:8000/live/OSN05/OSN05/114.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: OSN Movies Action  2 HD
 http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/6227.ts
