@@ -555,33 +555,36 @@ http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/6209.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",OSN: Movies Action
 http://whiteip.doesntexist.com:1453/live/james.cameron937/iefrhb4rgb6784/6214.ts
 
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN Sport 1 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/52.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 2 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/53.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 3 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/54.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 4 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/55.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 5 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/56.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 6 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/57.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 7 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/58.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 8 HD (AR).
-http://51.15.3.71:8000/live/albi322/kanale666/59.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN Sorts 9 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/60.ts
-#EXTVLCOPT:http-user-agent=999cnxk3c
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",BeIN SPORTS 10 HD (AR)
-http://51.15.3.71:8000/live/albi322/kanale666/61.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD1
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/300.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD2
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/301.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD3
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/302.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD4
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/303.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD5
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/304.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD6
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/305.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD7
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/306.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD8
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/307.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD9
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/308.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD10
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/309.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD11
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/310.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD12
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/311.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD13
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/312.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD14
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/313.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD15
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/314.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/MZmVYf32/BEIN.png" group-title="BE♥IN",AR: beIN SPORTS HD16
+http://iptv-sultan.ddns.net:8000/live/sultaniptv/sznER44ix9/315.ts
+
