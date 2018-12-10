@@ -120,69 +120,70 @@ http://145.239.65.29:6511/live/novaspert4x45/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT HIGHLIGHT
 http://145.239.65.29:6511/live/othalits/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 1
-http://145.239.65.29:6511/live/OteSPORT1as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport1as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 2 
-http://145.239.65.29:6511/live/OteSPORT2as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport2as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 3
-http://145.239.65.29:6511/live/OteSPORT3as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport3as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 4
-http://145.239.65.29:6511/live/OteSPORT4as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport4as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 5
-http://145.239.65.29:6511/live/OteSPORT5as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport5as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 6
 http://145.239.65.29:6511/live/otesport612321/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 7
-http://145.239.65.29:6511/live/OteSPORT7as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport7as/mpegts?token=fotmpe1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",OTE SPORT 8
-http://145.239.65.29:6511/live/OteSPORT8as/mpegts?token=fotmpe1
+http://145.239.65.29:6511/live/OteSport8as/mpegts?token=fotmpe1
 
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 1 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD1.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 2 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD2.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 3 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD3.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 4 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD4.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 5 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD5.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 6 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD6.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 7 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD7.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 8 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD8.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 9 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD9.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 10 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD10.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 11 HD ENG (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD11.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 12 HD ENG (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD12.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 13 HD FR (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD13.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 14 HD FR (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD14.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 15 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD15.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",BeIN SPORTS 16 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD16.m3u8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8
 
 #EXTVLCOPT:http-user-agent=328asdhmcc
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="SP♥RT_1",EX-YU: Arena SPORT 1 HR
