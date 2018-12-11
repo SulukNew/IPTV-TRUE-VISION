@@ -153,6 +153,37 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 1 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17073
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 2 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17072
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 3 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17071
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 4 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17070
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 5 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17069
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 6 EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17068
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet Sport HD EPL VIP Sports
+http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17067
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/8653
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/8652
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/8651
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes sport 4 HD
+http://smart-hdip.com:6204/zamir/zamir/8650
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 5 HD
+http://smart-hdip.com:6204/zamir/zamir/8648
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 5 Gold
+http://smart-hdip.com:6204/zamir/zamir/8649
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 5 Plus Live HD
+http://smart-hdip.com:6204/zamir/zamir/8647
+
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",MySports FHD CH
 http://portal.geniptv.com:8080/yUVUhh2JfV/Lyqu7XzTfQ/8081
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",MySports 1 FHD CH
