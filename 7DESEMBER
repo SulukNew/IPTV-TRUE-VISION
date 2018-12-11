@@ -402,6 +402,17 @@ http://portal.geniptv.com:8080/Y62iGO9DHS/USjaQFo5Ql/15041
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BoutQ Sports 7 HD VIP ARB
 http://portal.geniptv.com:8080/Y62iGO9DHS/USjaQFo5Ql/15040
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/48.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 2 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/9.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 3 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/50.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 4 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/51.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 5 HD
+http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/52.ts
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 1 HD GR
 http://portal.geniptv.com:8080/Y62iGO9DHS/USjaQFo5Ql/5702
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sport 2 HD GR
@@ -762,16 +773,4 @@ http://server.internext.tv:8080/gaurav/gaurav123/34454
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",AR: BEOUTQ 7 HD
 http://server.internext.tv:8080/gaurav/gaurav123/34453
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5+
-http://178.128.101.58:8090/live/kempzal/zal/14.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",CCTV5
-http://178.128.101.58:8090/live/kempzal/zal/193.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP1
-http://178.128.101.58:8090/live/kempzal/zal/7.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP2
-http://178.128.101.58:8090/live/kempzal/zal/8.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP3
-http://178.128.101.58:8090/live/kempzal/zal/9.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="G♥AL",ASSP4
-http://178.128.101.58:8090/live/kempzal/zal/10.ts
 
