@@ -50,6 +50,17 @@ http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/46.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",TRING SPORT 4 HD
 http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/47.ts
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",PT: SPORT TV 1
+http://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",PT: SPORT TV 2
+http://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",PT: SPORT TV 3
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",PT: SPORT TV 4
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",PT: SPORT TV 5
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1
 http://163.172.86.57:3135/Ten/1/index.m3u8?token=YmE0MzM4Y2E0ZmE1YzAzYWZmMWNjOGY1MzVlYTMxMjc6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 2
