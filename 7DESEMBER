@@ -153,20 +153,18 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 1 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17073
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 2 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17072
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 3 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17071
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 4 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17070
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 5 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17069
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet 6 EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17068
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Skynet Sport HD EPL VIP Sports
-http://portal2.geniptv.com:8080/ThNPokertu/KIUNs429Vy/17067
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Star Sports 1 HD
+http://magnum-ott.net:80/live/Malika/Malika2018/34493.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Star Sports 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34491.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Star Sports Select 1 HD
+http://magnum-ott.net:80/live/Malika/Malika2018/34489.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Star Sports Select 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34488.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",F1 HD
+http://magnum-ott.net:80/live/Malika/Malika2018/21317.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",MOTO GP HD
+http://magnum-ott.net:80/live/Malika/Malika2018/21288.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Is- Yes Sport 1 HD
 http://smart-hdip.com:6204/zamir/zamir/8653
