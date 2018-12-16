@@ -108,6 +108,26 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+#EXTINF:-1,BTV CINEMA
+http://84.43.207.130/btvcinema/btvcinema.m3u8
+#EXTINF:-1,SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1,FOX
+http://cdn3.vtcplay.vn:1935/VTC/smil:FOXHD.smil/chunklist.m3u8
+#EXTINF:-1,FOX MOVIE
+http://cdn3.vtcplay.vn:1935/VTC/smil:FoxMoviesHD.smil/chunklist.m3u8
+
+#EXTINF:-1,HBO HD
+http://60.248.127.231:8012/0.ts
+#EXTINF:-1,三立台湾台
+http://60.248.127.231:8029/0.ts
+#EXTINF:-1,MTV HD
+http://60.248.127.231:8081/0.ts
+#EXTINF:-1,LOOK HD 18
+http://60.248.127.231:8006/0.ts
+#EXTINF:-1,NATGEO WILD
+http://60.248.127.231:8038/0.ts
+
 #EXTINF:-1,MOVIES ASIA 1
 http://forzatv.tk:8080/live/lucky/444555/2469.ts
 #EXTINF:-1,MOVIES ASIA 2
@@ -172,53 +192,76 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 1 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD1.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 2 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD2.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 3 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD3.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 4 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD4.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 5 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD5.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 6 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD6.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 7 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD7.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 8 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD8.m3u8
-#EXTINF:-1,BeIN SPORTS 9 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD9.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 10 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD10.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 11 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD11.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 12 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD12.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 13 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD13.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 14 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD14.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 15 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD15.m3u8
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,BeIN SPORTS 16 HD (VIP)
-http://95.170.215.120/hls/m3u8/Bein-SPORT-HD16.m3u8
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4653
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4652
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4651
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4738
+#EXTINF:-1,Discovery Family HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4657
+#EXTINF:-1,Discovery IDX HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4658
+#EXTINF:-1,Disney Channel HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4656
+#EXTINF:-1,Disney Junior
+http://2111.space:25461/admin_544672/HZw0YpV9/4655
+#EXTINF:-1,Disney_XD
+http://2111.space:25461/admin_544672/HZw0YpV9/4654
+#EXTINF:-1,First HBO HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4682
+#EXTINF:-1,MOVIES
+http://2111.space:25461/admin_544672/HZw0YpV9/4687
+#EXTINF:-1,MOVIES ACTION
+http://2111.space:25461/admin_544672/HZw0YpV9/4686
+#EXTINF:-1,STAR MOVIES HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4670
+#EXTINF:-1,STAR WORLD HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4669
+
+#EXTINF:-1,BeinSport1 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1316
+#EXTINF:-1,BeinSport2 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1315
+#EXTINF:-1,BeinSport3 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1314
+#EXTINF:-1,BeinSport4 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1313
+#EXTINF:-1,BeinSport5 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1312
+#EXTINF:-1,BeinSport6 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1311
+#EXTINF:-1,BeinSport7 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1310
+#EXTINF:-1,BeinSport8 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1309
+#EXTINF:-1,BeinSport9 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1308
+#EXTINF:-1,BeinSport10 HD
+http://2111.space:25461/admin_544672/HZw0YpV9/1307
+
+#EXTINF:-1,Sky_Premier_Sport
+http://2111.space:25461/admin_544672/HZw0YpV9/4874
+#EXTINF:-1,Sky_Sport_MIX
+http://2111.space:25461/admin_544672/HZw0YpV9/4873
+#EXTINF:-1,Sky_Sports_Cricket
+http://2111.space:25461/admin_544672/HZw0YpV9/4858
+#EXTINF:-1,Sky_Sports_Main_Event
+http://2111.space:25461/admin_544672/HZw0YpV9/4855
+#EXTINF:-1,Sky_Sports_Football
+http://2111.space:25461/admin_544672/HZw0YpV9/4854
+#EXTINF:-1,Sky_Sports_Premier_League
+http://2111.space:25461/admin_544672/HZw0YpV9/4853
+#EXTINF:-1,Sky Sport Serie A
+http://2111.space:25461/admin_544672/HZw0YpV9/4917
+#EXTINF:-1,Sky Sport 24
+http://2111.space:25461/admin_544672/HZw0YpV9/4916
+#EXTINF:-1,Sky Sport F1
+http://2111.space:25461/admin_544672/HZw0YpV9/4897
+#EXTINF:-1,Sky Sport Uno HD
+http://2111.space:25461/admin_544672/HZw0YpV9/4896
 
 #EXTINF:-1,CCTV5+
 http://178.128.101.58:8090/live/kempzal/zal/14.ts
@@ -314,8 +357,6 @@ http://163.172.86.59:3135/Espn/BT/index.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,KUWAIT ONE
-http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
 #EXTINF:-1,WWE TV
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
