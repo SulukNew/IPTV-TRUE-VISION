@@ -403,82 +403,54 @@ http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0M
 #EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/PNsHnckc/D8.png" group-title="SPORT♥ASIA",Sony ESPN
 http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3466
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: Sport TV 2
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3462
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV1
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3461
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 3
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3463
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 4
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3464
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 5
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3465
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 1 HD FR
+http://134.19.181.172:8000/we345/we345/1628
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 2 HD FR
+http://134.19.181.172:8000/we345/we345/1635
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 3 HD FR
+http://134.19.181.172:8000/we345/we345/1581
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 1 HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2220
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 2 HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2262
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: Bein Sports 3 HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2263
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 1 HD
+http://134.19.181.172:8000/we345/we345/739
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 2 HD
+http://134.19.181.172:8000/we345/we345/740
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 3 HD
+http://134.19.181.172:8000/we345/we345/741
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 4 HD
+http://134.19.181.172:8000/we345/we345/742
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 5 HD
+http://134.19.181.172:8000/we345/we345/743
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 6 HD
+http://134.19.181.172:8000/we345/we345/744
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 7 HD
+http://134.19.181.172:8000/we345/we345/745
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 8 HD
+http://134.19.181.172:8000/we345/we345/746
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 9 HD
+http://134.19.181.172:8000/we345/we345/747
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 10 HD
+http://134.19.181.172:8000/we345/we345/748
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 11 HD
+http://134.19.181.172:8000/we345/we345/749
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 12 HD
+http://134.19.181.172:8000/we345/we345/750
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 4
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2219
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 5
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2221
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 6
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2222
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 7
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2223
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 8
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/2224
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 9
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3420
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",FR: BeIN SPORTS MAX 10
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/3421
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 1HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/203
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 2HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1502
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 3HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1383
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: beIN Sports 4HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1381
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 5HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/207
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 6HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1435
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 7HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1382
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: bein Sports 8HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1415
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: bein Sports 9HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1380
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 10HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1501
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 11HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1450
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORTS 12HD
-http://roiduiptv.ddns.net:9000/medoum1-xcdr/hbukoRUZwH/1503
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 1 HD
-http://ipsatpro.biz:8080/yan2/yan2/2806
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 2 HD
-http://ipsatpro.biz:8080/yan2/yan2/2807
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 3 HD
-http://ipsatpro.biz:8080/yan2/yan2/2808
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 4 HD
-http://ipsatpro.biz:8080/yan2/yan2/2809
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 5 HD
-http://ipsatpro.biz:8080/yan2/yan2/2810
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 6 HD
-http://ipsatpro.biz:8080/yan2/yan2/2811
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 7 HD
-http://ipsatpro.biz:8080/yan2/yan2/2812
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 8 HD
-http://ipsatpro.biz:8080/yan2/yan2/2813
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 1
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30058
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 2
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30059
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 3
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30060
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 4
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30061
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 5
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30062
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 6
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30063
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 7
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30064
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR:COSMOTE SPORT 8
+http://live.darkside-iptv.com:8080/KostasRa/74886916480/30065
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
 http://163.172.211.229:8000/live/ashkcdggy/sphsrsfrhgtrap/48.ts
