@@ -199,6 +199,27 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
 
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports HD
+http://mypanel.tv:80/diti/diti1234/5396
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 1
+http://mypanel.tv:80/diti/diti1234/5395
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 2
+http://mypanel.tv:80/diti/diti1234/5394
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 3
+http://mypanel.tv:80/diti/diti1234/5393
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 4
+http://mypanel.tv:80/diti/diti1234/5392
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 5
+http://mypanel.tv:80/diti/diti1234/5391
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,Skynet Sports 6
+http://mypanel.tv:80/diti/diti1234/5390
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,SPORT KLUB HD 1
+http://mypanel.tv:80/diti/diti1234/625227
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,SPORT KLUB HD 2
+http://mypanel.tv:80/diti/diti1234/7088
+#EXTINF:0 tvg-id=““ tvg-logo=“https://i.postimg.cc/P5MCKbWh/D1.png” group-title=“WORLD♥SPORT”,SPORT KLUB HD 3
+http://mypanel.tv:80/diti/diti1234/7087
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
 http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/48.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 2 HD
