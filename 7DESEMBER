@@ -459,6 +459,15 @@ http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/51.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 5 HD
 http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/52.ts
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT HD
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/208/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT 
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT (1+) 
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/160/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",TENNIS 
+http://61.216.177.73/sta/ch91865001.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sports 1
 http://xxultraxx.com:80/fazli/fazli/8149
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",OTE Sports 2
