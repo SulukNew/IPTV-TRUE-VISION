@@ -46,72 +46,57 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",BeinHD: FOX MOVIES
-http://xxultraxx.com:80/fazli/fazli/8130
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",BeinHD: FOX MOVIES ACTION
-http://xxultraxx.com:80/fazli/fazli/8131
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",BeinHD: FOX MOVIES FAMILY
-http://xxultraxx.com:80/fazli/fazli/8132
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",BeinHD: Movies Premiere HD1
-http://xxultraxx.com:80/fazli/fazli/1471
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",BeinHD: Movies Action HD2
-http://xxultraxx.com:80/fazli/fazli/1472
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies  2 HD AR
+http://mypanel.tv:80/Matt/Matt1234/8842
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Action  2 HD AR
+http://mypanel.tv:80/Matt/Matt1234/8871
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Action ARB
+http://mypanel.tv:80/Matt/Matt1234/5916
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 1 ARB
+http://mypanel.tv:80/Matt/Matt1234/8840
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 2 HD AR
+http://mypanel.tv:80/Matt/Matt1234/8869
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 3 HD AR
+http://mypanel.tv:80/Matt/Matt1234/8854
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Comedy ARB
+http://mypanel.tv:80/Matt/Matt1234/5905
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Drama AR
+http://mypanel.tv:80/Matt/Matt1234/5892
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Drama HD ARB
+http://mypanel.tv:80/Matt/Matt1234/4123
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Family HD AR
+http://mypanel.tv:80/Matt/Matt1234/4122
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Festival ARB
+http://mypanel.tv:80/Matt/Matt1234/5917
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies First HD ARB
+http://mypanel.tv:80/Matt/Matt1234/4121
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies HD AR
+http://mypanel.tv:80/Matt/Matt1234/8868
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Kids HD AR
+http://mypanel.tv:80/Matt/Matt1234/4119
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Premiere +2 ARB
+http://mypanel.tv:80/Matt/Matt1234/5898
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Premiere ARB
+http://mypanel.tv:80/Matt/Matt1234/5899
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies HD
-http://xxultraxx.com:80/fazli/fazli/9451
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Action HD
-http://xxultraxx.com:80/fazli/fazli/9445
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Thriller
-http://xxultraxx.com:80/fazli/fazli/9447
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Comedy HD
-http://xxultraxx.com:80/fazli/fazli/9442
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Thriller+2
-http://xxultraxx.com:80/fazli/fazli/9440
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies First
-http://xxultraxx.com:80/fazli/fazli/9449
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Kids
-http://xxultraxx.com:80/fazli/fazli/9443
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN First HBO HD
-http://xxultraxx.com:80/fazli/fazli/9425
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Syfy HD
-http://xxultraxx.com:80/fazli/fazli/9424
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Series HD
-http://xxultraxx.com:80/fazli/fazli/9429
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Series First HD
-http://xxultraxx.com:80/fazli/fazli/9428
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Series Comedy
-http://xxultraxx.com:80/fazli/fazli/9427
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star Movie
-http://xxultraxx.com:80/fazli/fazli/9418
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star World HD
-http://xxultraxx.com:80/fazli/fazli/9417
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN OutDoor
-http://xxultraxx.com:80/fazli/fazli/9412
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN TLC HD
-http://xxultraxx.com:80/fazli/fazli/9419
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN VH-1
-http://xxultraxx.com:80/fazli/fazli/9376
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Animal Planet HD
-http://xxultraxx.com:80/fazli/fazli/9411
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN National Geographic HD
-http://xxultraxx.com:80/fazli/fazli/9410
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Nat GEO Wild HD
-http://xxultraxx.com:80/fazli/fazli/9409
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN NAT GEO People HD
-http://xxultraxx.com:80/fazli/fazli/9408
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Turbo Xtra
-http://xxultraxx.com:80/fazli/fazli/9405
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Channel HD
-http://xxultraxx.com:80/fazli/fazli/9407
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Life HD
-http://xxultraxx.com:80/fazli/fazli/9404
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Science HD
-http://xxultraxx.com:80/fazli/fazli/9406
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Crime & Investigation
-http://xxultraxx.com:80/fazli/fazli/9400
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN History Channel HD
-http://xxultraxx.com:80/fazli/fazli/9402
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star Movies ARB
+http://mypanel.tv:80/Matt/Matt1234/5914
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star World ARB
+http://mypanel.tv:80/Matt/Matt1234/5913
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 1 HD AR
+http://mypanel.tv:80/Matt/Matt1234/4137
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 2 HD AR
+http://mypanel.tv:80/Matt/Matt1234/4136
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 3 HD AR
+http://mypanel.tv:80/Matt/Matt1234/4135
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 4 HD AR
+http://mypanel.tv:80/Matt/Matt1234/4134
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Series HD AR
+http://mypanel.tv:80/Matt/Matt1234/8819
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery ID FHD ARB
+http://mypanel.tv:80/Matt/Matt1234/5903
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Science ARB
+http://mypanel.tv:80/Matt/Matt1234/5894
 
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
