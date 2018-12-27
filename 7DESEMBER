@@ -917,6 +917,34 @@ http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
 http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BEIN SPORTS US
+http://gorilladick4.us:2086/live/dog4life/dog4life/350.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BEIN SPORTS ESP
+http://gorilladick4.us:2086/live/dog4life/dog4life/1668.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SPORTS 1 US
+http://gorilladick4.us:2086/live/dog4life/dog4life/541.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SPORTS 2 US
+http://gorilladick4.us:2086/live/dog4life/dog4life/384.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SOCCER PLUS US
+http://gorilladick4.us:2086/live/dog4life/dog4life/1502.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",CARS TV
+http://gorilladick4.us:2086/live/dog4life/dog4life/1725.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",NBCSN
+http://gorilladick4.us:2086/live/dog4life/dog4life/367.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TENNIS
+http://gorilladick4.us:2086/live/dog4life/dog4life/517.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",WWE
+http://gorilladick4.us:2086/live/dog4life/dog4life/542.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
 http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
@@ -975,6 +1003,19 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS ESPN
 http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",DISCOVERY HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/402.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",DISCOVERY SCIENCE HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/465.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",NATIONAL GEOGRAPHIC HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/537.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",NAT GEO WILD HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/358.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",SCI
 http://80.80.160.168/live/9/live.m3u8
