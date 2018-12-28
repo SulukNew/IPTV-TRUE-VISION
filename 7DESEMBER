@@ -46,37 +46,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Star Movies HD
-http://x.mytvxweb.co:25461/5196/5196/13845
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Star World HD
-http://x.mytvxweb.co:25461/5196/5196/13844
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Movies 2 HD
-http://x.mytvxweb.co:25461/5196/5196/13866
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Movies Action 2 HD
-http://x.mytvxweb.co:25461/5196/5196/13865
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN MOVIES ACTION HD
-http://x.mytvxweb.co:25461/5196/5196/13974
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Movies Premiere 2HD
-http://x.mytvxweb.co:25461/5196/5196/13861
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Movies Premiere HD
-http://x.mytvxweb.co:25461/5196/5196/1034
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN MTV LIVE HD
-http://x.mytvxweb.co:25461/5196/5196/13860
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Nat Geo HD
-http://x.mytvxweb.co:25461/5196/5196/13859
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Nat Geo People HD
-http://x.mytvxweb.co:25461/5196/5196/13858
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: OSN Nat Geo Wild HD
-http://x.mytvxweb.co:25461/5196/5196/13857
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: BeIN Movies 1HD-
-http://x.mytvxweb.co:25461/5196/5196/13738
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: BeIN Movies 2HD-
-http://x.mytvxweb.co:25461/5196/5196/13737
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: BeIN Movies 3HD-
-http://x.mytvxweb.co:25461/5196/5196/13736
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",AR: BeIN Movies 4HD-
-http://x.mytvxweb.co:25461/5196/5196/13735
-
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
