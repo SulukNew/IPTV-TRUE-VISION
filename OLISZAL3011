@@ -46,58 +46,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies  2 HD AR
-http://mypanel.tv:80/Matt/Matt1234/8842
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Action  2 HD AR
-http://mypanel.tv:80/Matt/Matt1234/8871
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Action ARB
-http://mypanel.tv:80/Matt/Matt1234/5916
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 1 ARB
-http://mypanel.tv:80/Matt/Matt1234/8840
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 2 HD AR
-http://mypanel.tv:80/Matt/Matt1234/8869
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Box Office 3 HD AR
-http://mypanel.tv:80/Matt/Matt1234/8854
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Comedy ARB
-http://mypanel.tv:80/Matt/Matt1234/5905
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Drama AR
-http://mypanel.tv:80/Matt/Matt1234/5892
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Drama HD ARB
-http://mypanel.tv:80/Matt/Matt1234/4123
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Family HD AR
-http://mypanel.tv:80/Matt/Matt1234/4122
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Festival ARB
-http://mypanel.tv:80/Matt/Matt1234/5917
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies First HD ARB
-http://mypanel.tv:80/Matt/Matt1234/4121
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies HD AR
-http://mypanel.tv:80/Matt/Matt1234/8868
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Kids HD AR
-http://mypanel.tv:80/Matt/Matt1234/4119
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Premiere +2 ARB
-http://mypanel.tv:80/Matt/Matt1234/5898
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Movies Premiere ARB
-http://mypanel.tv:80/Matt/Matt1234/5899
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star Movies ARB
-http://mypanel.tv:80/Matt/Matt1234/5914
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Star World ARB
-http://mypanel.tv:80/Matt/Matt1234/5913
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 1 HD AR
-http://mypanel.tv:80/Matt/Matt1234/4137
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 2 HD AR
-http://mypanel.tv:80/Matt/Matt1234/4136
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 3 HD AR
-http://mypanel.tv:80/Matt/Matt1234/4135
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Movie 4 HD AR
-http://mypanel.tv:80/Matt/Matt1234/4134
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",beIN Series HD AR
-http://mypanel.tv:80/Matt/Matt1234/8819
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery ID FHD ARB
-http://mypanel.tv:80/Matt/Matt1234/5903
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="REL♥X",OSN Discovery Science ARB
-http://mypanel.tv:80/Matt/Matt1234/5894
-
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
@@ -117,85 +65,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS VICELAND
 http://101.164.249.39:9981/stream/channelid/494532640?ticket=98F155F64595706AA027460754ED8D2CA37D82BD&profile=pass
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER TV
-http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES [AR]
-http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD
-http://60.248.127.231:8012/0.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NATGEO WILD
-http://60.248.127.231:8038/0.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BLOOMBERG
-http://198.251.99.4:8764/hls/m3u8/225-2002.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX life
-http://210.210.155.35/uq2663/h/h03/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX
-http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Metro TV
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Sony Channel
-http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",KIX
-http://210.210.155.35/uq2663/h/h07/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NATIONAL GEOGRAPHIC
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY ONE
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX SPORTS 2
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NHK WORLD
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NEW ASIA CHANNEL
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TVRI SPORTS
-http://210.210.155.35/qwr9ew/s/s48/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CNTV 2
-http://210.210.155.35/qwr9ew/s/s29/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RTP
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TBN
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",U Channel
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS
-http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",IN TV
-http://210.210.155.35/qwr9ew/s/s46/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",UA TV
-http://210.210.155.35/qwr9ew/s/s47/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Metro TV
-http://210.210.155.35/qwr9ew/s/s49/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DAAI TV
-http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY CINEMA
-http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",50
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Al Jazeera eng
-http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",J Channel
-http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SUPER Soccer TV
-http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Mediacorp Ch. A
-http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Celestial Movie
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Kix
-http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ZEE Bioskop
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -233,40 +102,35 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CNTV 2
+http://210.210.155.35/qwr9ew/s/s29/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RTP
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TBN
+http://210.210.155.35/qwr9ew/s/s39/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",U Channel
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",IN TV
+http://210.210.155.35/qwr9ew/s/s46/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",UA TV
+http://210.210.155.35/qwr9ew/s/s47/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FASHION TV MIDNITE
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MOVIES NOW
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",&FLIX HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",&PRIVE HD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",&PICTURES HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fashion and Life Style
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fashion Top Model
-http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fashion Destination
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fashion For Men
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b4700000_t64MTA4MHA==.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fashion Runway
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FASHION MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RAI MOVIE HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BTV CINEMA
-http://84.43.207.130/btvcinema/btvcinema.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY MOVIE
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX
-http://cdn3.vtcplay.vn:1935/VTC/smil:FOXHD.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIE
-http://cdn3.vtcplay.vn:1935/VTC/smil:FoxMoviesHD.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Al Jazeera eng
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",J Channel
+http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TVRI SPORTS
+http://210.210.155.35/qwr9ew/s/s48/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Metro TV
+http://210.210.155.35/qwr9ew/s/s49/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NEW ASIA CHANNEL
+http://210.210.155.35/uq2663/h/h29/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Astro Sport 1
 http://203.154.243.89:1204
@@ -278,52 +142,94 @@ http://203.154.243.89:1207
 http://203.154.243.89:1211
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Fox Sport HD
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport1-hd&type=m3u
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IN: Star Sports 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8056.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IN: Star Sports 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8055.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 1 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3356
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 2 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3357
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 3 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3358
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 4 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3572
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 5 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3573
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 6 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3574
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 7 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3575
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 8 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3576
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 9 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3607
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 10 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3608
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 11 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3609
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: BEIN SPORTS 12 FHD
-http://localhd.tv:8081/bdcmf111/VVL6WTvRj6/3610
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SUPER SOCCER TV
+http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 2
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ELEVEN SPORT 1
+http://cdn7.woideas.com/tv11.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport1 HD
-http://xxultraxx.com:80/fazli/fazli/26003
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport2 HD
-http://xxultraxx.com:80/fazli/fazli/26002
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport3 HD
-http://xxultraxx.com:80/fazli/fazli/26001
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport4 HD
-http://xxultraxx.com:80/fazli/fazli/26000
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport5 GOLD HD
-http://xxultraxx.com:80/fazli/fazli/25995
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport5 HD
-http://xxultraxx.com:80/fazli/fazli/25999
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport5 Live HD
-http://xxultraxx.com:80/fazli/fazli/25998
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: YES Sport5 Plus HD
-http://xxultraxx.com:80/fazli/fazli/25996
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS HD
+http://niobzca.cf:8080/besnik/besnik123/126211
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 1
+http://niobzca.cf:8080/besnik/besnik123/142067
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS  2
+http://niobzca.cf:8080/besnik/besnik123/94098
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 3
+http://niobzca.cf:8080/besnik/besnik123/74629
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 4
+http://niobzca.cf:8080/besnik/besnik123/114868
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 5
+http://niobzca.cf:8080/besnik/besnik123/142070
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 6
+http://niobzca.cf:8080/besnik/besnik123/142071
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS HD
+http://niobzca.cf:8080/besnik/besnik123/142072
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 1 HD
+http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 2 HD
+http://flussonic3.royaliptvhd.com/BEINSP2/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 3 HD
+http://flussonic3.royaliptvhd.com/BEINSP3/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 4 HD
+http://flussonic3.royaliptvhd.com/BEINSP4/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 5 HD
+http://flussonic3.royaliptvhd.com/BEINSP5/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 6 HD
+http://flussonic3.royaliptvhd.com/BEINSP6/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 7 HD
+http://flussonic3.royaliptvhd.com/BEINSP7/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 8 HD
+http://flussonic3.royaliptvhd.com/BEINSP8/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 9 HD
+http://flussonic3.royaliptvhd.com/BEINSP9/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 10 HD
+http://flussonic3.royaliptvhd.com/BEINSP10/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 11 HD
+http://flussonic3.royaliptvhd.com/BEINSP11/mpegts?token=6Tj3ldeBG1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 12 HD
+http://flussonic3.royaliptvhd.com/BEINSP12/mpegts?token=6Tj3ldeBG1
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports HD
+http://mypanel.tv:80/Matt/Matt1234/5396
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 1
+http://mypanel.tv:80/Matt/Matt1234/5395
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 2
+http://mypanel.tv:80/Matt/Matt1234/5394
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 3
+http://mypanel.tv:80/Matt/Matt1234/5393
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 4
+http://mypanel.tv:80/Matt/Matt1234/5392
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 5
+http://mypanel.tv:80/Matt/Matt1234/5391
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: Skynet Sports 6
+http://mypanel.tv:80/Matt/Matt1234/5390
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS HD
+http://mypanel.tv:80/angelo/angelo1234/5396
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 1
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6438
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 2
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6439
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 3
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6440
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 4
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6441
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 5
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6442
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SP: SKYNET SPORTS 6
+http://mypanel.tv:80/angelo/angelo1234/5390
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MBC Pro Sport 1 AR
+http://mypanel.tv:80/Matt/Matt1234/5880
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MBC Pro Sport 2 AR
+http://mypanel.tv:80/Matt/Matt1234/5879
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MBC Pro Sport 3 AR
+http://mypanel.tv:80/Matt/Matt1234/5878
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MBC Pro Sport 4 AR
+http://mypanel.tv:80/Matt/Matt1234/5877
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
 https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
@@ -376,20 +282,109 @@ http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",ARENA SPORT 4
 http://46.40.5.99:8000/arena_4_high
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 
-http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/2155.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV (1+) 
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3984.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 4 
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 5 
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
+http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/48.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 2 HD
+http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/49.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 3 HD
+http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/50.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 4 HD
+http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/51.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 5 HD
+http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/52.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT HD
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/208/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT 
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",VIASAT SPORT (1+) 
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/160/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",TENNIS 
+http://61.216.177.73/sta/ch91865001.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",MOVISTAR MOTOGP HD
+http://ipsatpro.com:8080/delukskompjuteri/966333366999/1011
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",MOVISTAR F1 HD
+http://ipsatpro.com:8080/delukskompjuteri/966333366999/1010
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sport Action HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10272
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Arena HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10271
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Cricket HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10270
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports F1 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10269
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Football HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10268
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Golf HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10267
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Mix
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10265
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: Sky Sports Premier League HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10263
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: BT SPORT 1 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27637
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: BT SPORT 2 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27636
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: BT SPORT 3 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27635
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: BT SPORT ESPN HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27634
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: EUROSPORT 1 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27632
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: EUROSPORT 2 HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/27631
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: EIR SPORTS HD
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1282
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",USA: FOX SPORTS 1
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29592
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",USA: FOX SPORTS 2
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29591
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 1 GR
+http://mypanel.tv:80/Matt/Matt1234/625229
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 2 GR
+http://mypanel.tv:80/Matt/Matt1234/19479
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 3 HD GR
+http://mypanel.tv:80/Matt/Matt1234/625247
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 3 GR
+http://mypanel.tv:80/Matt/Matt1234/625244
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 3 HD GR
+http://mypanel.tv:80/Matt/Matt1234/625246
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 4 GR
+http://mypanel.tv:80/Matt/Matt1234/19477
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 4 HD GR
+http://mypanel.tv:80/Matt/Matt1234/625245
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 5 HD GR
+http://mypanel.tv:80/Matt/Matt1234/7997
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 6 HD GR
+http://mypanel.tv:80/Matt/Matt1234/7996
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 7 HD GR
+http://mypanel.tv:80/Matt/Matt1234/53433
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Ote Sport 8 HD GR
+http://mypanel.tv:80/Matt/Matt1234/79941
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AFN Spectrum HD US
+http://mypanel.tv:80/Matt/Matt1234/14396
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AFN Sport 1 US
+http://mypanel.tv:80/Matt/Matt1234/14395
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AFN Sport 2 US
+http://mypanel.tv:80/Matt/Matt1234/14394
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AFN Sports HD US
+http://mypanel.tv:80/Matt/Matt1234/4928
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 5
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport1 HD
 http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/48.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport2 HD
@@ -432,6 +427,33 @@ http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/49.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",UK: SKY Sports Mix
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/50.ts
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT NEWS
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/2463
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 1 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/247
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 2 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/248
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 3 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/249
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 4 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/250
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 5 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/311
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 6 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/175
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 7 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/176
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 8 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/177
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 9 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/178
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BEIN SPORT 10 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/380
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BeIN Sports 11 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/31.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: BeIN Sports 12 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/32.ts
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SporTV HD
 http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SporTV2 HD
@@ -469,27 +491,186 @@ http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6958.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 9
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6959.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 1
-http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 2
-http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 3
-http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 4
-http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 5
-http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: FOX SPORTS 1 HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/142
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: FOX SPORTS 2 HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/143
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: NBCSN HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/921
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: BEIN SPORTS
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/29703
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports HD
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2412
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2414
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports 2
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2413
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
-http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/48.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 2 HD
-http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/49.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 3 HD
-http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/50.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 4 HD
-http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/51.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 5 HD
-http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/52.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS ACTION HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27626
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS ARENA HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27625
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS CRICKET HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27624
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS F1 HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27623
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS FOOTBALL HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27622
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS GOLF HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27621
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS MAIN EVENT HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27620
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS MIX HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27619
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS NEWS HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27618
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS PREMIER LEAGUE HD
+http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27617
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: GINX eSports TV
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5946
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Fox Sports 1 Eredivisie HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/572
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Fox Sports 2 Eredivisie HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/573
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Fox Sports 3 Eredivisie
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/574
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Fox Sports 4 Internationaal
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/575
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Fox Sports 5 Eredivisie
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/576
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: FOX SPORTS 6 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4503
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Ziggo Sport Voetbal
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4498
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Ziggo Sport Voetbal HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4501
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Ziggo Sport Select
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4499
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Ziggo Sport Select HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4502
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",NL: Ziggo Sport Racing HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4500
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  SPORT TV+  HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/3601
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  Sport TV 1
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4706
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  Sport TV 2
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4704
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  Sport TV 3
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4702
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  Sport TV 4
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4700
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT:  Sport TV 5
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/4699
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22937
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 1 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22946
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 2 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22945
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 3 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22944
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 4 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22943
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 5 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22942
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 6 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22941
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 7 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22940
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 8 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22939
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",CH: MySports 9 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/22938
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom Sport 1 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15660
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom Sport 2 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15659
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom SPORT 3 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15658
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom SPORT 4 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15657
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom Sport 5 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15656
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",RO: Telekom Sport 6 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/15655
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 01
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5200
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 02
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5199
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 03
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5198
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 04
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5197
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 05
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5196
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 06
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5195
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 07
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5194
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",GR: OTE SPORT 08
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/5193
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS 1 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21715
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS 2 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21714
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS 3 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21713
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS 4 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21712
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS Haber HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21716
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS MAX 1 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21711
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",TR: beIN SPORTS MAX 2 HD
+http://tv.justcccam.info:8080/Z6030RwB8r/4wXrAAFsU0/21710
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: BEIN_LA_LIGA_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/4836
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: MOVISTAR_F1_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/4851
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: MOVISTAR_MOTO_GP_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/4853
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",DE: ORF Sports + HD
+http://ipsatpro.com:8080/delukskompjuteri/966333366999/772
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: Direct Sports 1 
+http://ipsatpro.com:8080/delukskompjuteri/966333366999/2683
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: Direct Sports 2 
+http://ipsatpro.com:8080/delukskompjuteri/966333366999/2684
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA TV HD
+http://playa.mine.nu:44444/iptvking/prueba070217/2656
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES BEIN LA LIGA HD
+http://playa.mine.nu:44444/iptvking/prueba070217/37
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA TV
+http://playa.mine.nu:44444/iptvking/prueba070217/6661
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA 123
+http://playa.mine.nu:44444/iptvking/prueba070217/8617
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT: ELEVEN_SPORT_1_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5113
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT: ELEVEN_SPORT_2_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5111
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT: ELEVEN_SPORT_3_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5109
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT: ELEVEN_SPORT_4_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5108
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",PT: ELEVEN_SPORT_5_HD
+http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5107
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",AL: K Sport 1
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/1876
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",AL: K Sport 2
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/1877
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",AL: K Sport 3
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2737
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",AL: K Sport 4
+http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2738
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",AR: BeIN Sports 1 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/21.ts
@@ -523,44 +704,44 @@ http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/39.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",beIN FR 3 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/40.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: Klub Sport 2
-http://xxultraxx.com:80/fazli/fazli/98
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: Klub Sport 3
-http://xxultraxx.com:80/fazli/fazli/99
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: Kosova Sport 1
-http://xxultraxx.com:80/fazli/fazli/1808
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: Kosova Sport 2
-http://xxultraxx.com:80/fazli/fazli/1809
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 1
-http://xxultraxx.com:80/fazli/fazli/8149
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 2
-http://xxultraxx.com:80/fazli/fazli/8148
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 3
-http://xxultraxx.com:80/fazli/fazli/8147
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 4
-http://xxultraxx.com:80/fazli/fazli/8146
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 5
-http://xxultraxx.com:80/fazli/fazli/8145
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 6
-http://xxultraxx.com:80/fazli/fazli/8144
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 7
-http://xxultraxx.com:80/fazli/fazli/8143
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: OTE Sports 8
-http://xxultraxx.com:80/fazli/fazli/8142
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 1
-http://xxultraxx.com:80/fazli/fazli/9511
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 2
-http://xxultraxx.com:80/fazli/fazli/9512
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 3
-http://xxultraxx.com:80/fazli/fazli/9513
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 4
-http://xxultraxx.com:80/fazli/fazli/9514
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 5
-http://xxultraxx.com:80/fazli/fazli/9515
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport 6
-http://xxultraxx.com:80/fazli/fazli/9516
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",SP: SkyNet Sport HD
-http://xxultraxx.com:80/fazli/fazli/9510
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT TV 5
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BEIN SPORTS US
+http://gorilladick4.us:2086/live/dog4life/dog4life/350.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BEIN SPORTS ESP
+http://gorilladick4.us:2086/live/dog4life/dog4life/1668.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SPORTS 1 US
+http://gorilladick4.us:2086/live/dog4life/dog4life/541.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SPORTS 2 US
+http://gorilladick4.us:2086/live/dog4life/dog4life/384.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",FOX SOCCER PLUS US
+http://gorilladick4.us:2086/live/dog4life/dog4life/1502.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",CARS TV
+http://gorilladick4.us:2086/live/dog4life/dog4life/1725.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",NBCSN
+http://gorilladick4.us:2086/live/dog4life/dog4life/367.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",TENNIS
+http://gorilladick4.us:2086/live/dog4life/dog4life/517.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",WWE
+http://gorilladick4.us:2086/live/dog4life/dog4life/542.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
@@ -622,6 +803,134 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS ESPN
 http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
 
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ESPN
+http://gorilladick4.us:2086/live/dog4life/dog4life/468.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ESPN 2
+http://gorilladick4.us:2086/live/dog4life/dog4life/478.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SPORTS NET WORLD
+http://gorilladick4.us:2086/live/dog4life/dog4life/1087.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",ELEVEN SPORT
+http://gorilladick4.us:2086/live/dog4life/dog4life/2275.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",WARNER BROS
+http://niobzca.cf:8080/besnik/besnik123/142848
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HBO SIGNATURE
+http://gorilladick4.us:2086/live/dog4life/dog4life/346.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HBO FAMILY
+http://gorilladick4.us:2086/live/dog4life/dog4life/341.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HALLMARK
+http://gorilladick4.us:2086/live/dog4life/dog4life/544.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HALLMARK MOVIES & MYSTERIES
+http://gorilladick4.us:2086/live/dog4life/dog4life/431.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES THRILLER
+http://gorilladick4.us:2086/live/dog4life/dog4life/1023.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES SELECT
+http://gorilladick4.us:2086/live/dog4life/dog4life/1022.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES SCI-FI/HORROR
+http://gorilladick4.us:2086/live/dog4life/dog4life/1021.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES PREMIER
+http://gorilladick4.us:2086/live/dog4life/dog4life/1020.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES HITS
+http://gorilladick4.us:2086/live/dog4life/dog4life/1019.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES GREATS
+http://gorilladick4.us:2086/live/dog4life/dog4life/1018.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SKY MOVIES ACTION
+http://gorilladick4.us:2086/live/dog4life/dog4life/1013.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HBO HD
+http://60.248.127.231:8012/0.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SONY ONE
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",FOX life
+http://210.210.155.35/uq2663/h/h03/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sony Channel
+http://210.210.155.35/uq2663/h/h06/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",BTV CINEMA
+http://84.43.207.130/btvcinema/btvcinema.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",MY CINEMA
+http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Mediacorp Ch. A
+http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Celestial Movie
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Kix
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",ZEE Bioskop
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/402.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY SCIENCE HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/465.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",INVESTIGATION DISCOVERY HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/407.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/537.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/358.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/383.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HISTORY HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/425.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",MILITERY HISTORY HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/480.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HGTV HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/412.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD
+http://60.248.127.231:8038/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",SCI
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY
@@ -647,13 +956,23 @@ http://80.80.160.168/live/9/2500000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC", DANGDUTZ
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV LIVE HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/519.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/422.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV CLASSIC HD
+http://gorilladick4.us:2086/live/dog4life/dog4life/1690.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC", Karaoke Channel
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC", MiX Music
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC", TMusic
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",TMusic
 http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
@@ -665,22 +984,16 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",KEENG MUSIC
-http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",ONE
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",O FHD
-http://77.232.128.68/bks.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",KISS TV
-https://fms-https1.mediadirect.ro/live3/kiss/media.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",CMC Music
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",KRAL POP
@@ -689,7 +1002,24 @@ http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",RETRO TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",Vibee TV
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",VIBEE TV
 http://139.59.166.48:8081/live/live3/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",1 Music
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",1 MUSIC
 http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION & LIFESTYLE
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION DESTINATION
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION FOR MEN
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b4700000_t64MTA4MHA==.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION RUNWAY
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",FASHION MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="LOVE♥FASHION",JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
