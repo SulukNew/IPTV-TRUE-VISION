@@ -214,6 +214,21 @@ http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6479
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",AR: OSN SPORTS 4 HD
 http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6480
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/8653
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 2 HD
+http://linux-app.tv:6204/mohammad/mohammad/8652
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 3
+http://linux-app.tv:6204/mohammad/mohammad/8651
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes sport 4
+http://linux-app.tv:6204/mohammad/mohammad/8650
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 Gold
+http://linux-app.tv:6204/mohammad/mohammad/8649
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 HD
+http://linux-app.tv:6204/mohammad/mohammad/8648
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 Plus Live HD
+http://linux-app.tv:6204/mohammad/mohammad/8647
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS HD
 http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/6444
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 1
