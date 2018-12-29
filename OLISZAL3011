@@ -46,6 +46,32 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY LE PLEX HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Le_PLEX_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY PIX HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",MN+ HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=MNPLUS&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",MOVIES NOW X HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now2_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",MOVIES NOW HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",HBO HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=HBO_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",WARNER BROS
+http://www.streamflix.ml/hotstar/m3u82.php?c=WB&q=1200&e=.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY SIX HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Six_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY ESPN HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_ESPN_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY TEN 1 HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Ten_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY TEN 2 HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Ten2_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDI♥PREMIUM",SONY TEN 3 HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Ten3_HD&q=1200&e=.m3u8
+
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
