@@ -201,6 +201,16 @@ http://210.210.155.35/qwr9ew/s/s49/index.m3u8
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NEW ASIA CHANNEL
 http://210.210.155.35/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+HD
+http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+PM HD
+http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+PC HD
+http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+NS HD
+http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",MY: Astro Arena
 http://viper-tv.com:8080/live/ViperTV/ViperStreaming/49.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",MY: Astro Super Sports 1
@@ -280,7 +290,7 @@ http://viper-tv.com:8080/live/ViperTV/ViperStreaming/493.ts
 http://viper-tv.com:8080/live/ViperTV/ViperStreaming/569.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",Star Sports 2 Select
 http://viper-tv.com:8080/live/ViperTV/ViperStreaming/570.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",Skynet Sportsv HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",Skynet Sports HD
 http://viper-tv.com:8080/live/ViperTV/ViperStreaming/401.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",Skynet Sports 1
 http://viper-tv.com:8080/live/ViperTV/ViperStreaming/390.ts
