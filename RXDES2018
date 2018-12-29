@@ -4,21 +4,6 @@ https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1,SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 
-#EXTINF:-1,ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,MY KIDS
-http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1,MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1,CARTOON NETWORK 1
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1,CARTOON NETWORK 2
-http://persik.by/stream/2944/263250/32.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-
 #EXTINF:-1,CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1,RCTI
@@ -82,8 +67,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
-#EXTINF:-1,MOVIES NOW
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+
 #EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,THRILL
@@ -140,18 +124,6 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1,TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
-#EXTINF:-1,TV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
-#EXTINF:-1,TV8
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-3.m3u8
-#EXTINF:-1,TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live-2.m3u8
-#EXTINF:-1,TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1,VASANTHAM
-http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
-#EXTINF:-1,RTM PARLEMENT
-http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:-1,BEIN SPORTS 1 HD
 http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1
@@ -338,29 +310,5 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1,WWE TV
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
-#EXTINF:-1,AD SPORT 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, AD SPORT EXTRA
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-#EXTINF:-1,XLITE MUSIC
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,1HD MUSIC TV
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,CALIFORNIA MUSIC CHANNEL
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,KEENG MUSIC
-http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:-1,M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
