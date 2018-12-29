@@ -541,6 +541,31 @@ http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/1660
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SP: Digi Sport 4
 http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/4806
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 1 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2476
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 2 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2477
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 3 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2478
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 4 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2479
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 5 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2480
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 6 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2481
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 7 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2482
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 8 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2483
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 9 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2484
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 10 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2485
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 11 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2486
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sport 12 HD
+http://smartworld.dyndns.tv:8000/radio/radio/2487
+
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BEIN SPORTS US
 http://gorilladick4.us:2086/live/dog4life/dog4life/350.ts
