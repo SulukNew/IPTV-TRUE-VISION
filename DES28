@@ -184,6 +184,8 @@ http://185.165.243.15:8080/abed/abed/50450
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MYS: ASTRO XIAO TAI YANG
 http://185.165.243.15:8080/abed/abed/50449
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH: HBO HD
+http://185.165.243.15:8080/abed/abed/49902
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH: Fox Movies Action
 http://185.165.243.15:8080/abed/abed/49897
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH: Fox Movies Premium
@@ -278,13 +280,20 @@ http://185.165.243.15:8080/abed/abed/50439
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",PH: BEIN SPORTS 3 HD
 http://185.165.243.15:8080/abed/abed/50438
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 1 HD (ENG)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: TRUE SPORTS 1 HD
+http://185.165.243.15:8080/abed/abed/49836
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: TRUE SPORTS 2 HD
+http://185.165.243.15:8080/abed/abed/49835
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: TRUE SPORTS 3 HD
+http://185.165.243.15:8080/abed/abed/49833
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 1 HD (TRUEVIS)
 http://185.165.243.15:8080/abed/abed/49770
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 2 HD (ENG)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 2 HD (TRUEVIS)
 http://185.165.243.15:8080/abed/abed/49769
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 3 HD (ENG)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 3 HD (TRUEVIS)
 http://185.165.243.15:8080/abed/abed/49768
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 4 HD (ENG)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: BEIN SPORTS 4 HD (TRUEVIS)
 http://185.165.243.15:8080/abed/abed/49767
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",TH: SKYNET SPORT HD
