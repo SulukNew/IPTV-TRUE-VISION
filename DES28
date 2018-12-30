@@ -239,6 +239,15 @@ http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NEW ASIA CHANNEL
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+HD
+http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+PM HD
+http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+PC HD
+http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",K+NS HD
+http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546077151-7c1a9fd1j2e1594f9be0c099
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",MYS: ASTRO SUPERSPORTS 1
 http://185.165.243.15:8080/abed/abed/50458
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",MYS: ASTRO SUPERSPORTS 2
