@@ -78,6 +78,20 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1,SONY LE PLEX HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Le_PLEX_HD&q=1200&e=.m3u8
+#EXTINF:-1,SONY PIX HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+#EXTINF:-1,MN+ HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=MNPLUS&q=1200&e=.m3u8
+#EXTINF:-1,MOVIES NOW X HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now2_HD&q=1200&e=.m3u8
+#EXTINF:-1,MOVIES NOW HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now_HD&q=1200&e=.m3u8
+#EXTINF:-1,HBO HD
+http://www.streamflix.ml/hotstar/m3u82.php?c=HBO_HD&q=1200&e=.m3u8
+#EXTINF:-1,WARNER BROS
+http://www.streamflix.ml/hotstar/m3u82.php?c=WB&q=1200&e=.m3u8
 #EXTINF:-1,FOX MOVIE HTV
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
