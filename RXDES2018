@@ -18,6 +18,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://persik.by/stream/2944/263250/32.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1,ANIPLUS HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1,CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
@@ -174,6 +176,17 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,FOX SPORT 1
+http://203.154.243.32:8088/live/foxsporthd/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 TW
+http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 TW
+http://cdn6.woideas.com/11sp.m3u8
 
 #EXTINF:-1,BEIN SPORTS 1 HD
 http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1
