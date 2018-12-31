@@ -99,6 +99,18 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOX MOVIES ACTION HTV
 http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
 
+#EXTINF:-1,SBS 
+http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
+#EXTINF:-1,SBS VICELAND
+http://101.164.249.39:9981/stream/channelid/494532640?ticket=98F155F64595706AA027460754ED8D2CA37D82BD&profile=pass
+#EXTINF:-1,HBO HD (VIET)
+http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
+#EXTINF:-1,RED by HBO (VIET)
+http://123.29.129.197/v5live.m3u8?c=vstv037&q=high&deviceType=9&userId=24036&deviceId=&type=tv&rkey=12252304YOUSvCN3&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn
+#EXTINF:-1,FOX MOVIES HD (VIET)
+http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
+#EXTINF:-1,WARNER BROS HD (VIET)
+http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
 #EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,THRILL
