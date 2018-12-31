@@ -46,7 +46,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",AXN [indo]
 http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CELESTIAL MOVIES
-http://mikho.org:6969/live/IRTechTV/FreeTrialServer/76.ts
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -470,38 +470,30 @@ http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/71.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport NBA HD
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/67.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 1
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/421.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 2
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/422.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 3
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/423.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 4
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/424.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 5
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/425.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 6
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/426.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 7
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/427.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 8
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/428.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 9
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/429.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 10
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/430.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 11
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/431.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 12
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/432.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 13
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/433.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 14
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/434.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 15
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/435.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",BEIN SPORTS HD 16
-http://67.205.134.170:8000/live/Appsultan/SULTANTEAM/436.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 1 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/739
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 2 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/740
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 3 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/741
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 4 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/742
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 5 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/743
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 6 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/744
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 7 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/745
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 8 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/746
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 9 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/747
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 10 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/748
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 11 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/749
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",AR: Bein Sports 12 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/750
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SporTV HD
 http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
