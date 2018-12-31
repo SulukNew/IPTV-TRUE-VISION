@@ -144,13 +144,13 @@ http://60.248.127.231:8038/0.ts
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?thebestfreeenglishchannels.m3u8
 
 #EXTINF:-1,K+HD
-http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546249951-7c1a9fd1j2e1594f9be0c069
+http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
 #EXTINF:-1,K+PM HD
-http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546249951-7c1a9fd1j2e1594f9be0c069
+http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
 #EXTINF:-1,K+PC HD
-http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546249951-7c1a9fd1j2e1594f9be0c069
+http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
 #EXTINF:-1,K+NS HD
-http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=113d785f3cch31fd469de195kf07ea30-1546249951-7c1a9fd1j2e1594f9be0c069
+http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
 
 #EXTINF:-1,ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -202,30 +202,30 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1,ELEVEN SPORT 2 TW
 http://cdn6.woideas.com/11sp.m3u8
 
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://flussonic3.royaliptvhd.com/BEINSP1/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://flussonic3.royaliptvhd.com/BEINSP2/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://flussonic3.royaliptvhd.com/BEINSP3/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://flussonic3.royaliptvhd.com/BEINSP4/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://flussonic3.royaliptvhd.com/BEINSP5/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://flussonic3.royaliptvhd.com/BEINSP6/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://flussonic3.royaliptvhd.com/BEINSP7/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://flussonic3.royaliptvhd.com/BEINSP8/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://flussonic3.royaliptvhd.com/BEINSP9/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://flussonic3.royaliptvhd.com/BEINSP10/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://flussonic3.royaliptvhd.com/BEINSP11/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://flussonic3.royaliptvhd.com/BEINSP12/mpegts?token=6Tj3ldeBG1
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/739
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/740
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/741
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/742
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/743
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/744
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/745
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/746
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/747
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/748
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/749
+#EXTINF:-1,AR: Bein Sports 12 HD
+http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/750
 
 #EXTINF:-1,BT SPORT 1 HD
 http://31.220.0.86:8081/live/spstreambt1/playlist.m3u8
@@ -392,8 +392,6 @@ http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1,FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,WWE TV
-http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
 #EXTINF:-1,XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
