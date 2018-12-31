@@ -89,44 +89,6 @@ http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CELESTIAL MOVIES
 http://mikho.org:6969/live/IRTechTV/FreeTrialServer/76.ts
 
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY LE PLEX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Le_PLEX_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY PIX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",MN+ HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=MNPLUS&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",MOVIES NOW X HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now2_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",MOVIES NOW HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",HBO HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=HBO_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",WARNER BROS
-http://www.streamflix.ml/hotstar/m3u82.php?c=WB&q=1200&e=.m3u8
-
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY SIX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Six_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY ESPN HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_ESPN_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY TEN 1 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY TEN 2 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten2_HD&q=1200&e=.m3u8
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="INDIA♥PREMIUM",SONY TEN 3 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten3_HD&q=1200&e=.m3u8
-
 #EXTINF:0 tvg-id="DisneyJunior.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
@@ -142,10 +104,32 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS 
 http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS VICELAND
 http://101.164.249.39:9981/stream/channelid/494532640?ticket=98F155F64595706AA027460754ED8D2CA37D82BD&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (VIET)
+http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RED by HBO (VIET)
+http://123.29.129.197/v5live.m3u8?c=vstv037&q=high&deviceType=9&userId=24036&deviceId=&type=tv&rkey=12252304YOUSvCN3&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES HD (VIET)
+http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER BROS HD (VIET)
+http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX ACTION MOVIES HD
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29630
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX FAMILY MOVIES HD
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29629
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX MOVIES HD
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29624
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH: HBO HD
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29392
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH:  Fox Movies Action
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29394
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH:  Fox Movies Premium
+http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29393
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -185,20 +169,6 @@ http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29651
 http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29650
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO XIAO TAI YANG
 http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29649
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX ACTION MOVIES HD
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29630
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX FAMILY MOVIES HD
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29629
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX MOVIES HD
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29624
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH: HBO
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29392
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH:  Fox Movies Action
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29394
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TH:  Fox Movies Premium
-http://iptv-line.com:6969/humlunalti@ezehe.com/Ga8Htu8Kqh/29393
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
