@@ -208,8 +208,6 @@ http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 4 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIACORP OKTO HD
@@ -338,6 +336,8 @@ http://linux-app.tv:6204/mohammad/mohammad/8648
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SP♥RT",IL: Yes Sport 5 Plus Live HD
 http://linux-app.tv:6204/mohammad/mohammad/8647
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Astro Sport 1
 http://203.154.243.89:1204
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Astro Sport 2
