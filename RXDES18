@@ -92,24 +92,36 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,SONY LE PLEX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Le_PLEX_HD&q=1200&e=.m3u8
-#EXTINF:-1,SONY PIX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTINF:-1,MN+ HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=MNPLUS&q=1200&e=.m3u8
-#EXTINF:-1,MOVIES NOW X HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now2_HD&q=1200&e=.m3u8
-#EXTINF:-1,MOVIES NOW HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Movies_Now_HD&q=1200&e=.m3u8
-#EXTINF:-1,HBO HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=HBO_HD&q=1200&e=.m3u8
-#EXTINF:-1,WARNER BROS
-http://www.streamflix.ml/hotstar/m3u82.php?c=WB&q=1200&e=.m3u8
-#EXTINF:-1,FOX MOVIE HTV
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,FOX MOVIES ACTION HTV
-http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1,OSN Movies World HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/531.ts
+#EXTINF:-1,OSN Movies Thriller HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/532.ts
+#EXTINF:-1,OSN Movies HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/524.ts
+#EXTINF:-1,OSN Movies HBO HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/529.ts
+#EXTINF:-1,OSN Movies First HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/528.ts
+#EXTINF:-1,OSN Movies Action HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/526.ts
+#EXTINF:-1,OSN Movies Action  2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/527.ts
+#EXTINF:-1,OSN Movies  2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/525.ts
+#EXTINF:-1,OSN Box Office 3 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
+#EXTINF:-1,OSN Box Office 2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
+#EXTINF:-1,OSN Box Office 1 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
+#EXTINF:-1,beIN Movies 1 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
+#EXTINF:-1,beIN Movies 2 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/34.ts
+#EXTINF:-1,beIN Movies 3 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
+#EXTINF:-1,beIN Movies 4 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
 
 #EXTINF:-1,SBS 
 http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
@@ -144,8 +156,6 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 
 #EXTINF:-1,HBO HD
 http://60.248.127.231:8012/0.ts
-#EXTINF:-1,三立台湾台
-http://60.248.127.231:8029/0.ts
 #EXTINF:-1,MTV HD
 http://60.248.127.231:8081/0.ts
 #EXTINF:-1,LOOK HD 18
@@ -201,18 +211,26 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,Fox Sport HD
-http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport1-hd&type=m3u
-#EXTINF:-1,FOX SPORT 1
-http://203.154.243.32:8088/live/foxsporthd/index.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
-#EXTINF:-1,ELEVEN SPORT 1 TW
-http://cdn7.woideas.com/tv11.m3u8
-#EXTINF:-1,ELEVEN SPORT 2 TW
-http://cdn6.woideas.com/11sp.m3u8
+#EXTINF:-1,SKY Sports Main Event
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/41.ts
+#EXTINF:-1,Sky Sports Premier League
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/42.ts
+#EXTINF:-1,Sky Sports Football
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/43.ts
+#EXTINF:-1,Sky Sports Cricket
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/44.ts
+#EXTINF:-1,Sky Sports Golf
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/45.ts
+#EXTINF:-1,Sky Sports F1
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/46.ts
+#EXTINF:-1,Sky Sports Action
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/47.ts
+#EXTINF:-1,Sky Sports Arena
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/48.ts
+#EXTINF:-1,Sky Sports News
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/49.ts
+#EXTINF:-1,Sky Sports Mix
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/50.ts
 
 #EXTINF:-1,AR: Bein Sports 1 HD
 http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/739
@@ -255,6 +273,8 @@ http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
 
+#EXTINF:-1,SKYNET HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/126211
 #EXTINF:-1,SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=382.ts
 #EXTINF:-1,SKYNET 2
@@ -270,26 +290,26 @@ http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:BE:2F:E6&uid=338
 
 #EXTINF:-1,Sony TEN 1
 http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1,SONY SIX HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Six_HD&q=1200&e=.m3u8
-#EXTINF:-1,SONY ESPN HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Sony_ESPN_HD&q=1200&e=.m3u8
-#EXTINF:-1,SONY TEN 1 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten_HD&q=1200&e=.m3u8
-#EXTINF:-1,SONY TEN 2 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten2_HD&q=1200&e=.m3u8
-#EXTINF:-1,SONY TEN 3 HD
-http://www.streamflix.ml/hotstar/m3u82.php?c=Ten3_HD&q=1200&e=.m3u8
 #EXTINF:-1,SONY ESPN HD
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2688
 #EXTINF:-1,SONY SIX HD
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2699
+#EXTINF:-1,Fox Sport HD
+http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport1-hd&type=m3u
+#EXTINF:-1,FOX SPORT 2
+http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport2-sd&type=m3u
+#EXTINF:-1,FOX SP.3 HD [TW]
+http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
+#EXTINF:-1,FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 TW
+http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 TW
+http://cdn6.woideas.com/11sp.m3u8
 #EXTINF:-1,FOX 2 [Asia]
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1,FOX 3 [Asia]
 http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
-#EXTINF:-1,FOX SP.3 HD [TW]
-http://50.7.73.90:8278/foxsport3hd_twn/playlist.m3u8?tid=m2ea52d09d31418526751&ct=17828&tsum=c53041825db496ef66bc873ec333b7e5
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1,MATCH FOOTBALL 1 HD
@@ -364,10 +384,9 @@ http://31.220.2.149:8081/live/hdq8/playlist.m3u8
 http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1,ELEVEN SPORTS 2
 http://31.220.2.149:8081/live/hdq7/playlist.m3u8
+
 #EXTINF:-1,BEIN SPORTS 1 HD FRANCE
 http://31.220.2.149:8081/live/hdq6/playlist.m3u8
-#EXTINF:-1,BT SPORT ESPN HD
-http://31.220.2.149:8081/live/hdq5/playlist.m3u8
 
 #EXTINF:-1,BT SPORT 1 HD
 http://31.220.3.192:8081/live/fb1/playlist.m3u8
@@ -375,6 +394,8 @@ http://31.220.3.192:8081/live/fb1/playlist.m3u8
 http://31.220.3.192:8081/live/fb2/playlist.m3u8
 #EXTINF:-1,BT SPORT 3 HD
 http://31.220.3.192:8081/live/fb3/playlist.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://31.220.2.149:8081/live/hdq5/playlist.m3u8
 
 #EXTINF:-1,ELEVEN SPORTS 1
 http://31.220.0.194:8081/live/fmix1/playlist.m3u8
@@ -419,8 +440,6 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1,CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,KEENG MUSIC
-http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:-1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,MUSIC CHOICE
