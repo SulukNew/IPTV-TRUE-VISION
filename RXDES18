@@ -166,13 +166,13 @@ http://60.248.127.231:8038/0.ts
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?thebestfreeenglishchannels.m3u8
 
 #EXTINF:-1,K+HD
-http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
+http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=050519843cch31fd469de19505051984-4321163551-vlxx123
 #EXTINF:-1,K+PM HD
-http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
+http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=050519843cch31fd469de19505051984-4321163551-vlxx123
 #EXTINF:-1,K+PC HD
-http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
+http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=050519843cch31fd469de19505051984-4321163551-vlxx123
 #EXTINF:-1,K+NS HD
-http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=300d785f3lol91fd397de195kf07ea30-1546336351-7c1a9kd1j2e1594l9be0c350
+http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=050519843cch31fd469de19505051984-4321163551-vlxx123
 
 #EXTINF:-1,ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -187,7 +187,7 @@ http://ftaokto.akamaized.net/out/v1/d7306938a27b464ca5c3856c7c1f00b5/index.m3u8
 #EXTINF:-1,SURIA
 http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_3.m3u8
 #EXTINF:-1,MEDIARORP 8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8token=050519843cch31fd469de19505051984-4321163551-vlxx123token=050519843cch31fd469de19505051984-4321163551-vlxx123
 #EXTINF:-1,MEDIARORP U
 http://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_3.m3u8
 #EXTINF:-1,MEDIARORP 5
