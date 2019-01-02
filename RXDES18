@@ -211,6 +211,21 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
+#EXTINF:-1,IN: Sony Pix HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/104960
+#EXTINF:-1,IN: Sony Six HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64364
+#EXTINF:-1,IN: Sony ESPN HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64333
+#EXTINF:-1,IN: Sony Ten 1 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64332
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64331
+#EXTINF:-1,IN: SONY TEN 3 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64281
+#EXTINF:-1,IN: Star World Premier HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/143665
+
 #EXTINF:-1,SKY Sports Main Event
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/41.ts
 #EXTINF:-1,Sky Sports Premier League
@@ -287,6 +302,13 @@ http://62.210.114.98:9989/live?channelId=385&deviceMac=00:1A:79:BE:2F:E6&uid=338
 http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=386.ts
 #EXTINF:-1,SKYNET 6
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=387.ts
+
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,DISCOVERY CH. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1,Sony TEN 1
 http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
