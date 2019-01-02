@@ -264,11 +264,13 @@ http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/749
 http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/750
 
 #EXTINF:-1,BT SPORT 1 HD
-http://31.220.0.86:8081/live/spstreambt1/playlist.m3u8
+http://livebar.pw/lba/123/g2/ukbtsport1.m3u8
 #EXTINF:-1,BT SPORT 2 HD
-http://31.220.0.86:8081/live/spstreambt2/playlist.m3u8
+http://livebar.pw/lba/123/g3/bt2.m3u8
 #EXTINF:-1,BT SPORT 3 HD
-http://31.220.0.86:8081/live/spstreambt3/playlist.m3u8
+http://livebar.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://31.220.2.149:8081/live/hdq5/playlist.m3u8
 
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
