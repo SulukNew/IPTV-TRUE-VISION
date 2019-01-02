@@ -239,29 +239,29 @@ http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/49.ts
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/50.ts
 
 #EXTINF:-1,AR: Bein Sports 1 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/739
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/739
 #EXTINF:-1,AR: Bein Sports 2 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/740
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/740
 #EXTINF:-1,AR: Bein Sports 3 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/741
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/741
 #EXTINF:-1,AR: Bein Sports 4 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/742
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/742
 #EXTINF:-1,AR: Bein Sports 5 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/743
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/743
 #EXTINF:-1,AR: Bein Sports 6 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/744
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/744
 #EXTINF:-1,AR: Bein Sports 7 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/745
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/745
 #EXTINF:-1,AR: Bein Sports 8 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/746
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/746
 #EXTINF:-1,AR: Bein Sports 9 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/747
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/747
 #EXTINF:-1,AR: Bein Sports 10 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/748
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/748
 #EXTINF:-1,AR: Bein Sports 11 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/749
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/749
 #EXTINF:-1,AR: Bein Sports 12 HD
-http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/750
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/750
 
 #EXTINF:-1,BT SPORT 1 HD
 http://31.220.0.86:8081/live/spstreambt1/playlist.m3u8
@@ -293,6 +293,17 @@ http://62.210.114.98:9989/live?channelId=385&deviceMac=00:1A:79:BE:2F:E6&uid=338
 http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=386.ts
 #EXTINF:-1,SKYNET 6
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=387.ts
+
+#EXTINF:0,USA TSN Sports 1 HD
+http://cmskos.fastiptv.org:777/test/test/705
+#EXTINF:0,USA TSN Sports 2 HD
+http://cmskos.fastiptv.org:777/test/test/704
+#EXTINF:0,USA TSN Sports 3 HD
+http://cmskos.fastiptv.org:777/test/test/703
+#EXTINF:0,USA TSN Sports 4 HD
+http://cmskos.fastiptv.org:777/test/test/702
+#EXTINF:0,USA TSN Sports 5 HD
+http://cmskos.fastiptv.org:777/test/test/701
 
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
@@ -383,14 +394,19 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 #EXTINF:-1,SPORT KLUB 5 HD
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
-#EXTINF:-1,RMC Sport 1
-http://185.93.3.84:5019/play/a00d
-#EXTINF:-1,RMC Sport 2
-http://185.93.3.84:5019/play/a00e
-#EXTINF:-1,RMC Sport 3
-http://185.93.3.84:5019/play/a00g
-#EXTINF:-1,RMC Sport 4
-http://185.93.3.84:5019/play/a00m
+#EXTINF:0,IT: Sky Calcio 1 HD
+http://cmskos.fastiptv.org:777/test/test/588
+#EXTINF:0,IT: Sky Calcio 2 HD
+http://cmskos.fastiptv.org:777/test/test/587
+#EXTINF:0,IT: Sky Calcio 3 HD
+http://cmskos.fastiptv.org:777/test/test/586
+#EXTINF:0,IT: Sky Calcio 4 HD
+http://cmskos.fastiptv.org:777/test/test/585
+#EXTINF:0,IT: Sky Calcio 5 HD
+http://cmskos.fastiptv.org:777/test/test/584
+#EXTINF:0,IT: Sky Calcio 6 HD
+http://cmskos.fastiptv.org:777/test/test/583
+
 #EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
 http://31.220.2.149:8081/live/hdq8/playlist.m3u8
 #EXTINF:-1,ELEVEN SPORTS 1
