@@ -566,9 +566,9 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: MOVISTAR_F1_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/4851
+http://playa.mine.nu:44444/iptvking/prueba070217/360
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: MOVISTAR_MOTO_GP_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/4853
+http://playa.mine.nu:44444/iptvking/prueba070217/288
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: LA LIGA TV HD
 http://playa.mine.nu:44444/iptvking/prueba070217/2656
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: BEIN LA LIGA HD
@@ -579,15 +579,19 @@ http://playa.mine.nu:44444/iptvking/prueba070217/6661
 http://playa.mine.nu:44444/iptvking/prueba070217/8617
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_1_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5113
+http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_2_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5111
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_3_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5109
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_4_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5108
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_5_HD
-http://ch.novilka.net:8000/0oSgsCvIY4/e1fcGDHa9U/5107
+http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 5
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport 24 HD
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/63.ts
