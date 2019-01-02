@@ -119,9 +119,9 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS 
-http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
+http://mlsh.co:2086/fletch456/xU9u34rOr7/22084
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS VICELAND
-http://101.164.249.39:9981/stream/channelid/494532640?ticket=98F155F64595706AA027460754ED8D2CA37D82BD&profile=pass
+http://mlsh.co:2086/fletch456/xU9u34rOr7/22083
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (VIET)
 http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RED by HBO (VIET)
