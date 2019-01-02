@@ -459,6 +459,17 @@ http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/46.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",Tring Sport 4 HD
 http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/47.ts
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",IN: Sony SIX HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64364
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",IN: Sony ESPN HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64333
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",IN: Sony TEN 1 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64332
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",IN: SONY TEN 2 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64331
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",IN: SONY TEN 3 HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64281
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",Ten 1 HD 
 http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",Ten 2 HD 
@@ -479,6 +490,8 @@ http://31.220.3.192:8081/live/fb3/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",BT SPORT ESPN HD
 http://31.220.2.149:8081/live/hdq5/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ESPN HD
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 1 HD
 http://163.172.211.229:8000/live/ashkcd/sphsrsfrhgtrap/48.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Super SPORT 2 HD
@@ -852,6 +865,41 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 http://60.248.127.231:8012/0.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SONY ONE
 http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",IN: Sony Pix HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/104960
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",IN: Star World Premier HD
+http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/143665
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies World HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/531.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Thriller HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/532.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/524.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies HBO HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/529.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies First HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/528.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Action HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/526.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Action  2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/527.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies  2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/525.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 3 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 2 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 1 HD
+http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 1 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 2 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/34.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 3 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 4 HD
+http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
