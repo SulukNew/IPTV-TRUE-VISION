@@ -134,10 +134,6 @@ http://123.19.50.170:2204/rtp/232.84.2.138:10648
 http://123.19.50.170:2204/rtp/232.84.1.77:8436
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MAX by HBO FHD (VT)
 http://123.19.50.170:2204/rtp/232.84.2.139:10654
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS 
-http://mlsh.co:2086/fletch456/xU9u34rOr7/22084
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS VICELAND
-http://mlsh.co:2086/fletch456/xU9u34rOr7/22083
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (VIET)
 http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RED by HBO (VIET)
@@ -916,37 +912,6 @@ http://210.210.155.35/uq2663/h/h13/index.m3u8
 http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/104960
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",IN: Star World Premier HD
 http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/143665
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies World HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/531.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Thriller HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/532.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/524.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies HBO HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/529.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies First HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/528.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Action HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/526.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies Action  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/527.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Movies  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/525.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 3 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Box Office 1 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 1 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 2 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/34.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 3 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",beIN Movies 4 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
