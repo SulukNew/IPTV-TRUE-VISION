@@ -191,28 +191,24 @@ http://restream.geniptv.com:8080/8VASGUUsxX/ixrHVyWXF0/1373
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Astro Maya HD MY
 http://restream.geniptv.com:8080/8VASGUUsxX/ixrHVyWXF0/1371
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies World HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/531.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Thriller HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/532.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/524.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies HBO HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/529.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN STAR World HD
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/705
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN STAR Movies HD
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2365
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies First HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/528.ts
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2634
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/526.ts
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2633
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/527.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/525.ts
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2635
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 3 HD
 http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 2 HD
 http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 1 HD
 http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MBC Action HD
+http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/1652
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 1 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 2 HD
