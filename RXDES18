@@ -92,28 +92,6 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,OSN Movies World HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/531.ts
-#EXTINF:-1,OSN Movies Thriller HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/532.ts
-#EXTINF:-1,OSN Movies HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/524.ts
-#EXTINF:-1,OSN Movies HBO HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/529.ts
-#EXTINF:-1,OSN Movies First HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/528.ts
-#EXTINF:-1,OSN Movies Action HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/526.ts
-#EXTINF:-1,OSN Movies Action  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/527.ts
-#EXTINF:-1,OSN Movies  2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/525.ts
-#EXTINF:-1,OSN Box Office 3 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
-#EXTINF:-1,OSN Box Office 2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
-#EXTINF:-1,OSN Box Office 1 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
 #EXTINF:-1,beIN Movies 1 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
 #EXTINF:-1,beIN Movies 2 HD
@@ -123,6 +101,21 @@ http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
 #EXTINF:-1,beIN Movies 4 HD
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
 
+#EXTINF:-1,SONY PIX HD
+http://62.210.97.68:8081/planetind2/sonypixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SONY ROX HD
+http://62.210.97.68:8081/planetind2/sonyroxhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,STAR MOVIES
+http://62.210.97.68:8081/planetind1/starmovies/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,WARNER BROS HD
+http://123.19.50.170:2204/rtp/232.84.2.51:10516
+#EXTINF:-1,HBO HD
+http://123.19.50.170:2204/rtp/232.84.2.138:10648
+#EXTINF:-1,FOX MOVIES HD
+http://123.19.50.170:2204/rtp/232.84.1.77:8436
+#EXTINF:-1,MAX by HBO HD
+http://123.19.50.170:2204/rtp/232.84.2.139:10654
 #EXTINF:-1,SBS 
 http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
 #EXTINF:-1,SBS VICELAND
@@ -202,20 +195,100 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,IN: Sony Pix HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/104960
-#EXTINF:-1,IN: Sony Six HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64364
-#EXTINF:-1,IN: Sony ESPN HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64333
-#EXTINF:-1,IN: Sony Ten 1 HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64332
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64331
-#EXTINF:-1,IN: SONY TEN 3 HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/64281
-#EXTINF:-1,IN: Star World Premier HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/143665
+#EXTINF:-1,LFC
+http://62.210.97.68:8081/planetuk/lfctv/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,SONY ESPN HD
+http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SONY SIX HD
+http://62.210.97.68:8081/planetind2/sonysixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TEN 1 HD
+http://62.210.97.68:8081/planetind2/sonyten1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TEN 2 HD
+http://62.210.97.68:8081/planetind2/sonyten2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TEN 3 HD
+http://62.210.97.68:8081/planetind1/ten3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,STAR SPORT SELECT HD1
+http://62.210.97.68:8081/planetind1/starsportsselect1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,STAR SPORT SELECT 2
+http://62.210.97.68:8081/planetind1/starsportsselect2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,STAR SPORT 1 HD
+http://62.210.97.68:8081/planetind1/starsports1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,STAR SPORT 2 HD
+http://62.210.97.68:8081/planetind1/starsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,BT SPORT 1 HD
+http://62.210.97.68:8081/planetuk/btsports1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,BT SPORT 2 HD
+http://62.210.97.68:8081/planetuk/btsports2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,BT SPORT 3 HD
+http://62.210.97.68:8081/planetuk/btsports3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,EIR SPORTS
+http://62.210.97.68:8081/planetuk/eirsports1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,EIR SPORTS 2
+http://62.210.97.68:8081/planetuk/eirsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://62.210.97.68:8081/planetuk/skysportspleaguehd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SKY SPORTS ACTION
+http://62.210.97.68:8081/planetuk/skysportsactionhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SKY SPORT NEWS
+http://62.210.97.68:8081/planetuk/skysnewshd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SKY SPORT MIX
+http://62.210.97.68:8081/planetuk/skysportsmixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SKY SPORT MAIN EVENT
+http://62.210.97.68:8081/planetuk/skysportsmaineventhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SKY SPORT FOOTBALL
+http://62.210.97.68:8081/planetuk/skysportsfootballhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,FOX SPORTS 1
+http://62.210.97.68:8081/planetusc/foxsports1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,FOX SPORTS 2
+http://62.210.97.68:8081/planetusc/foxsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,NBCSN
+http://62.210.97.68:8081/planetusc/nbcsportsnetwork/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SportsNET CA
+http://62.210.247.48:8081/planet/snca1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,SPORTS TV1
+http://62.210.97.68:8081/planetptt/sporttv1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SPORTS TV2
+http://62.210.97.68:8081/planetptt/sporttv2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SPORTS TV3
+http://62.210.97.68:8081/planetptt/sporttv3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SPORTS TV4
+http://62.210.97.68:8081/planetptt/sporttv4hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,SPORTS TV5
+http://62.210.97.68:8081/planetptt/sporttv5/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,TIVIBU SPORT 1
+http://62.210.97.68:8081/planetarb/tivibusport1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TIVIBU SPORT 2
+http://62.210.97.68:8081/planetarb/tivibusport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TIVIBU SPORT 3
+http://62.210.97.68:8081/planetarb/tivibusport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TIVIBU SPORT 4
+http://62.210.97.68:8081/planetarb/tivibusport4/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,TSN SPORT 1
+http://62.210.97.68:8081/planetusc/tsn1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TSN SPORT 2
+http://62.210.97.68:8081/planetusc/tsn2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TSN SPORT 3
+http://62.210.97.68:8081/planetusc/tsn3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TSN SPORT 4
+http://62.210.97.68:8081/planetusc/tsn4hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,TSN SPORT 5
+http://62.210.97.68:8081/planetusc/tsn5hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,RMC SPORT 1
+http://62.210.97.68:8081/planetfr/sfrsport1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,RMC SPORT 2
+http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1,RMC SPORT 3
+http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,SKY Sports Main Event
 http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/41.ts
@@ -411,34 +484,8 @@ http://cmskos.fastiptv.org:777/test/test/583
 
 #EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
 http://31.220.2.149:8081/live/hdq8/playlist.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
-http://cdn7.woideas.com/tv11.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-http://31.220.2.149:8081/live/hdq7/playlist.m3u8
-
 #EXTINF:-1,BEIN SPORTS 1 HD FRANCE
 http://31.220.2.149:8081/live/hdq6/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 1 HD
-http://31.220.3.192:8081/live/fb1/playlist.m3u8
-#EXTINF:-1,BT SPORT 2 HD
-http://31.220.3.192:8081/live/fb2/playlist.m3u8
-#EXTINF:-1,BT SPORT 3 HD
-http://31.220.3.192:8081/live/fb3/playlist.m3u8
-#EXTINF:-1,BT SPORT ESPN HD
-http://31.220.2.149:8081/live/hdq5/playlist.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1
-http://31.220.0.194:8081/live/fmix1/playlist.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-http://31.220.0.194:8081/live/fmix2/playlist.m3u8
-#EXTINF:-1,SPORTS NETWORK
-http://31.220.0.194:8081/live/fmix3/playlist.m3u8
-
-#EXTINF:-1,UKSP: SKY SPORTS MAIN EVENT HD
-http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=6Tj3ldeBG1
-#EXTINF:-1,UKSP: SKY SPORTS NEWS HD
-http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSNEWSHD/mpegts?token=6Tj3ldeBG1
 
 #EXTINF:-1,TEN CRICKET
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
