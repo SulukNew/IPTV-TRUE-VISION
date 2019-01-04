@@ -92,15 +92,6 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,AR: Bein Movies 1 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/1755
-#EXTINF:-1,AR: Bein Movies 2 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/1756
-#EXTINF:-1,AR: BeIN Movies 3 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/2617
-#EXTINF:-1,AR: BeIN Movies 4 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/4250
-
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &PRIVE HD
