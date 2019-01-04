@@ -322,21 +322,6 @@ http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
 
-#EXTINF:-1,SKYNET SPORTS HD
-http://109.236.88.10:25461/9mPDXrAlEU/p4VcFFMvc6/24519
-#EXTINF:-1,SKYNET 1
-http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=382.ts
-#EXTINF:-1,SKYNET 2
-http://62.210.114.98:9989/live?channelId=383&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=383.ts
-#EXTINF:-1,SKYNET 3
-http://62.210.114.98:9989/live?channelId=384&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=384.ts
-#EXTINF:-1,SKYNET 4
-http://62.210.114.98:9989/live?channelId=385&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=385.ts
-#EXTINF:-1,SKYNET 5
-http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=386.ts
-#EXTINF:-1,SKYNET 6
-http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=387.ts
-
 #EXTINF:0,USA TSN Sports 1 HD
 http://cmskos.fastiptv.org:777/test/test/705
 #EXTINF:0,USA TSN Sports 2 HD
