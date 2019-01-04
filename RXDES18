@@ -92,14 +92,14 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,beIN Movies 1 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
-#EXTINF:-1,beIN Movies 2 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/34.ts
-#EXTINF:-1,beIN Movies 3 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
-#EXTINF:-1,beIN Movies 4 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
+#EXTINF:-1,AR: Bein Movies 1 HD
+http://clientportalpro.com:2500/11223344556677/11223344556677/1755
+#EXTINF:-1,AR: Bein Movies 2 HD
+http://clientportalpro.com:2500/11223344556677/11223344556677/1756
+#EXTINF:-1,AR: BeIN Movies 3 HD
+http://clientportalpro.com:2500/11223344556677/11223344556677/2617
+#EXTINF:-1,AR: BeIN Movies 4 HD
+http://clientportalpro.com:2500/11223344556677/11223344556677/4250
 
 #EXTINF:-1,SONY PIX HD
 http://62.210.97.68:8081/planetind2/sonypixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
@@ -148,15 +148,6 @@ http://84.43.207.130/btvcinema/btvcinema.m3u8
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1,History Asia
 http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1,K+HD
-http://iptv-nl3.hdflixtv.com/VN-K+1-HD/index.m3u8?token=900d785f3lol91fd397de195kf07ea30-1546941151-7c1a9kd1j2e1594l9be0c350
-#EXTINF:-1,K+PM HD
-http://iptv-nl3.hdflixtv.com/VN-K+PM-HD/index.m3u8?token=900d785f3lol91fd397de195kf07ea30-1546941151-7c1a9kd1j2e1594l9be0c350
-#EXTINF:-1,K+PC HD
-http://iptv-nl3.hdflixtv.com/VN-K+PC-HD/index.m3u8?token=900d785f3lol91fd397de195kf07ea30-1546941151-7c1a9kd1j2e1594l9be0c350
-#EXTINF:-1,K+NS HD
-http://iptv-nl3.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=900d785f3lol91fd397de195kf07ea30-1546941151-7c1a9kd1j2e1594l9be0c350
 
 #EXTINF:-1,ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -290,51 +281,36 @@ http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLz
 #EXTINF:-1,RMC SPORT 3
 http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
-#EXTINF:-1,SKY Sports Main Event
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/41.ts
-#EXTINF:-1,Sky Sports Premier League
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/42.ts
-#EXTINF:-1,Sky Sports Football
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/43.ts
-#EXTINF:-1,Sky Sports Cricket
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/44.ts
-#EXTINF:-1,Sky Sports Golf
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/45.ts
-#EXTINF:-1,Sky Sports F1
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/46.ts
-#EXTINF:-1,Sky Sports Action
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/47.ts
-#EXTINF:-1,Sky Sports Arena
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/48.ts
-#EXTINF:-1,Sky Sports News
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/49.ts
-#EXTINF:-1,Sky Sports Mix
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/50.ts
-
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/739
-#EXTINF:-1,AR: Bein Sports 2 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/740
-#EXTINF:-1,AR: Bein Sports 3 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/741
-#EXTINF:-1,AR: Bein Sports 4 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/742
-#EXTINF:-1,AR: Bein Sports 5 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/743
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/744
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/745
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/746
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/747
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/748
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/749
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/750
+#EXTINF:-1,FR: Bein Sport 1 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/217
+#EXTINF:-1,FR: Bein Sport 2 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/218
+#EXTINF:-1,FR: Bein Sport 3 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/651
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/137
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/138
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/139
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/140
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/141
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/142
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/143
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/144
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/145
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/146
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/213
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/171
 
 #EXTINF:-1,BT SPORT 1 HD
 http://livebar.pw/lba/123/g2/ukbtsport1.m3u8
@@ -354,8 +330,8 @@ http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
 
-#EXTINF:-1,SKYNET HD
-http://niobzca.cf:8080/frenchdubai/AnnaXDwzGwJtG/126211
+#EXTINF:-1,SKYNET SPORTS HD
+http://109.236.88.10:25461/9mPDXrAlEU/p4VcFFMvc6/24519
 #EXTINF:-1,SKYNET 1
 http://62.210.114.98:9989/live?channelId=382&deviceMac=00:1A:79:BE:2F:E6&uid=3387&fileName=382.ts
 #EXTINF:-1,SKYNET 2
