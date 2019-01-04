@@ -120,136 +120,124 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AND FLIX HD
+http://193.200.164.163:80/live/ss/123/34718.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AND PRIVE HD
+http://193.200.164.163:80/live/ss/123/34717.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO INDIA HD
+http://193.200.164.163:80/live/ss/123/34702.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MOVIES NOW HD
+http://193.200.164.163:80/live/ss/123/34697.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MN PLUS HD
+http://193.200.164.163:80/live/ss/123/34699.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MNX HD
+http://193.200.164.163:80/live/ss/123/34698.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR MOVIES HD
+http://193.200.164.163:80/live/ss/123/34688.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR MOVIES SELECT HD
+http://193.200.164.163:80/live/ss/123/34687.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY PIX HD
-http://62.210.97.68:8081/planetind2/sonypixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY ROX HD
-http://62.210.97.68:8081/planetind2/sonyroxhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR MOVIES
-http://62.210.97.68:8081/planetind1/starmovies/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER BROS FHD (VT)
-http://123.19.50.170:2204/rtp/232.84.2.51:10516
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO FHD (VT)
-http://123.19.50.170:2204/rtp/232.84.2.138:10648
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES FHD (VT)
-http://123.19.50.170:2204/rtp/232.84.1.77:8436
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MAX by HBO FHD (VT)
-http://123.19.50.170:2204/rtp/232.84.2.139:10654
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (VIET)
-http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RED by HBO (VIET)
-http://123.29.129.197/v5live.m3u8?c=vstv037&q=high&deviceType=9&userId=24036&deviceId=&type=tv&rkey=12252304YOUSvCN3&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES HD (VIET)
-http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER BROS HD (VIET)
-http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
+http://193.200.164.163:80/live/ss/123/34587.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY LE PLEX HD
+http://193.200.164.163:80/live/ss/123/34689.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR WORLD HD
+http://193.200.164.163:80/live/ss/123/34686.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR WORLD PREMIER HD
+http://193.200.164.163:80/live/ss/123/34685.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TATA SKY WORLD CINEMA HD
+http://193.200.164.163:80/live/ss/123/34683.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER BROS
+http://193.200.164.163:80/live/ss/123/34677.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AXN HD
+http://193.200.164.163:80/live/ss/123/34715.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR GOLD HD
+http://193.200.164.163:80/live/ss/123/34582.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR GOLD SELECT HD
+http://193.200.164.163:80/live/ss/123/34581.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",D2H CINEMA HD
+http://193.200.164.163:80/live/ss/123/34642.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",D2H EVERGREEN CLASSIC HD
+http://193.200.164.163:80/live/ss/123/34641.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AND PICTURES HD
+http://193.200.164.163:80/live/ss/123/34657.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
-http://bestbuyiptv.link:6969/buwan092279@outlook.com/nHl3hZQSuO/9434
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX FAMILY MOVIES HD
-http://niobzca.cf:8080/phoenix/phoenix/145982
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX LIFE HD
-http://niobzca.cf:8080/phoenix/phoenix/145983
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Movies Action HD
-http://niobzca.cf:8080/phoenix/phoenix/145984
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX MOVIES HD
-http://niobzca.cf:8080/phoenix/phoenix/145985
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Movies Premium
-http://niobzca.cf:8080/phoenix/phoenix/145986
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",GINX SPORTS HD
-http://niobzca.cf:8080/phoenix/phoenix/145992
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ANIMAL PLANET WORLD HD
+http://193.200.164.163:80/live/ss/123/34716.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CARTOON NETWORK PLUS HD
+http://193.200.164.163:80/live/ss/123/34712.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CNBC TV18 PRIME NEWS HD
+http://193.200.164.163:80/live/ss/123/34711.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",COLORS INFINITY HD
+http://193.200.164.163:80/live/ss/123/34710.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",COMEDY CENTRAL HD
+http://193.200.164.163:80/live/ss/123/34709.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISCOVERY WORLD HD
+http://193.200.164.163:80/live/ss/123/34708.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISNEY INTERNATIONAL HD
+http://193.200.164.163:80/live/ss/123/34706.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISNEY XD
+http://193.200.164.163:80/live/ss/123/34705.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ET NOW HD
+http://193.200.164.163:80/live/ss/123/34704.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX LIFE HD
+http://193.200.164.163:80/live/ss/123/34703.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HISTORY TV18 HD
+http://193.200.164.163:80/live/ss/123/34701.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MIRROR NOW HD
+http://193.200.164.163:80/live/ss/123/34700.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NAT GEO MUSIC HD
+http://193.200.164.163:80/live/ss/123/34696.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NAT GEO PEOPLE HD
+http://193.200.164.163:80/live/ss/123/34695.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NAT GEO WILD HD
+http://193.200.164.163:80/live/ss/123/34694.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",NATIONAL GEOGRAPHIC HD
+http://193.200.164.163:80/live/ss/123/34693.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ROMEDY NOW HD
+http://193.200.164.163:80/live/ss/123/34691.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY BBC EARTH ENGLISH HD
+http://193.200.164.163:80/live/ss/123/34690.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TATA SKY KIDS CINEMA
+http://193.200.164.163:80/live/ss/123/34684.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TIMES NOW NEWS HD
+http://193.200.164.163:80/live/ss/123/34681.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TLC WORLD HD
+http://193.200.164.163:80/live/ss/123/34680.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TRAVEL XP HD
+http://193.200.164.163:80/live/ss/123/34679.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",VH1 HD
+http://193.200.164.163:80/live/ss/123/34678.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ZEE CAFE HD
+http://193.200.164.163:80/live/ss/123/34676.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO AEC HD
-http://niobzca.cf:8080/phoenix/phoenix/142600
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Astro Awani
-http://niobzca.cf:8080/phoenix/phoenix/145959
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO CERIA
-http://niobzca.cf:8080/phoenix/phoenix/150651
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO CRICKET HD
-http://niobzca.cf:8080/phoenix/phoenix/150652
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Astro Maya HD
-http://niobzca.cf:8080/phoenix/phoenix/150653
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO OASIS HD
-http://niobzca.cf:8080/phoenix/phoenix/150654
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO PRIMA HD
-http://niobzca.cf:8080/phoenix/phoenix/145965
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO QUAN JIA HD
-http://niobzca.cf:8080/phoenix/phoenix/150655
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO RIA HD
-http://niobzca.cf:8080/phoenix/phoenix/145967
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO SHUANG XING HD
-http://niobzca.cf:8080/phoenix/phoenix/150656
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO TARA HD
-http://niobzca.cf:8080/phoenix/phoenix/142610
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO VAANAVIL HD
-http://niobzca.cf:8080/phoenix/phoenix/142657
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO VINMEEN HD
-http://niobzca.cf:8080/phoenix/phoenix/142612
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO WARNA HD
-http://niobzca.cf:8080/phoenix/phoenix/142613
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO XI YUE
-http://niobzca.cf:8080/phoenix/phoenix/142614
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO XIAO TAI YANG
-http://niobzca.cf:8080/phoenix/phoenix/142615
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN STAR World HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/705
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN STAR Movies HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2365
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies First HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2634
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2633
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action  2 HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/2635
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 3 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/523.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 2 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/522.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 1 HD
-http://BeonLive.ml:8080/live/UpdatePhone/EvUw8XkymmSKv9j/521.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MBC Action HD
-http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/1652
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 1 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/33.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 2 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/34.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 3 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/35.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",beIN Movies 4 HD
-http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3}bc/36.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIACORP OKTO HD
-http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/04.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIACORP OKTO HD 2
-http://ftaokto.akamaized.net/out/v1/d7306938a27b464ca5c3856c7c1f00b5/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SURIA
-http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIARORP 8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIARORP U
-http://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MEDIARORP 5
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live-2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV8
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live-2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",VASANTHAM
-http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RTM PARLEMENT
-http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS SELECT 1 HD
+http://193.200.164.163:80/live/ss/123/34489.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS SELECT 2 HD
+http://193.200.164.163:80/live/ss/123/34488.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",SONY ESPN HD
+http://193.200.164.163:80/live/ss/123/34495.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",SONY SIX HD
+http://193.200.164.163:80/live/ss/123/34494.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",TEN 1 HD
+http://193.200.164.163:80/live/ss/123/34486.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",TEN 2 HD
+http://193.200.164.163:80/live/ss/123/34485.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",TEN 3 HD
+http://193.200.164.163:80/live/ss/123/34484.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",D SPORTS HD
+http://193.200.164.163:80/live/ss/123/34496.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS 1 ENGLISH HD
+http://193.200.164.163:80/live/ss/123/34493.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS 1 HINDI HD
+http://193.200.164.163:80/live/ss/123/34492.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS 2 HD
+http://193.200.164.163:80/live/ss/123/34491.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS 3
+http://193.200.164.163:80/live/ss/123/34490.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",STAR SPORTS TAMIL
+http://193.200.164.163:80/live/ss/123/34487.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",WILLOW CRICKET HD
+http://193.200.164.163:80/live/ss/123/34483.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",SONY ESPN HD
 http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
