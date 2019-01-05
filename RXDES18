@@ -115,6 +115,14 @@ http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,OSN: STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10846.ts
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10847.ts
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10848.ts
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10849.ts
 
 #EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -168,10 +176,39 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:-1,LFC
 http://62.210.97.68:8081/planetuk/lfctv/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,Bongda TV HD
-http://hplusliveall.e96bbe18.sabai.vn/5e39807aaf74632f02a18e6c601f5fbc1546617615/bongdatv-720/chunklist.m3u8
-#EXTINF:-1,THE THAO HD
-http://hplusliveall.e96bbe18.sabai.vn/68c69e7ff5bd6d77e068441ce68c19b21546617650/thethaotv-720/chunklist.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/17.ts
+#EXTINF:-1,beIN SPORTS 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/16.ts
+#EXTINF:-1,beIN SPORTS 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/15.ts
+#EXTINF:-1,beIN SPORTS 10 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10783.ts
+#EXTINF:-1,beIN SPORTS 11 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10782.ts
+#EXTINF:-1,beIN SPORTS 12 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10784.ts
+
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/544.ts
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/543.ts
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/542.ts
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/541.ts
+
+#EXTINF:-1,IT: SKY SPORTS MOTO GP HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3031.ts
+#EXTINF:-1,IT: SKY SPORTS F1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3030.ts
+#EXTINF:-1,IT: SKY SPORTS SERIE A HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3028.ts
+#EXTINF:-1,IT: SKY SPORTS UNO HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3023.ts
+
 #EXTINF:-1,SONY ESPN HD
 http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1,SONY SIX HD
