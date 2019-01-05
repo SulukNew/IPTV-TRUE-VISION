@@ -63,11 +63,8 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS HD
-http://101.164.249.39:9981/stream/channelid/1436148869?ticket=4B797E0B941A870CF0D85EE6EB10689E349755CA&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SBS VICELAND
-http://101.164.249.39:9981/stream/channelid/494532640?ticket=98F155F64595706AA027460754ED8D2CA37D82BD&profile=pass
-
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
+http://123.29.129.197/v5live.m3u8?c=vstv036&q=auto&deviceType=7&userId=5&deviceId=10122055&type=tv&rkey=12251855kKiHJPns&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=&rbk=20316270135&pnode=172.16.29.9
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO ARENA
@@ -416,42 +413,6 @@ http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6957.ts
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6958.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 9
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6959.ts
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: FOX SPORTS 1 HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/142
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: FOX SPORTS 2 HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/143
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: NBCSN HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/921
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: BEIN SPORTS
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/29703
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports HD
-http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2412
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports
-http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2414
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",US: AFN Sports 2
-http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2413
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS ACTION HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27626
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS ARENA HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27625
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS CRICKET HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27624
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS F1 HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27623
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS FOOTBALL HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27622
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS GOLF HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27621
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS MAIN EVENT HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27620
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS MIX HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27619
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS NEWS HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27618
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",UK: SKY SPORTS PREMIER LEAGUE HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27617
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: M.FORMULA 1 HD
 http://playa.mine.nu:44444/iptvking/prueba070217/288
