@@ -120,6 +120,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Movies Premium HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8462
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Action Movies HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/6175
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Family Movies HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/6174
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AND FLIX HD
 http://193.200.164.163:80/live/ss/123/34718.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AND PRIVE HD
@@ -356,33 +363,70 @@ http://194.88.107.95:6204/whatsup/whatsup/4068
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",Bein Movies HD4
 http://194.88.107.95:6204/whatsup/whatsup/2712
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD FOX CRIME  HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37882
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD Fox Family
-http://live.kodisolutions.tv:8080/fredf/fredf/37881
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD Fox Family Movies HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37880
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD Fox Life HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37879
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD Fox Movies Action
-http://live.kodisolutions.tv:8080/fredf/fredf/37878
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD FOX MOVIES FAMILY
-http://live.kodisolutions.tv:8080/fredf/fredf/37877
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD Fox Movies HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37876
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC 1 HD
+http://best4u.tn:8000/ale9005/sl6492/1378
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC 2 HD
+http://best4u.tn:8000/ale9005/sl6492/1371
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC 3 HD
+http://best4u.tn:8000/ale9005/sl6492/3613
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC 4 HD
+http://best4u.tn:8000/ale9005/sl6492/1377
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC ACTION HD
+http://best4u.tn:8000/ale9005/sl6492/1394
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD MBC 1 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37870
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD MBC 2 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37869
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD MBC 3 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37868
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD MBC 4 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37867
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD STAR MOVIES HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37844
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",AR: MyHD STAR WORLD HD
-http://live.kodisolutions.tv:8080/fredf/fredf/37843
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC Fox Action Movies HD
+http://best4u.tn:8000/ale9005/sl6492/6911
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC Fox Crime HD
+http://best4u.tn:8000/ale9005/sl6492/6913
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",MBC Fox Family Movies HD
+http://best4u.tn:8000/ale9005/sl6492/6915
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: ASTRO SUPERSPORTS 1
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/27363
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: ASTRO SUPERSPORTS 2
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/27364
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: ASTRO SUPERSPORTS 3
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/27365
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: ASTRO SUPERSPORTS 4
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/27366
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE SPORTS 1 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8260
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE SPORTS 2 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8259
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE SPORTS 3 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8257
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BEIN SPORTS TH 1 HD TRUE VISION
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8243
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BEIN SPORTS TH 2 HD TRUE VISION
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8242
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BEIN SPORTS TH 3 HD TRUE VISON
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8241
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BEIN SPORTS TH 4 HD TRUE VISION
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/8240
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/29348
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 1
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17078
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 2
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17077
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 3
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17076
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 4
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17075
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 5
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17074
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: SKYNET SPORTS 6
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/17073
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: FOX SPORTS 1 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/5983
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: FOX SPORTS 2
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/5984
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: FOX SPORTS 3
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/5985
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ 1 HD
 http://best4u.tn:8000/ale9005/sl6492/7088
@@ -562,10 +606,6 @@ http://61.216.177.73/sta/ch91865001.m3u8
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29592
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",US: FOX SPORTS 2
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29591
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",US: NBCSN HD
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/921
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",US: BEIN SPORTS
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/29703
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",NL: FOX SPORT 1
 http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
@@ -686,22 +726,22 @@ http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/94.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 6 HD
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/95.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 1 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10794
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 2 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10793
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 3 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10792
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 4 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10791
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 5 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10790
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 6 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10789
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 7 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10788
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 8 HD
-http://clientportalpro.com:2500/11223344556677/11223344556677/10787
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 1 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10174
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 2 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10173
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 3 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10172
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 4 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10171
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 5 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10170
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 6 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10169
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 7 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10168
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sports 8 HD
+http://iptv-line.com:6969/gelmahupsi@ezehe.com/ozGDlzD5vD/10167
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Bein Sports 1 HD
 http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/10901
