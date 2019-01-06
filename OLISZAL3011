@@ -63,6 +63,41 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC1 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/46
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC2 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/26
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC3 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/47
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC4 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/27
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/248
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Action HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/139
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Disney HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9606
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies First HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/3519
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Thriller HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/147
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN First HBO HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/4056
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Paramount HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13028
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN TLC HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13026
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN SYFY HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13027
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN E! HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11174
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN ITV Choice
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7487
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star Movies HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7697
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star World HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/250
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
 http://123.29.129.197/v5live.m3u8?c=vstv036&q=auto&deviceType=7&userId=5&deviceId=10122055&type=tv&rkey=12251855kKiHJPns&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=&rbk=20316270135&pnode=172.16.29.9
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
