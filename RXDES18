@@ -350,17 +350,6 @@ http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
 
-#EXTINF:0,USA TSN Sports 1 HD
-http://cmskos.fastiptv.org:777/test/test/705
-#EXTINF:0,USA TSN Sports 2 HD
-http://cmskos.fastiptv.org:777/test/test/704
-#EXTINF:0,USA TSN Sports 3 HD
-http://cmskos.fastiptv.org:777/test/test/703
-#EXTINF:0,USA TSN Sports 4 HD
-http://cmskos.fastiptv.org:777/test/test/702
-#EXTINF:0,USA TSN Sports 5 HD
-http://cmskos.fastiptv.org:777/test/test/701
-
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,DISCOVERY CH. HD
@@ -370,10 +359,6 @@ http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1,Sony TEN 1
 http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:-1,SONY ESPN HD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2688
-#EXTINF:-1,SONY SIX HD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2699
 #EXTINF:-1,Fox Sport HD
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport1-hd&type=m3u
 #EXTINF:-1,FOX SPORT 2
