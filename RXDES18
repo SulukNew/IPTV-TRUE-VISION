@@ -433,18 +433,14 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 #EXTINF:-1,SPORT KLUB 5 HD
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
-#EXTINF:0,IT: Sky Calcio 1 HD
-http://cmskos.fastiptv.org:777/test/test/588
-#EXTINF:0,IT: Sky Calcio 2 HD
-http://cmskos.fastiptv.org:777/test/test/587
-#EXTINF:0,IT: Sky Calcio 3 HD
-http://cmskos.fastiptv.org:777/test/test/586
-#EXTINF:0,IT: Sky Calcio 4 HD
-http://cmskos.fastiptv.org:777/test/test/585
-#EXTINF:0,IT: Sky Calcio 5 HD
-http://cmskos.fastiptv.org:777/test/test/584
-#EXTINF:0,IT: Sky Calcio 6 HD
-http://cmskos.fastiptv.org:777/test/test/583
+#EXTINF:-1,Astro SuperSport 1 MY
+http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1366
+#EXTINF:-1,Astro SuperSport 2 HD MY
+http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1365
+#EXTINF:-1,Astro SuperSport 3 HD MY
+http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1364
+#EXTINF:-1,Astro SuperSport 4 HD MY
+http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1161
 
 #EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
 http://31.220.2.149:8081/live/hdq8/playlist.m3u8
