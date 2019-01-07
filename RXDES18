@@ -433,15 +433,10 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 #EXTINF:-1,SPORT KLUB 5 HD
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
-#EXTINF:-1,Astro SuperSport 1 MY
-http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1366
-#EXTINF:-1,Astro SuperSport 2 HD MY
-http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1365
-#EXTINF:-1,Astro SuperSport 3 HD MY
-http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1364
-#EXTINF:-1,Astro SuperSport 4 HD MY
-http://magiptv.zapto.org:8080/kovcslil.i.85/inDtcekLx1/1161
-
+#EXTINF:-1,Bein Sports Max HD 1
+http://62.210.76.207:443/live/osama/abdo/8.ts
+#EXTINF:-1,Bein Sports Max HD 2
+http://62.210.76.207:443/live/osama/abdo/9.ts
 #EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
 http://31.220.2.149:8081/live/hdq8/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS 1 HD FRANCE
