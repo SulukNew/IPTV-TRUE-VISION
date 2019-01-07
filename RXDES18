@@ -189,6 +189,29 @@ http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10782.ts
 #EXTINF:-1,beIN SPORTS 12 HD
 http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10784.ts
 
+#EXTINF:-1,ASTRO SUPERSPORTS 1 HD
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43259
+#EXTINF:-1,ASTRO SUPERSPORTS 2 HD
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43260
+#EXTINF:-1,ASTRO SUPERSPORTS 3 HD
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43261
+#EXTINF:-1,ASTRO SUPERSPORTS 4 HD
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43262
+#EXTINF:-1,SkyNet Sports HD
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43344
+#EXTINF:-1,SkyNet Sports 1
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43337
+#EXTINF:-1,SkyNet Sports 2
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43339
+#EXTINF:-1,SkyNet Sports 3
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43340
+#EXTINF:-1,SkyNet Sports 4
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43341
+#EXTINF:-1,SkyNet Sports 5
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43342
+#EXTINF:-1,SkyNet Sports 6
+http://185.134.22.15:8080/1018604748/tMSk59MnEm/43343
+
 #EXTINF:-1,NL: FOX SPORTS 1 HD
 http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
 #EXTINF:-1,NL: FOX SPORTS 2 HD
@@ -301,36 +324,86 @@ http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLz
 #EXTINF:-1,RMC SPORT 3
 http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
-#EXTINF:-1,FR: Bein Sport 1 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/217
-#EXTINF:-1,FR: Bein Sport 2 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/218
-#EXTINF:-1,FR: Bein Sport 3 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/651
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/137
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/138
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/139
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/140
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/141
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/142
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/143
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/144
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/145
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/146
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/213
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://ip.avov4.us:8000/vVZy8zXlFI/9bOUSJfFVn/171
+#EXTINF:-1,beout Q 1 HD
+http://62.210.76.207:443/live/osama/abdo/12.ts
+#EXTINF:-1,beout Q 2 HD
+http://62.210.76.207:443/live/osama/abdo/13.ts
+#EXTINF:-1,beout Q 3 HD
+http://62.210.76.207:443/live/osama/abdo/14.ts
+#EXTINF:-1,beout Q 4 HD
+http://62.210.76.207:443/live/osama/abdo/15.ts
+#EXTINF:-1,beout Q 5 HD
+http://62.210.76.207:443/live/osama/abdo/16.ts
+#EXTINF:-1,beout Q 6 HD
+http://62.210.76.207:443/live/osama/abdo/17.ts
+#EXTINF:-1,beout Q 7 HD
+http://62.210.76.207:443/live/osama/abdo/18.ts
+#EXTINF:-1,beout Q 8 HD
+http://62.210.76.207:443/live/osama/abdo/19.ts
+#EXTINF:-1,beout Q 9 HD
+http://62.210.76.207:443/live/osama/abdo/20.ts
+#EXTINF:-1,beout Q 10 HD
+http://62.210.76.207:443/live/osama/abdo/21.ts
+
+#EXTINF:-1,Bein Sports Asian CUP 1 FHD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107976
+#EXTINF:-1,Bein Sports Asian CUP 1 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107980
+#EXTINF:-1,Bein Sports Asian CUP 2 FHD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107977
+#EXTINF:-1,Bein Sports Asian CUP 2 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107981
+#EXTINF:-1,Bein Sports Asian CUP 1 MAX FHD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107978
+#EXTINF:-1,Bein Sports Asian CUP 2 MAX FHD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107979
+#EXTINF:-1,BEIN SPORTS HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/90823
+#EXTINF:-1,BEIN SPORTS NEWS HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95402
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99048
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99047
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99046
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99045
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99044
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99043
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99042
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99041
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99040
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99117
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99116
+#EXTINF:-1,BEIN SPORTS 11 SD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95391
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99115
+#EXTINF:-1,BEIN SPORTS 12 SD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95390
+#EXTINF:-1,BEIN SPORTS 13 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99114
+#EXTINF:-1,BEIN SPORTS 14 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99113
+#EXTINF:-1,BEIN SPORTS 15 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99112
+#EXTINF:-1,BEIN SPORTS 16 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99111
+#EXTINF:-1,BEIN SPORTS 17 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99110
+
+#EXTINF:-1,Bein Sports Max HD 1
+http://62.210.76.207:443/live/osama/abdo/8.ts
+#EXTINF:-1,Bein Sports Max HD 2
+http://62.210.76.207:443/live/osama/abdo/9.ts
 
 #EXTINF:-1,BT SPORT 1 HD
 http://livebar.pw/lba/123/g2/ukbtsport1.m3u8
