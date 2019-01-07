@@ -299,7 +299,14 @@ http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLz
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",BEOUT Q Action HD
+http://62.210.76.207:443/live/osama/abdo/32.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",BEOUT Q Action +2 HD
+http://62.210.76.207:443/live/osama/abdo/33.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",BEOUT Q Movies HD
+http://62.210.76.207:443/live/osama/abdo/35.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",BEOUT Q Movies +2 HD
+http://62.210.76.207:443/live/osama/abdo/36.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Action HD
 http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101320
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Comedy HD
@@ -397,22 +404,26 @@ http://client.safeip.live:8080/cfx2E7zZJx/9c4nmCIxQk/8511
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Skynet Sports Plus
 http://client.safeip.live:8080/cfx2E7zZJx/9c4nmCIxQk/8517
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 1HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3517
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 2HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3518
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 3HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3519
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 4HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3520
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 5HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3521
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 6HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3522
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 7HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3523
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ sports 8HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3524
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 1 HD
+http://62.210.76.207:443/live/osama/abdo/12.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 2 HD
+http://62.210.76.207:443/live/osama/abdo/13.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 3 HD
+http://62.210.76.207:443/live/osama/abdo/14.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 4 HD
+http://62.210.76.207:443/live/osama/abdo/15.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 5 HD
+http://62.210.76.207:443/live/osama/abdo/16.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 6 HD
+http://62.210.76.207:443/live/osama/abdo/17.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 7 HD
+http://62.210.76.207:443/live/osama/abdo/18.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 8 HD
+http://62.210.76.207:443/live/osama/abdo/19.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 9 HD
+http://62.210.76.207:443/live/osama/abdo/20.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 10 HD
+http://62.210.76.207:443/live/osama/abdo/21.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Yes Sport 1 HD
 http://194.88.107.95:6204/whatsup/whatsup/8653
