@@ -299,22 +299,27 @@ http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLz
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies 2 HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3505
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Action 2 HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3506
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Action HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3507
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies First HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3508
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies HBO HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3509
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101320
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Comedy HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101319
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Drama HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101318
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Family HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101317
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Festival HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101316
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3510
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Thriller HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3511
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies World HD
-http://5.189.153.162:25461/janberyan06012019/22047852/3512
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101315
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Movies Premiere HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101313
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Box Office 1 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101340
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Box Office 2 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101339
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN Box Office 3 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/101338
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",Bein Movies HD1
 http://194.88.107.95:6204/whatsup/whatsup/2151
@@ -603,18 +608,22 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",SPORT KLUB 5 HD
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: MOVISTAR_F1_HD
-http://playa.mine.nu:44444/iptvking/prueba070217/360
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: MOVISTAR_MOTO_GP_HD
-http://playa.mine.nu:44444/iptvking/prueba070217/288
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Football HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/97602
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Serie A
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/104563
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport F1 HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/97591
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Mix HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/97601
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Moto GP HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/97590
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: BEIN SPORTS HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95752
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: LA LIGA HD
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95750
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: LA LIGA TV HD
-http://playa.mine.nu:44444/iptvking/prueba070217/2656
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: BEIN LA LIGA HD
-http://playa.mine.nu:44444/iptvking/prueba070217/37
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: LA LIGA TV
-http://playa.mine.nu:44444/iptvking/prueba070217/6661
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",ES: LA LIGA 123
-http://playa.mine.nu:44444/iptvking/prueba070217/8617
+http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95751
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: ELEVEN_SPORT_1_HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
