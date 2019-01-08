@@ -10,9 +10,9 @@ https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",NET_TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",TRANS7 HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",TRANS TV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",TRANS7
+http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",TRANSTV
 http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
@@ -63,40 +63,38 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC1 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/46
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC2 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/26
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC3 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/47
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC4 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/27
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/248
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Action HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/139
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Disney HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9606
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies First HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/3519
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Thriller HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/147
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN First HBO HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/4056
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Paramount HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13028
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN TLC HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13026
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN SYFY HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13027
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN E! HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11174
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN ITV Choice
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7487
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star Movies HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7697
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star World HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/250
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies World HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/267.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Thriller HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/268.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/261.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies HBO HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/266.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies First HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/265.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/263.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies Action  2 HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/264.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Movies  2 HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/262.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN FOX FAMILY MOVIES
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/273.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Cinema
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/256.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 3 HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/260.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 2 HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/259.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN Box Office 1 HD
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/258.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN: Movies
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/200.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN: Movies Action
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/201.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",OSN: Movies Action  2h
+http://shahidnomonopoly.hopto.org:8080/live/boxtv/nvJY5OQ4aH/202.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
 http://123.29.129.197/v5live.m3u8?c=vstv036&q=auto&deviceType=7&userId=5&deviceId=10122055&type=tv&rkey=12251855kKiHJPns&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=&rbk=20316270135&pnode=172.16.29.9
@@ -192,28 +190,38 @@ http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 2
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD1 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9022
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD2 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9021
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD3 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9020
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD4 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9019
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD5 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9018
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD6 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9017
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD7 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9016
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD8 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9015
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD9 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9014
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD10 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9013
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD11 EN 
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9012
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/1.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/2.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/3.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/4.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/5.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/6.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/7.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/8.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 9
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/9.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/10.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 11
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/11.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 12
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/12.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 13
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/13.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 14
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/14.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 15
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/15.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BEIN SPORTS 16
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ 1 HD
 http://best4u.tn:8000/ale9005/sl6492/7088
@@ -229,21 +237,6 @@ http://best4u.tn:8000/ale9005/sl6492/7084
 http://best4u.tn:8000/ale9005/sl6492/7083
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beoutQ 7 HD
 http://best4u.tn:8000/ale9005/sl6492/7082
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 1 HD
-http://linux-app.tv:6204/mohammad/mohammad/8653
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 2 HD
-http://linux-app.tv:6204/mohammad/mohammad/8652
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 3
-http://linux-app.tv:6204/mohammad/mohammad/8651
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes sport 4
-http://linux-app.tv:6204/mohammad/mohammad/8650
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 Gold
-http://linux-app.tv:6204/mohammad/mohammad/8649
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 HD
-http://linux-app.tv:6204/mohammad/mohammad/8648
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",IL: Yes Sport 5 Plus Live HD
-http://linux-app.tv:6204/mohammad/mohammad/8647
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
 https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
