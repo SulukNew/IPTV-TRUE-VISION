@@ -247,6 +247,15 @@ http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLz
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="SPORT♥APK",RMC SPORT 3
 http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",HBO FHD (IN)
+http://pkin.satocean.com:25461/stalker/stalker/172
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",SONY PIX FHD
+http://pkin.satocean.com:25461/stalker/stalker/144
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN FIRST MOVIES FHD
+http://pkin.satocean.com:25461/stalker/stalker/187
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN MOVIES ACTION FHD
+http://pkin.satocean.com:25461/stalker/stalker/189
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",OSN STAR WORLD HD
@@ -326,6 +335,11 @@ http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/18621
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 4 FHD MY
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/18620
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",STAR SPORTS SELECT 1 HD
+http://pkin.satocean.com:25461/stalker/stalker/234
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",STAR SPORTS SELECT 2 HD
+http://pkin.satocean.com:25461/stalker/stalker/169
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 1 MY
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/18589
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 2 MY
@@ -366,22 +380,22 @@ http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8511
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Skynet Sports Plus
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8517
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 1 HD
-http://62.210.76.207:443/live/osama/abdo/12.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 2 HD
-http://62.210.76.207:443/live/osama/abdo/13.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 3 HD
-http://62.210.76.207:443/live/osama/abdo/14.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 4 HD
-http://62.210.76.207:443/live/osama/abdo/15.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 5 HD
-http://62.210.76.207:443/live/osama/abdo/16.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 6 HD
-http://62.210.76.207:443/live/osama/abdo/17.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 7 HD
-http://62.210.76.207:443/live/osama/abdo/18.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 8 HD
-http://62.210.76.207:443/live/osama/abdo/19.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 1 FHD
+http://mhiptv.com:8888/1856/18561856/6103
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 2 FHD
+http://mhiptv.com:8888/1856/18561856/6104
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 3 FHD
+http://mhiptv.com:8888/1856/18561856/6105
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 4 FHD
+http://mhiptv.com:8888/1856/18561856/6106
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 5 FHD
+http://mhiptv.com:8888/1856/18561856/6107
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 6 FHD
+http://mhiptv.com:8888/1856/18561856/6108
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 7 FHD
+http://mhiptv.com:8888/1856/18561856/6109
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 8 FHD
+http://mhiptv.com:8888/1856/18561856/672
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 9 HD
 http://62.210.76.207:443/live/osama/abdo/20.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beout Q 10 HD
