@@ -345,60 +345,30 @@ http://62.210.76.207:443/live/osama/abdo/20.ts
 #EXTINF:-1,beout Q 10 HD
 http://62.210.76.207:443/live/osama/abdo/21.ts
 
-#EXTINF:-1,Bein Sports Asian CUP 1 FHD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107976
-#EXTINF:-1,Bein Sports Asian CUP 1 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107980
-#EXTINF:-1,Bein Sports Asian CUP 2 FHD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107977
-#EXTINF:-1,Bein Sports Asian CUP 2 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107981
-#EXTINF:-1,Bein Sports Asian CUP 1 MAX FHD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107978
-#EXTINF:-1,Bein Sports Asian CUP 2 MAX FHD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/107979
-#EXTINF:-1,BEIN SPORTS HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/90823
-#EXTINF:-1,BEIN SPORTS NEWS HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95402
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99048
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99047
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99046
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99045
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99044
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99043
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99042
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99041
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99040
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99117
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99116
-#EXTINF:-1,BEIN SPORTS 11 SD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95391
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99115
-#EXTINF:-1,BEIN SPORTS 12 SD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/95390
-#EXTINF:-1,BEIN SPORTS 13 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99114
-#EXTINF:-1,BEIN SPORTS 14 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99113
-#EXTINF:-1,BEIN SPORTS 15 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99112
-#EXTINF:-1,BEIN SPORTS 16 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99111
-#EXTINF:-1,BEIN SPORTS 17 HD
-http://hyper.de1-eu.com:8000/shan.zare@gmail.com/shan.zare@gmail.com/99110
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://62.210.97.68:8081/planetarb/beinsports1/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://62.210.97.68:8081/planetarb/beinsports2/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://62.210.97.68:8081/planetarb/beinsports3/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://62.210.97.68:8081/planetarb/beinsports4/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://62.210.97.68:8081/planetarb/beinsports5/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://62.210.97.68:8081/planetarb/beinsports6/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://62.210.97.68:8081/planetarb/beinsports7/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 8 FHD
+http://mhiptv.com:8888/1856/18561856/3177
+#EXTINF:-1,beIN SPORTS 9 FHD
+http://mhiptv.com:8888/1856/18561856/3178
+#EXTINF:-1,beIN SPORTS 10 FHD
+http://mhiptv.com:8888/1856/18561856/3179
+#EXTINF:-1,beIN SPORTS 11 FHD
+http://mhiptv.com:8888/1856/18561856/3613
+#EXTINF:-1,beIN SPORTS 12 FHD
+http://mhiptv.com:8888/1856/18561856/3614
 
 #EXTINF:-1,Bein Sports Max HD 1
 http://62.210.76.207:443/live/osama/abdo/8.ts
