@@ -148,8 +148,6 @@ http://62.210.97.68:8081/planetind2/sonyroxhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8z
 http://62.210.97.68:8081/planetind1/starmovies/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (VIET)
 http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RED by HBO (VIET)
-http://123.29.129.197/v5live.m3u8?c=vstv037&q=high&deviceType=9&userId=24036&deviceId=&type=tv&rkey=12252304YOUSvCN3&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES HD (VIET)
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",WARNER BROS HD (VIET)
@@ -349,11 +347,11 @@ http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/18587
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 1 HD (TRUE)
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8506
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 2 HD  (TRUE)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 2 HD (TRUE)
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8505
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 3 HD  (TRUE)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 3 HD (TRUE)
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8504
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 4 HD  (TRUE)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: BeIN Sports 4 HD (TRUE)
 http://iptvfullhd.info:8080/vdiul0@hotmail.de4/53VVPve7Fv/8503
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: True Sports 1 HD
