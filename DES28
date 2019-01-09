@@ -588,58 +588,34 @@ http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",PT: SPORT TV 5
 http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport 24 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/63.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport 1 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/64.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport Arena HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/65.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport F1 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/70.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport MotoGP HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/71.ts
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 1 SERIE A FULL HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6945.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 1 SERIE A HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6946.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 1 SERIE A SD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6947.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 2 SERIE A FULL HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6948.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 2 SERIE A HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6949.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN 2 SERIE A SD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6950.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 1
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6951.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 2
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6952.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 3
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6953.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 4
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6954.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 5
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6955.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 6
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6956.ts
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport Serie A HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/89.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Sport Football HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/66.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 1 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/90.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 2 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/91.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 3 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/92.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 4 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/93.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 5 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/94.ts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",Sky Calcio 6 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/95.ts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport 1 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38735
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport 2 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38733
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport 3 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38732
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Serie A HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38711
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Uno HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38710
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport F1 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38722
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Moto GP HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38714
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Football HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38720
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: SUPER CALCIO HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38699
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: SUPER SPORT 2 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38698
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport 24 HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38727
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport 24 IT
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38726
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sky Sport Arena HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38724
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",IT: Sport Italia HD
+http://kstv.xyz:8080/z06Qb5TEu/7158156671/38702
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",GR: OTE Sport 1 HD
 http://skyhd-iptv.com:2095/mario11/7ULA8op2CK/523
