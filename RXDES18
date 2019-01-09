@@ -115,14 +115,14 @@ http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,OSN: STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,AR: BEIN MOVIES 1HD
-http://163.172.62.63:8000/Kingiptc/Aa4643/1469
-#EXTINF:-1,AR: BEIN MOVIES 2HD
-http://163.172.62.63:8000/Kingiptc/Aa4643/1470
-#EXTINF:-1,AR: BEIN MOVIES 3HD
-http://163.172.62.63:8000/Kingiptc/Aa4643/1471
-#EXTINF:-1,AR: BEIN MOVIES 4HD
-http://163.172.62.63:8000/Kingiptc/Aa4643/1472
+#EXTINF:-1,beIN_Movies_Premiere_HD
+http://mhiptv.com:8888/1856/18561856/514
+#EXTINF:-1,beIN_Movies_Action_HD
+http://mhiptv.com:8888/1856/18561856/515
+#EXTINF:-1,beIN_Fox_Movies_Action
+http://mhiptv.com:8888/1856/18561856/4141
+#EXTINF:-1,beIN_Fox_Family_Movies
+http://mhiptv.com:8888/1856/18561856/4109
 
 #EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -193,28 +193,29 @@ http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10782.ts
 #EXTINF:-1,beIN SPORTS 12 HD
 http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10784.ts
 
-#EXTINF:-1,ASTRO SUPERSPORTS 1 HD
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43259
-#EXTINF:-1,ASTRO SUPERSPORTS 2 HD
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43260
-#EXTINF:-1,ASTRO SUPERSPORTS 3 HD
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43261
-#EXTINF:-1,ASTRO SUPERSPORTS 4 HD
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43262
-#EXTINF:-1,SkyNet Sports HD
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43344
-#EXTINF:-1,SkyNet Sports 1
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43337
-#EXTINF:-1,SkyNet Sports 2
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43339
-#EXTINF:-1,SkyNet Sports 3
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43340
-#EXTINF:-1,SkyNet Sports 4
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43341
-#EXTINF:-1,SkyNet Sports 5
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43342
-#EXTINF:-1,SkyNet Sports 6
-http://185.134.22.15:8080/1018604748/tMSk59MnEm/43343
+#EXTINF:-1,beIN Sports 1 HD TRUEVIS
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8506
+#EXTINF:-1,beIN Sports 2 HD TRUEVIS
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8505
+#EXTINF:-1,beIN Sports 3 HD TRUEVIS
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8504
+#EXTINF:-1,beIN Sports 4 HD TRUEVIS
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8503
+
+#EXTINF:-1,Skynet Sport HD
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17067
+#EXTINF:-1,Skynet 1
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17073
+#EXTINF:-1,Skynet 2
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17072
+#EXTINF:-1,Skynet 3
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17071
+#EXTINF:-1,Skynet 4
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17070
+#EXTINF:-1,Skynet 5
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17069
+#EXTINF:-1,Skynet 6
+http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17068
 
 #EXTINF:-1,NL: FOX SPORTS 1 HD
 http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
