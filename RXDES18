@@ -102,12 +102,6 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1,IN: SONY PIX HD
-http://62.210.97.68:8081/planetind2/sonypixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,IN: SONY ROX HD
-http://62.210.97.68:8081/planetind2/sonyroxhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,IN: STAR MOVIES
-http://62.210.97.68:8081/planetind1/starmovies/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,VT: HBO HD
 http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
@@ -178,6 +172,110 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
+#EXTINF:-1,ASTRO SUPERSPORTS 1
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/2296
+#EXTINF:-1,ASTRO SUPERSPORTS 2
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/2295
+#EXTINF:-1,ASTRO SUPERSPORTS3
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/2294
+
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11681.m3u8
+#EXTINF:-1,UK: Sky Sports Action HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11713.m3u8
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11710.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11701.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11698.m3u8
+#EXTINF:-1,UK: Sky Sports Football HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11696.m3u8
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11687.m3u8
+#EXTINF:-1,UK: Sky Sports MIX HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11690.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11684.m3u8
+
+#EXTINF:-1,beout Q 1 HD
+http://62.210.76.207:443/live/osama/abdo/12.ts
+#EXTINF:-1,beout Q 2 HD
+http://62.210.76.207:443/live/osama/abdo/13.ts
+#EXTINF:-1,beout Q 3 HD
+http://62.210.76.207:443/live/osama/abdo/14.ts
+#EXTINF:-1,beout Q 4 HD
+http://62.210.76.207:443/live/osama/abdo/15.ts
+#EXTINF:-1,beout Q 5 HD
+http://62.210.76.207:443/live/osama/abdo/16.ts
+#EXTINF:-1,beout Q 6 HD
+http://62.210.76.207:443/live/osama/abdo/17.ts
+#EXTINF:-1,beout Q 7 HD
+http://62.210.76.207:443/live/osama/abdo/18.ts
+#EXTINF:-1,beout Q 8 HD
+http://62.210.76.207:443/live/osama/abdo/19.ts
+#EXTINF:-1,beout Q 9 HD
+http://62.210.76.207:443/live/osama/abdo/20.ts
+#EXTINF:-1,beout Q 10 HD
+http://62.210.76.207:443/live/osama/abdo/21.ts
+
+#EXTINF:-1,beIN Sports 1 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15018
+#EXTINF:-1,beIN Sports 2 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15017
+#EXTINF:-1,beIN Sports 3 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/53269
+#EXTINF:-1,beIN Sports 4 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15015
+#EXTINF:-1,beIN Sports 5 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/625257
+#EXTINF:-1,beIN Sports 6 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15013
+#EXTINF:-1,beIN Sports 7 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15012
+#EXTINF:-1,beIN Sports 8 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15011
+#EXTINF:-1,beIN Sports 9 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15010
+#EXTINF:-1,beIN Sports 10 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15009
+#EXTINF:-1,beIN Sports 11 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15008
+#EXTINF:-1,beIN Sports 12 HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15007
+
+#EXTINF:-1,IT: SKY SPORT UNO
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/337
+#EXTINF:-1,IT: SKY SPORT ARENA
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/274
+#EXTINF:-1,IT: SKY SPORTS NBA
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/335
+#EXTINF:-1,IT: SKY SPORT FOOTBALL
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/285
+#EXTINF:-1,IT: SKY SPORT SERIE A
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/154
+#EXTINF:-1,IT: SKY SPORT F1
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1652
+#EXTINF:-1,IT: SKY SPORT MOTO GP
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/288
+#EXTINF:-1,IT: SKY SPORT 24
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1556
+#EXTINF:-1,IT: SKY CALCIO 1
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/825
+#EXTINF:-1,IT: SKY CALCIO 2
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1346
+#EXTINF:-1,IT: SKY CALCIO 3
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1347
+#EXTINF:-1,IT: SKY CALCIO 4
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1348
+#EXTINF:-1,IT: SKY CALCIO 5
+http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1349
+
+#EXTINF:-1,Bein Sports Max HD 1
+http://62.210.76.207:443/live/osama/abdo/8.ts
+#EXTINF:-1,Bein Sports Max HD 2
+http://62.210.76.207:443/live/osama/abdo/9.ts
+
 #EXTINF:-1,Skynet Sports HD
 http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5396
 #EXTINF:-1,Skynet Sports 1
@@ -209,149 +307,6 @@ http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/513821
 http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/11387
 #EXTINF:-1,Ziggo Sport Select HD NL
 http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5113
-
-#EXTINF:-1,SONY ESPN HD
-http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SONY SIX HD
-http://62.210.97.68:8081/planetind2/sonysixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TEN 1 HD
-http://62.210.97.68:8081/planetind2/sonyten1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TEN 2 HD
-http://62.210.97.68:8081/planetind2/sonyten2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TEN 3 HD
-http://62.210.97.68:8081/planetind1/ten3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,STAR SPORT SELECT HD1
-http://62.210.97.68:8081/planetind1/starsportsselect1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,STAR SPORT SELECT 2
-http://62.210.97.68:8081/planetind1/starsportsselect2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,STAR SPORT 1 HD
-http://62.210.97.68:8081/planetind1/starsports1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,STAR SPORT 2 HD
-http://62.210.97.68:8081/planetind1/starsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,BT SPORT 1 HD
-http://62.210.97.68:8081/planetuk/btsports1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,BT SPORT 2 HD
-http://62.210.97.68:8081/planetuk/btsports2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,BT SPORT 3 HD
-http://62.210.97.68:8081/planetuk/btsports3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,EIR SPORTS
-http://62.210.97.68:8081/planetuk/eirsports1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,EIR SPORTS 2
-http://62.210.97.68:8081/planetuk/eirsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://62.210.97.68:8081/planetuk/skysportspleaguehd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SKY SPORTS ACTION
-http://62.210.97.68:8081/planetuk/skysportsactionhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SKY SPORT NEWS
-http://62.210.97.68:8081/planetuk/skysnewshd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SKY SPORT MIX
-http://62.210.97.68:8081/planetuk/skysportsmixhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://62.210.97.68:8081/planetuk/skysportsmaineventhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SKY SPORT FOOTBALL
-http://62.210.97.68:8081/planetuk/skysportsfootballhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,FOX SPORTS 1
-http://62.210.97.68:8081/planetusc/foxsports1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,FOX SPORTS 2
-http://62.210.97.68:8081/planetusc/foxsports2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,NBCSN
-http://62.210.97.68:8081/planetusc/nbcsportsnetwork/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SportsNET CA
-http://62.210.247.48:8081/planet/snca1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,SPORTS TV1
-http://62.210.97.68:8081/planetptt/sporttv1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SPORTS TV2
-http://62.210.97.68:8081/planetptt/sporttv2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SPORTS TV3
-http://62.210.97.68:8081/planetptt/sporttv3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SPORTS TV4
-http://62.210.97.68:8081/planetptt/sporttv4hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,SPORTS TV5
-http://62.210.97.68:8081/planetptt/sporttv5/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,TIVIBU SPORT 1
-http://62.210.97.68:8081/planetarb/tivibusport1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TIVIBU SPORT 2
-http://62.210.97.68:8081/planetarb/tivibusport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TIVIBU SPORT 3
-http://62.210.97.68:8081/planetarb/tivibusport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TIVIBU SPORT 4
-http://62.210.97.68:8081/planetarb/tivibusport4/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,TSN SPORT 1
-http://62.210.97.68:8081/planetusc/tsn1hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TSN SPORT 2
-http://62.210.97.68:8081/planetusc/tsn2hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TSN SPORT 3
-http://62.210.97.68:8081/planetusc/tsn3hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TSN SPORT 4
-http://62.210.97.68:8081/planetusc/tsn4hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,TSN SPORT 5
-http://62.210.97.68:8081/planetusc/tsn5hd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,RMC SPORT 1
-http://62.210.97.68:8081/planetfr/sfrsport1/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,RMC SPORT 2
-http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,RMC SPORT 3
-http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-#EXTINF:-1,beout Q 1 HD
-http://62.210.76.207:443/live/osama/abdo/12.ts
-#EXTINF:-1,beout Q 2 HD
-http://62.210.76.207:443/live/osama/abdo/13.ts
-#EXTINF:-1,beout Q 3 HD
-http://62.210.76.207:443/live/osama/abdo/14.ts
-#EXTINF:-1,beout Q 4 HD
-http://62.210.76.207:443/live/osama/abdo/15.ts
-#EXTINF:-1,beout Q 5 HD
-http://62.210.76.207:443/live/osama/abdo/16.ts
-#EXTINF:-1,beout Q 6 HD
-http://62.210.76.207:443/live/osama/abdo/17.ts
-#EXTINF:-1,beout Q 7 HD
-http://62.210.76.207:443/live/osama/abdo/18.ts
-#EXTINF:-1,beout Q 8 HD
-http://62.210.76.207:443/live/osama/abdo/19.ts
-#EXTINF:-1,beout Q 9 HD
-http://62.210.76.207:443/live/osama/abdo/20.ts
-#EXTINF:-1,beout Q 10 HD
-http://62.210.76.207:443/live/osama/abdo/21.ts
-
-#EXTINF:-1,beIN SPORTS 1 FHD
-http://62.210.97.68:8081/planetarb/beinsports1/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 2 FHD
-http://62.210.97.68:8081/planetarb/beinsports2/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 3 FHD
-http://62.210.97.68:8081/planetarb/beinsports3/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 4 FHD
-http://62.210.97.68:8081/planetarb/beinsports4/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 5 FHD
-http://62.210.97.68:8081/planetarb/beinsports5/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 6 FHD
-http://62.210.97.68:8081/planetarb/beinsports6/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 7 FHD
-http://62.210.97.68:8081/planetarb/beinsports7/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/53432
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5474
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5473
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5472
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/54715
-
-#EXTINF:-1,Bein Sports Max HD 1
-http://62.210.76.207:443/live/osama/abdo/8.ts
-#EXTINF:-1,Bein Sports Max HD 2
-http://62.210.76.207:443/live/osama/abdo/9.ts
 
 #EXTINF:-1,BT SPORT 1 HD
 http://livebar.pw/lba/123/g2/ukbtsport1.m3u8
