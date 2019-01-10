@@ -115,14 +115,14 @@ http://hplus.huuvinh.ooo/v5live.m3u8?id=warnertv-hd&type=m3u
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,OSN: STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,beIN_Movies_Premiere_HD
-http://mhiptv.com:8888/1856/18561856/514
-#EXTINF:-1,beIN_Movies_Action_HD
-http://mhiptv.com:8888/1856/18561856/515
-#EXTINF:-1,beIN_Fox_Movies_Action
-http://mhiptv.com:8888/1856/18561856/4141
-#EXTINF:-1,beIN_Fox_Family_Movies
-http://mhiptv.com:8888/1856/18561856/4109
+#EXTINF:-1,BEIN MOVIES 1HD
+http://servervip.eu:80/iAJ7PSrGCm/ng31Wo4rVb/32694
+#EXTINF:-1,BEIN MOVIES 2HD
+http://servervip.eu:80/iAJ7PSrGCm/ng31Wo4rVb/32695
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://servervip.eu:80/iAJ7PSrGCm/ng31Wo4rVb/32696
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://servervip.eu:80/iAJ7PSrGCm/ng31Wo4rVb/32697
 
 #EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -174,68 +174,37 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,LFC
-http://62.210.97.68:8081/planetuk/lfctv/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1,beIN SPORTS 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/17.ts
-#EXTINF:-1,beIN SPORTS 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/16.ts
-#EXTINF:-1,beIN SPORTS 3 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/15.ts
-#EXTINF:-1,beIN SPORTS 4 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/14.ts
-#EXTINF:-1,beIN SPORTS 5 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/13.ts
-#EXTINF:-1,beIN SPORTS 10 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10783.ts
-#EXTINF:-1,beIN SPORTS 11 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10782.ts
-#EXTINF:-1,beIN SPORTS 12 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/10784.ts
+#EXTINF:-1,Skynet Sports HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5396
+#EXTINF:-1,Skynet Sports 1
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5395
+#EXTINF:-1,Skynet Sports 2
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5394
+#EXTINF:-1,Skynet Sports 3
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5393
+#EXTINF:-1,Skynet Sports 4
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5392
+#EXTINF:-1,Skynet Sports 5
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5391
+#EXTINF:-1,Skynet Sports 6
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5390
 
-#EXTINF:-1,beIN Sports 1 HD TRUEVIS
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8506
-#EXTINF:-1,beIN Sports 2 HD TRUEVIS
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8505
-#EXTINF:-1,beIN Sports 3 HD TRUEVIS
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8504
-#EXTINF:-1,beIN Sports 4 HD TRUEVIS
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/8503
-
-#EXTINF:-1,Skynet Sport HD
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17067
-#EXTINF:-1,Skynet 1
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17073
-#EXTINF:-1,Skynet 2
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17072
-#EXTINF:-1,Skynet 3
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17071
-#EXTINF:-1,Skynet 4
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17070
-#EXTINF:-1,Skynet 5
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17069
-#EXTINF:-1,Skynet 6
-http://portal.geniptv.com:8080/Adroanwojtaszek/5bEaFYWlg7/17068
-
-#EXTINF:-1,NL: FOX SPORTS 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/544.ts
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/543.ts
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/542.ts
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/541.ts
-
-#EXTINF:-1,IT: SKY SPORTS MOTO GP HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3031.ts
-#EXTINF:-1,IT: SKY SPORTS F1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3030.ts
-#EXTINF:-1,IT: SKY SPORTS SERIE A HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3028.ts
-#EXTINF:-1,IT: SKY SPORTS UNO HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/3023.ts
+#EXTINF:-1,Fox Sports 1 HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5143
+#EXTINF:-1,Fox Sports 2 NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5142
+#EXTINF:-1,Fox Sports 3 HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5141
+#EXTINF:-1,Fox Sports 4 HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/514522
+#EXTINF:-1,Fox Sports 5 HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/513532
+#EXTINF:-1,Fox Sports 6 HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/513821
+#EXTINF:-1,Ziggo Sport NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/11387
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5113
 
 #EXTINF:-1,SONY ESPN HD
 http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8?c2VydmVyX3RpbWU9MS8zLzIwMTkgMzowNTo0NiBBTSZoYXNoX3ZhbHVlPVJmdGFsbmRHam40SnhtOG5JKzdad3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
@@ -364,16 +333,16 @@ http://62.210.97.68:8081/planetarb/beinsports5/playlist.m3u8
 http://62.210.97.68:8081/planetarb/beinsports6/playlist.m3u8
 #EXTINF:-1,beIN SPORTS 7 FHD
 http://62.210.97.68:8081/planetarb/beinsports7/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 8 FHD
-http://mhiptv.com:8888/1856/18561856/3177
-#EXTINF:-1,beIN SPORTS 9 FHD
-http://mhiptv.com:8888/1856/18561856/3178
-#EXTINF:-1,beIN SPORTS 10 FHD
-http://mhiptv.com:8888/1856/18561856/3179
-#EXTINF:-1,beIN SPORTS 11 FHD
-http://mhiptv.com:8888/1856/18561856/3613
-#EXTINF:-1,beIN SPORTS 12 FHD
-http://mhiptv.com:8888/1856/18561856/3614
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/53432
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5474
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5473
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5472
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/54715
 
 #EXTINF:-1,Bein Sports Max HD 1
 http://62.210.76.207:443/live/osama/abdo/8.ts
