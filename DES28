@@ -51,7 +51,6 @@ http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTM3U
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",AND FLIX HD
 http://193.200.164.163:80/live/najib/najib123/34718.ts
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",AND PRIVE HD
