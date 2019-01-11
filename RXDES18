@@ -102,6 +102,10 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,SONY PIX HD
+http://62.210.97.68:8081/liveind2/sonypixhd/playlist.m3u8
+#EXTINF:-1,STAR MOVIES
+http://62.210.97.68:8081/liveind1/starmovies/playlist.m3u8
 
 #EXTINF:-1,VT: HBO HD
 http://123.29.129.196/v5live.m3u8?c=vstv459&q=sd&deviceType=5&userId=534&deviceId=&type=tv&rkey=12252323sz9p8JM0&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.29.9&isp=vn
@@ -212,6 +216,10 @@ http://62.210.97.68:8081/liveind2/sonyten1hd/playlist.m3u8
 http://62.210.97.68:8081/liveind2/sonyten2hd/playlist.m3u8
 #EXTINF:-1,SONY TEN 3 HD
 http://62.210.97.68:8081/liveind2/sonyten3hd/playlist.m3u8
+#EXTINF:-1,Star Sport Sl. 1
+http://62.210.97.68:8081/liveind1/starsportsselect1/playlist.m3u8
+#EXTINF:-1,Star Sport Sl. 2
+http://62.210.97.68:8081/liveind1/starsportsselect2/playlist.m3u8
 
 #EXTINF:-1,beout Q 1 HD
 http://62.210.76.207:443/live/osama/abdo/12.ts
