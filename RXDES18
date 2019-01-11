@@ -183,24 +183,24 @@ http://foviptv.shop:8080/OhnHB0qWvx/11ukc9QyNf/18620
 #EXTINF:-1,SKYNET HD
 http://premium-iptv.link:6969/udo/123/5178
 
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11681.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11713.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11710.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11701.m3u8
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11698.m3u8
-#EXTINF:-1,UK: Sky Sports Football HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11696.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11687.m3u8
-#EXTINF:-1,UK: Sky Sports MIX HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11690.m3u8
-#EXTINF:-1,UK: Sky Sports News HD
-http://beastiptv.tv:8080/live/cliles4/aZSX626jXd/11684.m3u8
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2353
+#EXTINF:-1,UK: Sky Sport Football HD
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2352
+#EXTINF:-1,UK: SKY Sports ACTION
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2351
+#EXTINF:-1,UK: SKY Sports CRICKET
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2350
+#EXTINF:-1,UK: Sky Sports F1 HD 1080p
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2349
+#EXTINF:-1,UK: SKY Sports GOLF HD
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2348
+#EXTINF:-1,UK: Sky Sports Mix
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2347
+#EXTINF:-1,UK: Sky Sports News HD 1080p
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2346
+#EXTINF:-1,UK: SKY Sports PREMIER LEAGUE
+http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2345
 
 #EXTINF:-1,beout Q 1 HD
 http://62.210.76.207:443/live/osama/abdo/12.ts
@@ -247,33 +247,6 @@ http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15009
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15008
 #EXTINF:-1,beIN Sports 12 HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/15007
-
-#EXTINF:-1,IT: SKY SPORT UNO
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/337
-#EXTINF:-1,IT: SKY SPORT ARENA
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/274
-#EXTINF:-1,IT: SKY SPORTS NBA
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/335
-#EXTINF:-1,IT: SKY SPORT FOOTBALL
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/285
-#EXTINF:-1,IT: SKY SPORT SERIE A
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/154
-#EXTINF:-1,IT: SKY SPORT F1
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1652
-#EXTINF:-1,IT: SKY SPORT MOTO GP
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/288
-#EXTINF:-1,IT: SKY SPORT 24
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1556
-#EXTINF:-1,IT: SKY CALCIO 1
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/825
-#EXTINF:-1,IT: SKY CALCIO 2
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1346
-#EXTINF:-1,IT: SKY CALCIO 3
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1347
-#EXTINF:-1,IT: SKY CALCIO 4
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1348
-#EXTINF:-1,IT: SKY CALCIO 5
-http://ip.clientmarket.top:8080/eismann68@gmail.com/tfk8ZR1WgC/1349
 
 #EXTINF:-1,Bein Sports Max HD 1
 http://62.210.76.207:443/live/osama/abdo/8.ts
