@@ -202,6 +202,17 @@ http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2346
 #EXTINF:-1,UK: SKY Sports PREMIER LEAGUE
 http://io.xtrego.com:8080/AccesoEc/rb5vD8HCgf/2345
 
+#EXTINF:-1,SONY SIX HD
+http://62.210.97.68:8081/liveind2/sonysixhd/playlist.m3u8
+#EXTINF:-1,SONY ESPN HD
+http://62.210.97.68:8081/liveind2/sonyespnhd/playlist.m3u8
+#EXTINF:-1,SONY TEN 1 HD
+http://62.210.97.68:8081/liveind2/sonyten1hd/playlist.m3u8
+#EXTINF:-1,SONY TEN 2 HD
+http://62.210.97.68:8081/liveind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1,SONY TEN 3 HD
+http://62.210.97.68:8081/liveind2/sonyten3hd/playlist.m3u8
+
 #EXTINF:-1,beout Q 1 HD
 http://62.210.76.207:443/live/osama/abdo/12.ts
 #EXTINF:-1,beout Q 2 HD
