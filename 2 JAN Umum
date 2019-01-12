@@ -67,15 +67,20 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://206.189.46.75/live/hbo.m3u8?SulukWay-IPTV.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES INDO
 http://206.189.46.75/live/fox.m3u8?SulukWay-IPTV.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Sony Pix
-http://iptv-area-51.tv:2095/rayjoecamp/6Hmko58bQ0/14424
-
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY PIX HD
+http://62.210.97.68:8081/liveind2/sonypixhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR MOVIES
+http://62.210.97.68:8081/liveind1/starmovies/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",SONY MOVIE CHANNEL HD
 http://lotustv.be:80/tammy1/tammy1/62057
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ACTION HD
 http://lotustv.be:80/tammy1/tammy1/16444
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO HD (IN)
 http://lotustv.be:80/tammy1/tammy1/55835
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",STAR VIJAY HD
+http://lotustv.be:80/tammy1/tammy1/16450
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CINEMAX HD
+http://lotustv.be:80/tammy1/tammy1/14257
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
 http://123.29.129.197/v5live.m3u8?c=vstv036&q=auto&deviceType=7&userId=5&deviceId=10122055&type=tv&rkey=12251855kKiHJPns&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=&rbk=20316270135&pnode=172.16.29.9
