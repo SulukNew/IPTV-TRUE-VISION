@@ -50,11 +50,13 @@ http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",TEN 1 HD
-http://pkin.satocean.com:25461/stalker/stalker/167
+http://142.93.219.225:8081/Ten1HD/index.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",TEN 2 HD
 http://pkin.satocean.com:25461/stalker/stalker/238
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",TEN 3 HD
+http://142.93.219.225:8081/Ten3HD/index.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",SONY SIX HD
-http://pkin.satocean.com:25461/stalker/stalker/165
+http://142.93.219.225:8081/SixHD/index.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/0NwvJxJS/VCON.png" group-title="LOVE♥D2H",SONY ESPN HD
 http://pkin.satocean.com:25461/stalker/stalker/170
 
