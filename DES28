@@ -464,21 +464,21 @@ http://62.210.114.98:9989/live?channelId=386&deviceMac=00:1A:79:BE:2F:F6&uid=161
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET 6
 http://62.210.114.98:9989/live?channelId=387&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=387.ts
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: beIN Sports 1 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36388
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: beIN Sports 2 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36386
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: beIN Sports 3 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36384
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: beIN Sports 4 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36382
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beIN Sports 1 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8506
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beIN Sports 2 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8505
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beIN Sports 3 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8504
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",beIN Sports 4 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8503
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE Sports 1 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36380
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE Sports 2 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36379
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",TH: TRUE Sports 3 HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/36378
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",True Sports 1 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8498
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",True Sports 2 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8497
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",True Sports 3 HD TH
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/8496
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",MY: GINX SPORTS HD
 http://king-tv.net:8080/saggio21/WTvZXy9YYH/77483
