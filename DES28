@@ -252,54 +252,113 @@ http://206.189.46.75/live/hbo.m3u8?SulukWay-IPTV.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES INDO
 http://206.189.46.75/live/fox.m3u8?SulukWay-IPTV.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX MOVIES HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/77488
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FX CINEMA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/77486
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Movies Action HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/77485
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: Fox Movies Premium
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/77484
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: FOX LIFE HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/77489
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO AEC HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61683
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO AWANI HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61674
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO BELLA
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61673
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO BOX OFFICE BOLLY ONE HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61656
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO CERIA
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61681
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO HHD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61651
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO MAYA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61679
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO OASIS HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61678
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO PRIMA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61677
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO QUAN JIA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61676
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO RAYA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61672
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO RIA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61671
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO SHUANG XING HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61675
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO TARA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61670
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO VAANAVIL HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61669
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO VINMEEN HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61668
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO WARNA HD
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61667
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO XI YUE
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61666
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",MY: ASTRO XIAO TAI YANG
-http://king-tv.net:8080/saggio21/WTvZXy9YYH/61665
+
+﻿
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO AEC HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18633
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO ARENA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18632
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO AWANI HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/29582
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO BELLA MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18631
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO CERIA MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18630
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO CRICKET HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18629
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO MAYA MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/29593
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO OASIS HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18628
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO PRIMA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18627
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO QUAN JIA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18626
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO RIA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18625
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO SHUANG XING HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18624
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO TARA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18619
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO VAANAVIL HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18618
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO VINMEEN HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18617
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO WARNA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18616
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO XI YUE MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18615
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO XIAO TAI YANG MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18614
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AXN HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18613
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Astro Awani MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/1373
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Astro Maya HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/1371
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BABY FIRST MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18612
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BBC EARTH HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18610
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BBC LIFESTYLE MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18609
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BEIN SPORTS MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18608
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BLUE ANT EXTREME MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18607
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BOLLY ONE HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18606
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",BOOMERANG HD KD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18605
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CARTOON NETWORK MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18604
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CELESTIAL MOVIES MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18603
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CHANNEL W MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18602
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",CINEMA WORLD HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18601
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISCOVERY CHANNEL MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18600
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISNEY CH MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18599
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISNEY JR MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18598
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DISNEY XD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18597
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DIVA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18596
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",DUNIA SINEMA MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18595
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ENTERTAINMENT MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18594
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",EVERY GOOD GAME HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18593
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX ACTION MOVIES HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/29583
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX FAMILY MOVIES HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18592
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX LIFE HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18591
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX MOVIES HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18590
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX SPORTS 1 MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18589
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX SPORTS 2 MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18588
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX SPORTS 3 MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18587
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FOX TV HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18586
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",FX CINEMA HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18585
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fox Movies Action HD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/1362
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",Fox Movies Premium MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/1361
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -370,6 +429,15 @@ http://sensei-iptv.cf:8000/live/Driss-XY/Driss-XY/21.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="LOVE♥HD",beIN Movie 4 HD AR
 http://sensei-iptv.cf:8000/live/Driss-XY/Driss-XY/22.ts
 
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 1 FHD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18623
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 2 FHD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18622
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 3 FHD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18621
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 4 FHD MY
+http://restream.geniptv.com:8080/5h5vwu44MB/xhGOsoJHn0/18620
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",GINX Sports (Gaming Channel)
 http://nitro.ltd:25461/Brucelawrence44/ntBLiSOTfG/22940
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",ASTRO SUPERSPORTS 1
