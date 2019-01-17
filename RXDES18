@@ -204,16 +204,22 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,Sky Sports Main Event HD
-http://62.210.189.214:1202/jamie/jamie/115
-#EXTINF:-1,Sky Sports Premier League HD
-http://62.210.189.214:1202/jamie/jamie/116
-#EXTINF:-1,Sky Sports Football HD
-http://62.210.189.214:1202/jamie/jamie/117
-#EXTINF:-1,Sky Sports Action HD
-http://62.210.189.214:1202/jamie/jamie/188
-#EXTINF:-1,Sky Sports F1 HD
-http://62.210.189.214:1202/jamie/jamie/138
+#EXTINF:-1,Sky Sports F1 HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/6535
+#EXTINF:-1,Sky Sports Mix HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7925
+#EXTINF:-1,Sky Sports News HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/15702
+#EXTINF:-1,Sky Sports Action HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7920
+#EXTINF:-1,Sky Sports Arena HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/15710
+#EXTINF:-1,Sky Sports Football HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/625255
+#EXTINF:-1,Sky Sports Main Event HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7932
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7923
 
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
