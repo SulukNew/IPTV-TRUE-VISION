@@ -97,22 +97,24 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1,IN: HBO FHD
-http://wg1.bz:8080/dean62murray@gmail.com/IQx9oWDxW8/130681
-#EXTINF:-1,MOVIES NOW FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
-#EXTINF:-1,MN PLUS FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
-#EXTINF:-1,MNX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
+http://193.200.164.163:80/live/najib/najib123/34702.ts
+#EXTINF:-1,MOVIES NOW HD
+http://193.200.164.163:80/live/najib/najib123/34697.ts
+#EXTINF:-1,MN PLUS HD
+http://193.200.164.163:80/live/najib/najib123/34699.ts
+#EXTINF:-1,MNX HD
+http://193.200.164.163:80/live/najib/najib123/34698.ts
 #EXTINF:-1,SONY LE PLEX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
-
+http://193.200.164.163:80/live/najib/najib123/34689.ts
 #EXTINF:-1,Sony Pix HD
-http://wg1.bz:8080/dean62murray@gmail.com/IQx9oWDxW8/130747
-#EXTINF:-1,Star World HD
-http://wg1.bz:8080/dean62murray@gmail.com/IQx9oWDxW8/130745
-#EXTINF:-1,Star World premier HD
-http://wg1.bz:8080/dean62murray@gmail.com/IQx9oWDxW8/130744
+http://193.200.164.163:80/live/najib/najib123/34587.ts
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://193.200.164.163:80/live/najib/najib123/34687.ts
+#EXTINF:-1,STAR WORLD HD
+http://193.200.164.163:80/live/najib/najib123/34686.ts
+#EXTINF:-1,STAR WORLD PREMIER HD
+http://193.200.164.163:80/live/najib/najib123/34685.ts
+
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &PRIVE HD
@@ -243,30 +245,30 @@ http://109.236.88.125:8000/ghana_235285/uf5JySUY/6268
 #EXTINF:-1,beOUT Q Sport 7
 http://109.236.88.125:8000/ghana_235285/uf5JySUY/6269
 
-#EXTINF:-1,AR_BEIN_SPORTS 1 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/1.ts
-#EXTINF:-1,AR_BEIN_SPORTS 2 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/2.ts
-#EXTINF:-1,AR_BEIN_SPORTS 3 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/3.ts
-#EXTINF:-1,AR_BEIN_SPORTS 4 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/4.ts
-#EXTINF:-1,AR_BEIN_SPORTS 5 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/5.ts
-#EXTINF:-1,AR_BEIN_SPORTS 6 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/6.ts
-#EXTINF:-1,AR_BEIN_SPORTS 7 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/7.ts
-#EXTINF:-1,AR_BEIN_SPORTS 8 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/8.ts
-#EXTINF:-1,AR_BEIN_SPORTS 9 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/9.ts
-#EXTINF:-1,AR_BEIN_SPORTS 10 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/10.ts
-#EXTINF:-1,AR_BEIN_SPORTS 11 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/11.ts
-#EXTINF:-1,AR_BEINS_SPORTS 12 HD
-http://space-iptv.ddns.net:8112/live/alaachawki/IHUJhjbjhf365/12.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1470
+#EXTINF:-1,Bein Sport 2 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1469
+#EXTINF:-1,Bein Sport 3 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1701
+#EXTINF:-1,Bein Sport 4 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1702
+#EXTINF:-1,Bein Sport 5 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1703
+#EXTINF:-1,Bein Sport 6 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/5070
+#EXTINF:-1,Bein Sport 7 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1705
+#EXTINF:-1,Bein Sport 8 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1706
+#EXTINF:-1,Bein Sport 9 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1707
+#EXTINF:-1,Bein Sport 10 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1799
+#EXTINF:-1,Bein Sport 11 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/2160
+#EXTINF:-1,Bein Sport 12 HD
+http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/2161
 
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
@@ -360,10 +362,6 @@ http://31.220.2.149:8081/live/fsklub4/playlist.m3u8
 #EXTINF:-1,SPORT KLUB 5 HD
 http://31.220.2.149:8081/live/fsklub5/playlist.m3u8
 
-#EXTINF:-1,Bein Sports Max HD 1
-http://62.210.76.207:443/live/osama/abdo/8.ts
-#EXTINF:-1,Bein Sports Max HD 2
-http://62.210.76.207:443/live/osama/abdo/9.ts
 #EXTINF:-1,SKY SPORT BUNDESLIGA 1 HD
 http://31.220.2.149:8081/live/hdq8/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS 1 HD FRANCE
