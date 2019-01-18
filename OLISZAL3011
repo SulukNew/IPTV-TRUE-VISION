@@ -271,6 +271,27 @@ http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 2
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 1 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4738
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 2 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4739
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 3 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4740
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 4 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4741
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 5 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4742
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 6 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4743
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 7 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/4744
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 8 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/5147
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 9 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/5148
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",BeoutQ Sport 10 HD
+http://iptv.speedhd10.com:8080/0000011111/0000011111/5149
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD1 
 http://smart-hdip.com:6204/soran/soran/127
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Bein Sport HD2 
