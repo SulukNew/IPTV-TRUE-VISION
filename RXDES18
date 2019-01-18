@@ -88,6 +88,10 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1,Fox Movies Action TRUE
+http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4937.ts
+#EXTINF:-1,Fox Movies Premium TRUE
+http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4936.ts
 #EXTINF:-1,IN: HBO FHD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14550
 #EXTINF:-1,MOVIES NOW HD
