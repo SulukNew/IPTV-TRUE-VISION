@@ -4,14 +4,6 @@ https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1,SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 
-#EXTINF:-1,Nick Toons 
-http://62.210.93.43:80/live?channelId=98&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=98.ts
-#EXTINF:-1,Nickelodeon 
-http://62.210.93.43:80/live?channelId=99&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=99.ts
-#EXTINF:-1,NickJr Too 
-http://62.210.93.43:80/live?channelId=100&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=100.ts
-#EXTINF:-1,Boomerang 
-http://62.210.93.43:80/live?channelId=101&deviceMac=00:1A:79:BE:2F:F6&uid=1615&fileName=101.ts
 #EXTINF:-1,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1,MIAO MI
@@ -56,7 +48,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1,TRANS 7
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,TRANS7 HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:-1,TRANS TV
 http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,BERITA SATU HD
@@ -135,9 +127,9 @@ http://xxultraxx.com:80/tvlink531/205677/1472
 http://epic1.ddns.net:80/BPABADPQU/PDGWEDMDBT/15121
 #EXTINF:-1,AU : SBS VICELAND
 http://epic1.ddns.net:80/BPABADPQU/PDGWEDMDBT/15120
-#EXTINF:-1,24/7 TOM AND JERRY
-http://kstv.xyz:8080/Xonder/6231957871/32207
 
+#EXTINF:-1,SKYNET SPORTS HD
+http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
 #EXTINF:-1,TRUE SPORTS 1 HD
 http://xxultraxx.com:80/tvlink531/205677/22462
 #EXTINF:-1,TRUE SPORTS 2 HD
@@ -230,11 +222,11 @@ http://142.93.219.225:8081/SixHD/index.m3u8
 #EXTINF:-1,SONY ESPN HD
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1,SONY TEN 1 HD
-http://142.93.219.225:8081/Ten1HD/index.m3u8
+http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1,SONY TEN 2 HD
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1,SONY TEN 3 HD
-http://142.93.219.225:8081/Ten3HD/index.m3u8
+http://163.172.218.205:8081/T/2/index.m3u8
 
 #EXTINF:-1,beOUT Q Sport 1
 http://109.236.88.125:8000/ghana_235285/uf5JySUY/6263
@@ -292,8 +284,6 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE HD
 http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:-1,Sony TEN 1
-http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1,Fox Sport HD
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxsport1-hd&type=m3u
 #EXTINF:-1,FOX SPORT 2
