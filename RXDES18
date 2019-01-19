@@ -200,22 +200,37 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
+#EXTINF:-1,Skynet Sports HD
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5396
+#EXTINF:-1,Skynet Sports 1
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5395
+#EXTINF:-1,Skynet Sports 2
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5394
+#EXTINF:-1,Skynet Sports 3
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5393
+#EXTINF:-1,Skynet Sports 4
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5392
+#EXTINF:-1,Skynet Sports 5
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5391
+#EXTINF:-1,Skynet Sports 6
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5390
+
 #EXTINF:-1,Sky Sports F1 HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/6535
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/6535
 #EXTINF:-1,Sky Sports Mix HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7925
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7925
 #EXTINF:-1,Sky Sports News HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/15702
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/15702
 #EXTINF:-1,Sky Sports Action HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7920
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7920
 #EXTINF:-1,Sky Sports Arena HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/15710
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/15710
 #EXTINF:-1,Sky Sports Football HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/625255
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/625255
 #EXTINF:-1,Sky Sports Main Event HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7932
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7932
 #EXTINF:-1,Sky Sports Premier League HD UK
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/7923
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7923
 
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
@@ -232,45 +247,51 @@ http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1,SONY TEN 3 HD
 http://163.172.218.205:8081/T/2/index.m3u8
 
-#EXTINF:-1,beOUT Q Sport 1
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6263
-#EXTINF:-1,beOUT Q Sport 2
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6264
-#EXTINF:-1,beOUT Q Sport 3
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6265
-#EXTINF:-1,beOUT Q Sport 4
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6266
-#EXTINF:-1,beOUT Q Sport 5
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6267
-#EXTINF:-1,beOUT Q Sport 6
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6268
-#EXTINF:-1,beOUT Q Sport 7
-http://109.236.88.125:8000/ghana_235285/uf5JySUY/6269
+#EXTINF:-1,beIN Sports 1 HD FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12961
+#EXTINF:-1,beIN Sports 2 HD FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5709
+#EXTINF:-1,beIN Sports 3 HD FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12957
+#EXTINF:-1,beIN Sports 4 Max FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8562
+#EXTINF:-1,beIN Sports 6 Max FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8538
+#EXTINF:-1,beIN Sports 7 Max FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8537
+#EXTINF:-1,beIN Sports Max 8 FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12956
+#EXTINF:-1,beIN Sports Max 8 HD FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12955
+#EXTINF:-1,beIN Sports Max 9 FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12954
+#EXTINF:-1,beIN Sports Max 10 FR
+http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12953
 
-#EXTINF:-1,Bein Sport 1 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1470
-#EXTINF:-1,Bein Sport 2 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1469
-#EXTINF:-1,Bein Sport 3 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1701
-#EXTINF:-1,Bein Sport 4 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1702
-#EXTINF:-1,Bein Sport 5 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1703
-#EXTINF:-1,Bein Sport 6 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/5070
-#EXTINF:-1,Bein Sport 7 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1705
-#EXTINF:-1,Bein Sport 8 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1706
-#EXTINF:-1,Bein Sport 9 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1707
-#EXTINF:-1,Bein Sport 10 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/1799
-#EXTINF:-1,Bein Sport 11 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/2160
-#EXTINF:-1,Bein Sport 12 HD
-http://ultraiptv.online:80/Extream!Online/FvUZV7rkzP/2161
+#EXTINF:-1,beIN SPORTS HD1
+http://123orca.com:25461/wajih123/123wajih/12075
+#EXTINF:-1,beIN SPORTS HD2
+http://123orca.com:25461/wajih123/123wajih/12076
+#EXTINF:-1,beIN SPORTS HD3
+http://123orca.com:25461/wajih123/123wajih/3165
+#EXTINF:-1,beIN SPORTS HD4
+http://123orca.com:25461/wajih123/123wajih/3164
+#EXTINF:-1,beIN SPORTS HD5
+http://123orca.com:25461/wajih123/123wajih/3163
+#EXTINF:-1,beIN SPORTS HD6
+http://123orca.com:25461/wajih123/123wajih/3162
+#EXTINF:-1,beIN SPORTS HD7
+http://123orca.com:25461/wajih123/123wajih/3161
+#EXTINF:-1,beIN SPORTS HD8
+http://123orca.com:25461/wajih123/123wajih/3160
+#EXTINF:-1,beIN SPORTS HD9
+http://123orca.com:25461/wajih123/123wajih/3159
+#EXTINF:-1,beIN SPORTS HD10
+http://123orca.com:25461/wajih123/123wajih/3158
+#EXTINF:-1,beIN SPORTS HD11
+http://123orca.com:25461/wajih123/123wajih/3157
+#EXTINF:-1,beIN SPORTS HD12
+http://123orca.com:25461/wajih123/123wajih/3156
 
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
