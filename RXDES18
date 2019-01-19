@@ -92,16 +92,22 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4937.ts
 #EXTINF:-1,Fox Movies Premium TRUE
 http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4936.ts
-#EXTINF:-1,IN: HBO FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14550
+#EXTINF:-1,HBO HD
+http://52.66.89.249/HBO_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:-1,MOVIES NOW HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14625
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:-1,MN PLUS HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14623
-#EXTINF:-1,MNX HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14624
-#EXTINF:-1,WARNER BROSS FHD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14622
+http://52.66.89.249/MNPLUS/video.m3u8?token=XH6p3jYyb1
+#EXTINF:-1,MOVIES NOW 2 HD
+http://52.66.89.249/Movies_Now2/video.m3u8?token=XH6p3jYyb1
+#EXTINF:-1,ROMEDY NOW HD
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=XH6p3jYyb1
+#EXTINF:-1,AXN HD
+http://52.66.89.249/AXN_HD/video.m3u8?token=XH6p3jYyb1
+#EXTINF:-1,WARNER BROS
+http://52.66.89.249/WB/video.m3u8?token=XH6p3jYyb1
+#EXTINF:-1,SONY MAX HD
+http://52.66.89.249/Sony_Max_HD/video.m3u8?token=XH6p3jYyb1
 #EXTINF:-1,SONY PIX HD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14424
 #EXTINF:-1,STAR MOVIES SELECT HD
