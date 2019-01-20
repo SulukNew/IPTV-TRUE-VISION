@@ -336,9 +336,9 @@ http://163.172.211.229:8000/live/gfsdythfitspo/rsfrhgspit/47.ts
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX HD
 http://142.93.219.225:8081/SixHD/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY ESPN HD
-http://62.210.97.68:8081/liveind2/sonyespnhd/playlist.m3u8
+http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1 HD
-http://142.93.219.225:8081/Ten1HD/index.m3u8
+http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 2 HD
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/SQvDDNBC/LC.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 3 HD
