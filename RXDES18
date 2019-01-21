@@ -130,6 +130,17 @@ http://smart-hdip.com:6204/ali010/ali010/2712
 
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
+#EXTINF:-1,JIO FOOTBALL HD
+http://52.66.89.249/Jio_Football/video.m3u8?token=motherfucker
+#EXTINF:-1,JIO FOOTBALL 1 HD
+http://52.66.89.249/Jio_Football_1/video.m3u8?token=motherfucker
+#EXTINF:-1,JIO FOOTBALL 2 HD
+http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfucker
+#EXTINF:-1,JIO FOOTBALL 3 HD
+http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfucker
+
+#EXTINF:-1,JIO FOOTBALL 4 HD
+http://52.66.89.249/Jio_Football_4/video.m3u8?token=motherfucker
 #EXTINF:-1,Digi Sport 1 RO
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1351
 #EXTINF:-1,Digi Sport 2 RO
