@@ -88,28 +88,24 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,Fox Movies Action TRUE
-http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4937.ts
-#EXTINF:-1,Fox Movies Premium TRUE
-http://paidiptv.link:25461/live/WTtt1tZiiy/fInH66nB0B/4936.ts
 #EXTINF:-1,HBO HD
-http://52.66.89.249/HBO_HD/video.m3u8?token=fuckyou
+http://52.66.89.249/HBO_HD/video.m3u8?token=nono
 #EXTINF:-1,MOVIES NOW HD
-http://52.66.89.249/Movies_Now_HD/video.m3u8?token=fuckyou
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=nono
 #EXTINF:-1,MN PLUS HD
-http://52.66.89.249/MNPLUS/video.m3u8?token=fuckyou
+http://52.66.89.249/MNPLUS/video.m3u8?token=nono
 #EXTINF:-1,MOVIES NOW 2 HD
-http://52.66.89.249/Movies_Now2/video.m3u8?token=fuckyou
+http://52.66.89.249/Movies_Now2/video.m3u8?token=nono
 #EXTINF:-1,ROMEDY NOW HD
-http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=fuckyou
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=nono
 #EXTINF:-1,AXN HD
-http://52.66.89.249/AXN_HD/video.m3u8?token=fuckyou
+http://52.66.89.249/AXN_HD/video.m3u8?token=nono
 #EXTINF:-1,WARNER BROS
-http://52.66.89.249/WB/video.m3u8?token=fuckyou
+http://52.66.89.249/WB/video.m3u8?token=nono
 #EXTINF:-1,SONY MAX HD
-http://52.66.89.249/Sony_Max_HD/video.m3u8?token=fuckyou
+http://52.66.89.249/Sony_Max_HD/video.m3u8?token=nono
 #EXTINF:-1,SONY PIX HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/14424
+http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=nono
 #EXTINF:-1,STAR MOVIES SELECT HD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
 #EXTINF:-1,STAR WORLD HD
@@ -123,29 +119,26 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1,IN: &PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1,BeinHD: FOX MOVIES
-http://xxultraxx.com:80/tvlink531/205677/8130
-#EXTINF:-1,BeinHD: FOX MOVIES ACTION
-http://xxultraxx.com:80/tvlink531/205677/8131
-#EXTINF:-1,BeinHD: FOX MOVIES FAMILY
-http://xxultraxx.com:80/tvlink531/205677/8132
-#EXTINF:-1,BeinHD: Movies Premiere HD1
-http://xxultraxx.com:80/tvlink531/205677/1471
-#EXTINF:-1,BeinHD: Movies Action HD2
-http://xxultraxx.com:80/tvlink531/205677/1472
-#EXTINF:-1,AU : SBS
-http://epic1.ddns.net:80/BPABADPQU/PDGWEDMDBT/15121
-#EXTINF:-1,AU : SBS VICELAND
-http://epic1.ddns.net:80/BPABADPQU/PDGWEDMDBT/15120
+#EXTINF:-1,Bein Movies HD1
+http://smart-hdip.com:6204/ali010/ali010/2151
+#EXTINF:-1,Bein Movies HD2
+http://smart-hdip.com:6204/ali010/ali010/2303
+#EXTINF:-1,Bein Movies HD3
+http://smart-hdip.com:6204/ali010/ali010/4068
+#EXTINF:-1,Bein Movies HD4
+http://smart-hdip.com:6204/ali010/ali010/2712
+
 
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
-#EXTINF:-1,TRUE SPORTS 1 HD
-http://xxultraxx.com:80/tvlink531/205677/22462
-#EXTINF:-1,TRUE SPORTS 2 HD
-http://xxultraxx.com:80/tvlink531/205677/22461
-#EXTINF:-1,TRUE SPORTS 3 HD
-http://xxultraxx.com:80/tvlink531/205677/22460
+#EXTINF:-1,Digi Sport 1 RO
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1351
+#EXTINF:-1,Digi Sport 2 RO
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1350
+#EXTINF:-1,Digi Sport 3 RO
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1349
+#EXTINF:-1,Digi Sport 4 RO
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1348
 
 #EXTINF:-1,VT: HBO HD
 http://vnpt.vanthanh.cf:4022/rtp/232.84.2.138:10648
