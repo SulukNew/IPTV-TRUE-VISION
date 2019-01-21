@@ -89,23 +89,23 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1,HBO HD
-http://52.66.89.249/HBO_HD/video.m3u8?token=nono
+http://52.66.89.249/HBO_HD/video.m3u8?token=motherfucker
 #EXTINF:-1,MOVIES NOW HD
-http://52.66.89.249/Movies_Now_HD/video.m3u8?token=nono
+http://52.66.89.249/Movies_Now_HD/video.m3u8?tokenmotherfucker
 #EXTINF:-1,MN PLUS HD
-http://52.66.89.249/MNPLUS/video.m3u8?token=nono
+http://52.66.89.249/MNPLUS/video.m3u8?token=motherfucker
 #EXTINF:-1,MOVIES NOW 2 HD
-http://52.66.89.249/Movies_Now2/video.m3u8?token=nono
+http://52.66.89.249/Movies_Now2/video.m3u8?token=motherfucker
 #EXTINF:-1,ROMEDY NOW HD
-http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=nono
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=motherfucker
 #EXTINF:-1,AXN HD
-http://52.66.89.249/AXN_HD/video.m3u8?token=nono
+http://52.66.89.249/AXN_HD/video.m3u8?token=motherfucker
 #EXTINF:-1,WARNER BROS
-http://52.66.89.249/WB/video.m3u8?token=nono
+http://52.66.89.249/WB/video.m3u8?token=motherfucker
 #EXTINF:-1,SONY MAX HD
-http://52.66.89.249/Sony_Max_HD/video.m3u8?token=nono
+http://52.66.89.249/Sony_Max_HD/video.m3u8?token=motherfucker
 #EXTINF:-1,SONY PIX HD
-http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=nono
+http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=motherfucker
 #EXTINF:-1,STAR MOVIES SELECT HD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
 #EXTINF:-1,STAR WORLD HD
@@ -127,7 +127,6 @@ http://smart-hdip.com:6204/ali010/ali010/2303
 http://smart-hdip.com:6204/ali010/ali010/4068
 #EXTINF:-1,Bein Movies HD4
 http://smart-hdip.com:6204/ali010/ali010/2712
-
 
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
@@ -231,16 +230,10 @@ http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7932
 #EXTINF:-1,Sky Sports Premier League HD UK
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7923
 
-#EXTINF:-1, STAR SPORTS 1 HD
-http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.bb09ade3169baf7fad36e11f699ccecd
-#EXTINF:-1, STAR SPORTS SELECT 1
-http://150.242.21.2/starsportsfour.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2
-http://142.93.219.225:8081/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1,SONY SIX HD
-http://142.93.219.225:8081/SixHD/index.m3u8
-#EXTINF:-1,SONY ESPN HD
-http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
+#EXTINF:-1,Sony ESPN 
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/3991
+#EXTINF:-1,Sony SIX 
+http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5548
 #EXTINF:-1,SONY TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1,SONY TEN 2 HD
