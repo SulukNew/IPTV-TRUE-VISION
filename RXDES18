@@ -139,6 +139,13 @@ http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfucker
 #EXTINF:-1,JIO FOOTBALL 3 HD
 http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfucker
 
+#EXTINF:-1,FOX SPORT 1
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+
 #EXTINF:-1,JIO FOOTBALL 4 HD
 http://52.66.89.249/Jio_Football_4/video.m3u8?token=motherfucker
 #EXTINF:-1,Digi Sport 1 RO
