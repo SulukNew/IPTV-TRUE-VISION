@@ -89,23 +89,23 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1,HBO HD
-http://52.66.89.249/HBO_HD/video.m3u8?token=motherfucker
+http://52.66.89.249/HBO_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,MOVIES NOW HD
-http://52.66.89.249/Movies_Now_HD/video.m3u8?tokenmotherfucker
+http://52.66.89.249/Movies_Now_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,MN PLUS HD
-http://52.66.89.249/MNPLUS/video.m3u8?token=motherfucker
+http://52.66.89.249/MNPLUS/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,MOVIES NOW 2 HD
-http://52.66.89.249/Movies_Now2/video.m3u8?token=motherfucker
+http://52.66.89.249/Movies_Now2/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,ROMEDY NOW HD
-http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=motherfucker
+http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,AXN HD
-http://52.66.89.249/AXN_HD/video.m3u8?token=motherfucker
+http://52.66.89.249/AXN_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,WARNER BROS
-http://52.66.89.249/WB/video.m3u8?token=motherfucker
+http://52.66.89.249/WB/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,SONY MAX HD
-http://52.66.89.249/Sony_Max_HD/video.m3u8?token=motherfucker
+http://52.66.89.249/Sony_Max_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,SONY PIX HD
-http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=motherfucker
+http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,STAR MOVIES SELECT HD
 http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
 #EXTINF:-1,STAR WORLD HD
@@ -131,13 +131,13 @@ http://smart-hdip.com:6204/ali010/ali010/2712
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
 #EXTINF:-1,JIO FOOTBALL HD
-http://52.66.89.249/Jio_Football/video.m3u8?token=motherfucker
+http://52.66.89.249/Jio_Football/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,JIO FOOTBALL 1 HD
-http://52.66.89.249/Jio_Football_1/video.m3u8?token=motherfucker
+http://52.66.89.249/Jio_Football_1/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,JIO FOOTBALL 2 HD
-http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfucker
+http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfuckerddad
 #EXTINF:-1,JIO FOOTBALL 3 HD
-http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfucker
+http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfuckerddad
 
 #EXTINF:-1,FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
@@ -230,7 +230,6 @@ http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5392
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5391
 #EXTINF:-1,Skynet Sports 6
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5390
-
 
 #EXTINF:-1,Sky Sports F1 HD UK
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/6535
