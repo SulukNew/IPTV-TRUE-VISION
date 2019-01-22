@@ -88,30 +88,34 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,HBO HD
-http://52.66.89.249/HBO_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,MOVIES NOW HD
-http://52.66.89.249/Movies_Now_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,MN PLUS HD
-http://52.66.89.249/MNPLUS/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,MOVIES NOW 2 HD
-http://52.66.89.249/Movies_Now2/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,ROMEDY NOW HD
-http://52.66.89.249/Romedy_Now_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,AXN HD
-http://52.66.89.249/AXN_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,WARNER BROS
-http://52.66.89.249/WB/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,SONY MAX HD
-http://52.66.89.249/Sony_Max_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,SONY PIX HD
-http://52.66.89.249/Sony_Pix_HD/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,STAR MOVIES SELECT HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11803
-#EXTINF:-1,STAR WORLD HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11802
-#EXTINF:-1,STAR WORLD PREMIER HD
-http://iptv-area-51.tv:2095/stafford25/2k32EvZy2y/11832
+#EXTINF:-1,HBO INDIA FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34702.ts
+#EXTINF:-1,MOVIES NOW FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
+#EXTINF:-1,MN PLUS FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
+#EXTINF:-1,MNX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
+#EXTINF:-1,SONY LE PLEX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
+#EXTINF:-1,SONY PIX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
+#EXTINF:-1,STAR GOLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34582.ts
+#EXTINF:-1,STAR GOLD SELECT FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34581.ts
+#EXTINF:-1,STAR MOVIES FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34688.ts
+#EXTINF:-1,STAR MOVIES SELECT FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34687.ts
+#EXTINF:-1,STAR WORLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34686.ts
+#EXTINF:-1,STAR WORLD PREMIER FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34685.ts
+#EXTINF:-1,WARNER BROS FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34677.ts
+#EXTINF:-1,TATA SKY WORLD CINEMA FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34683.ts
 
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -128,17 +132,28 @@ http://smart-hdip.com:6204/ali010/ali010/4068
 #EXTINF:-1,Bein Movies HD4
 http://smart-hdip.com:6204/ali010/ali010/2712
 
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34695.ts
+#EXTINF:-1,NAT GEO WILD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34694.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34693.ts
+#EXTINF:-1,ANIMAL PLANET WORLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34716.ts
+#EXTINF:-1,HISTORY TV18 FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34701.ts
+#EXTINF:-1,FOX LIFE FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34703.ts
+#EXTINF:-1,AXN FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34715.ts
+#EXTINF:-1,TLC WORLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34680.ts
+#EXTINF:-1,TRAVEL XP FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34679.ts
+
+
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
-#EXTINF:-1,JIO FOOTBALL HD
-http://52.66.89.249/Jio_Football/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,JIO FOOTBALL 1 HD
-http://52.66.89.249/Jio_Football_1/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,JIO FOOTBALL 2 HD
-http://52.66.89.249/Jio_Football_2/video.m3u8?token=motherfuckerddad
-#EXTINF:-1,JIO FOOTBALL 3 HD
-http://52.66.89.249/Jio_Football_3/video.m3u8?token=motherfuckerddad
-
 #EXTINF:-1,FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1,FOX SPORT 2
@@ -146,8 +161,6 @@ http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1,FOX SPORT 3
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 
-#EXTINF:-1,JIO FOOTBALL 4 HD
-http://52.66.89.249/Jio_Football_4/video.m3u8?token=motherfucker
 #EXTINF:-1,Digi Sport 1 RO
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1351
 #EXTINF:-1,Digi Sport 2 RO
