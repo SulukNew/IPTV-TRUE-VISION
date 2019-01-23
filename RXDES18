@@ -18,6 +18,12 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/02.m3u8
 #EXTINF:-1,FOX LIFE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/02.m3u8
+#EXTINF:-1,Blue Ant Ent
+http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
+#EXTINF:-1,Blue Ant Extreme
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+#EXTINF:-1,Comedy Netw
+http://edge.linknetott.swiftserve.com/channelgroup3/cg335production/ch62/02.m3u8
 
 #EXTINF:-1,NBCSN
 http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/1785.ts
@@ -145,34 +151,51 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,HBO INDIA FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34702.ts
-#EXTINF:-1,MOVIES NOW FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
-#EXTINF:-1,MN PLUS FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
-#EXTINF:-1,MNX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
-#EXTINF:-1,SONY LE PLEX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
-#EXTINF:-1,SONY PIX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
-#EXTINF:-1,STAR GOLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34582.ts
-#EXTINF:-1,STAR GOLD SELECT FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34581.ts
-#EXTINF:-1,STAR MOVIES FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34688.ts
-#EXTINF:-1,STAR MOVIES SELECT FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34687.ts
-#EXTINF:-1,STAR WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34686.ts
-#EXTINF:-1,STAR WORLD PREMIER FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34685.ts
-#EXTINF:-1,WARNER BROS FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34677.ts
-#EXTINF:-1,TATA SKY WORLD CINEMA FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34683.ts
+#EXTINF:-1,HBO HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14550
+#EXTINF:-1,MN PLUS HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14623
+#EXTINF:-1,MOVIES NOW HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14625
+#EXTINF:-1,MOVIES NOW 2 HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14624
+#EXTINF:-1,SONY PIX HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14424
+#EXTINF:-1,AND FLIX HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14347
+#EXTINF:-1,AND PRIVE HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14346
+#EXTINF:-1,AND PICTURE HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14343
+#EXTINF:-1,IN: AXN
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14618
+#EXTINF:-1,IN: Romedy Now
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14555
+#EXTINF:-1,IN: Warner Bros
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14622
+#EXTINF:-1,IN: Star Gold
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14472
+#EXTINF:-1,IN: Star Gold Select
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14683
+#EXTINF:-1,IN: Animal Planet
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14617
+#EXTINF:-1,IN: Discovery World
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14553
+#EXTINF:-1,IN: History Tv18
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14616
+#EXTINF:-1,IN: Sony BBC Earth
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14554
+
+#EXTINF:-1,SONY ESPN HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14502
+#EXTINF:-1,SONY SIX HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14402
+#EXTINF:-1,SONY TEN 1 HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14499
+#EXTINF:-1,SONY TEN 2 HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14500
+#EXTINF:-1,SONY TEN 3 HD
+http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14501
 
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -188,26 +211,6 @@ http://smart-hdip.com:6204/ali010/ali010/2303
 http://smart-hdip.com:6204/ali010/ali010/4068
 #EXTINF:-1,Bein Movies HD4
 http://smart-hdip.com:6204/ali010/ali010/2712
-
-#EXTINF:-1,NAT GEO PEOPLE FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34695.ts
-#EXTINF:-1,NAT GEO WILD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34694.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34693.ts
-#EXTINF:-1,ANIMAL PLANET WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34716.ts
-#EXTINF:-1,HISTORY TV18 FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34701.ts
-#EXTINF:-1,FOX LIFE FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34703.ts
-#EXTINF:-1,AXN FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34715.ts
-#EXTINF:-1,TLC WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34680.ts
-#EXTINF:-1,TRAVEL XP FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34679.ts
-
 
 #EXTINF:-1,SKYNET SPORTS HD
 http://iptv.rent:80/3cjhzuhi5d/u67md91czk/5396
