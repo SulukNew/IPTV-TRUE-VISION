@@ -10,8 +10,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/02.m3u8
 #EXTINF:-1,FOX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/02.m3u8
-#EXTINF:-1,WARNER BROS 
-http://95.216.69.25:8080/raquel/1234/142848
 #EXTINF:-1,FOX CRIME HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
 #EXTINF:-1,FOX FAMILY MOVIES
@@ -231,9 +229,9 @@ http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1349
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1348
 
 #EXTINF:-1,VT: HBO HD
-http://vnpt.vanthanh.cf:4022/rtp/232.84.2.138:10648
+http://118.71.144.120:8889/udp/225.1.2.233:30120
 #EXTINF:-1,VT: MAX by HBO HD
-http://vnpt.vanthanh.cf:4022/rtp/232.84.2.139:10654
+http://118.71.144.120:8889/udp/225.1.2.86:30120
 #EXTINF:-1,VT: FOX FAMILY MOVIES HD
 http://htv-mb.live.cdn.fptplay.net/htvonline/foxfamilymovies.fpt.720p.stream/chunklist.m3u8
 #EXTINF:-1,VT: FOX MOVIES HD
