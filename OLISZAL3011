@@ -48,6 +48,8 @@ http://210.210.155.35/session/25047f86-e691-11e8-9f02-b82a72d63267/dr9445/h/h141
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",FOX MOVIES ACTION TRUE
+http://183.89.60.166:9981/stream/channelid/994761979?ticket=d83e858585c125e97ddb59bd360623c83b4dd8c2&profile=pass
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SONY PIX HD
 http://bestbuyiptv.link:6969/an/123456/7703
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",&FLIX HD
@@ -174,6 +176,34 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 1
+http://183.89.60.166:9981/stream/channelid/2071889228?ticket=25567ec1afaa565ecd53fca658b589b050e7a105&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 2
+http://183.89.60.166:9981/stream/channelid/532431658?ticket=0233f2b07c168129dca8d47e7fef3e9588c46455&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",FOX SPORTS 3
+http://183.89.60.166:9981/stream/channelid/884218944?ticket=fd23bb7376dbc5564dcd934376ba150fe56f4e69&profile=pass
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS HD
+http://183.89.60.166:9981/stream/channelid/1191387475?ticket=7377644659eacaa47b558166b2b4f4cbf40c18f3&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS PLUS
+http://183.89.60.166:9981/stream/channelid/676750919?ticket=ea5f3efcf2421502e310dc6331186c057b525795&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 1
+http://183.89.60.166:9981/stream/channelid/823029946?ticket=9a5cb0c7bfb9855429981ac48ded48c7b14b98ff&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 2
+http://183.89.60.166:9981/stream/channelid/1231593719?ticket=77956b7582c37e3d57c1c9e58e1b074380daf52a&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 3
+http://183.89.60.166:9981/stream/channelid/1309776948?ticket=62067a7470a88e80c630b2ba040d7e534a255336&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 4
+http://183.89.60.166:9981/stream/channelid/720091925?ticket=b005985c8a60372217add57a9c1441929d4e3695&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 5
+http://183.89.60.166:9981/stream/channelid/975184703?ticket=4bb027aadb44b80c987a3a4a93f856bf1bddc394&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",SKYNET SPORTS 6
+http://183.89.60.166:9981/stream/channelid/1511608493?ticket=4690b21c51199f7e294c38fa8f300c355ef4df69&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",EDGE SPORT
+http://183.89.60.166:9981/stream/channelid/1682048733?ticket=2472587dca5badd6601d285a58768acfab4e9517&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",EUROSPORT
+http://183.89.60.166:9981/stream/channelid/520636069?ticket=0bc75da9fd2bb1a3f164659c472f0807b1f98bda&profile=pass
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/2yBYJYgh/D7.png" group-title="SPORT♥ASIA",Skynet Sports 1
 http://iptv.rent:80/tout919rss/ufy3ajkisy/5395
