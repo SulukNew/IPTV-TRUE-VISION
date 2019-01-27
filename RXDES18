@@ -1,6 +1,3 @@
-http://iptv.rent:80/tout919rss/ufy3ajkisy/16617
-
-
 #EXTM3U
 #EXTINF:-1,SULUK INTRO
 https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
@@ -189,27 +186,27 @@ http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34677.ts
 http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34683.ts
 
 #EXTINF:-1,SONY ESPN HD
-http://tvservice.pro:80/live/911296481644/9327690642/34495.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34495.ts
 #EXTINF:-1,SONY SIX HD
-http://tvservice.pro:80/live/911296481644/9327690642/34494.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34494.ts
 #EXTINF:-1,TEN 1 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34486.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34486.ts
 #EXTINF:-1,TEN 2 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34485.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34485.ts
 #EXTINF:-1,TEN 3 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34484.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34484.ts
 #EXTINF:-1,STAR SPORTS 1 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34493.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34493.ts
 #EXTINF:-1,STAR SPORTS 2 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34491.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34491.ts
 #EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34489.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34489.ts
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://tvservice.pro:80/live/911296481644/9327690642/34488.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34488.ts
 #EXTINF:-1,STAR SPORTS 1 HINDI HD
-http://tvservice.pro:80/live/911296481644/9327690642/34492.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34492.ts
 #EXTINF:-1,STAR SPORTS 3
-http://tvservice.pro:80/live/911296481644/9327690642/34490.ts
+http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34490.ts
 
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -258,12 +255,6 @@ http://183.89.60.166:9981/stream/channelid/975184703?ticket=4bb027aadb44b80c987a
 #EXTINF:0,SKYNET SPORTS 6
 http://183.89.60.166:9981/stream/channelid/1511608493?ticket=4690b21c51199f7e294c38fa8f300c355ef4df69&profile=pass
 
-#EXTINF:-1,VT: HBO HD
-http://118.71.144.120:8889/udp/225.1.2.233:30120
-#EXTINF:-1,VT: MAX by HBO HD
-http://118.71.144.120:8889/udp/225.1.2.86:30120
-#EXTINF:-1,VT: FOX FAMILY MOVIES HD
-http://htv-mb.live.cdn.fptplay.net/htvonline/foxfamilymovies.fpt.720p.stream/chunklist.m3u8
 #EXTINF:-1,VT: FOX MOVIES HD
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
 #EXTINF:-1,VT: WARNER BROS HD
@@ -279,6 +270,20 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,FOX ACTION Movies
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1,BTV CINEMA
 http://84.43.207.130/btvcinema/btvcinema.m3u8
 #EXTINF:-1,SONY MOVIE
@@ -356,9 +361,9 @@ http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7932
 http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7923
 
 #EXTINF:-1,Star Sports 1
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1129
+http://gorillaiptv.online:25461/lizzie/lizzie/1129
 #EXTINF:-1,Star Sports 2
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1128
+http://gorillaiptv.online:25461/lizzie/lizzie/1128
 #EXTINF:-1,Sony ESPN 
 http://iptv.rent:80/tout919rss/ufy3ajkisy/3991
 #EXTINF:-1,Sony SIX 
