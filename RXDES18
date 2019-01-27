@@ -1,3 +1,6 @@
+http://iptv.rent:80/tout919rss/ufy3ajkisy/16617
+
+
 #EXTM3U
 #EXTINF:-1,SULUK INTRO
 https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
@@ -149,51 +152,57 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,HBO HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14550
-#EXTINF:-1,MN PLUS HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14623
-#EXTINF:-1,MOVIES NOW HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14625
-#EXTINF:-1,MOVIES NOW 2 HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14624
-#EXTINF:-1,SONY PIX HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14424
-#EXTINF:-1,AND FLIX HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14347
-#EXTINF:-1,AND PRIVE HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14346
-#EXTINF:-1,AND PICTURE HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14343
-#EXTINF:-1,IN: AXN
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14618
-#EXTINF:-1,IN: Romedy Now
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14555
-#EXTINF:-1,IN: Warner Bros
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14622
-#EXTINF:-1,IN: Star Gold
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14472
-#EXTINF:-1,IN: Star Gold Select
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14683
-#EXTINF:-1,IN: Animal Planet
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14617
-#EXTINF:-1,IN: Discovery World
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14553
-#EXTINF:-1,IN: History Tv18
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14616
-#EXTINF:-1,IN: Sony BBC Earth
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14554
+#EXTINF:-1,HBO INDIA FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34702.ts
+#EXTINF:-1,MOVIES NOW FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
+#EXTINF:-1,MN PLUS FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
+#EXTINF:-1,MNX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
+#EXTINF:-1,SONY LE PLEX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
+#EXTINF:-1,SONY PIX FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
+#EXTINF:-1,STAR GOLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34582.ts
+#EXTINF:-1,STAR GOLD SELECT FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34581.ts
+#EXTINF:-1,STAR MOVIES FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34688.ts
+#EXTINF:-1,STAR MOVIES SELECT FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34687.ts
+#EXTINF:-1,STAR WORLD FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34686.ts
+#EXTINF:-1,STAR WORLD PREMIER FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34685.ts
+#EXTINF:-1,WARNER BROS FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34677.ts
+#EXTINF:-1,TATA SKY WORLD CINEMA FHD
+http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34683.ts
 
 #EXTINF:-1,SONY ESPN HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14502
+http://tvservice.pro:80/live/911296481644/9327690642/34495.ts
 #EXTINF:-1,SONY SIX HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14402
-#EXTINF:-1,SONY TEN 1 HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14499
-#EXTINF:-1,SONY TEN 2 HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14500
-#EXTINF:-1,SONY TEN 3 HD
-http://iptv-area-51.tv:2095/paulrn89/FCij69a16s/14501
+http://tvservice.pro:80/live/911296481644/9327690642/34494.ts
+#EXTINF:-1,TEN 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34486.ts
+#EXTINF:-1,TEN 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34485.ts
+#EXTINF:-1,TEN 3 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34484.ts
+#EXTINF:-1,STAR SPORTS 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34493.ts
+#EXTINF:-1,STAR SPORTS 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34491.ts
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34489.ts
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
+http://tvservice.pro:80/live/911296481644/9327690642/34488.ts
+#EXTINF:-1,STAR SPORTS 1 HINDI HD
+http://tvservice.pro:80/live/911296481644/9327690642/34492.ts
+#EXTINF:-1,STAR SPORTS 3
+http://tvservice.pro:80/live/911296481644/9327690642/34490.ts
 
 #EXTINF:-1,IN: &FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -218,15 +227,29 @@ http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1,FOX SPORT 3
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+#EXTINF:0,FOX SPORTS 1
+http://183.89.60.166:9981/stream/channelid/2071889228?ticket=25567ec1afaa565ecd53fca658b589b050e7a105&profile=pass
+#EXTINF:0,FOX SPORTS 2
+http://183.89.60.166:9981/stream/channelid/532431658?ticket=0233f2b07c168129dca8d47e7fef3e9588c46455&profile=pass
+#EXTINF:0,FOX SPORTS 3
+http://183.89.60.166:9981/stream/channelid/884218944?ticket=fd23bb7376dbc5564dcd934376ba150fe56f4e69&profile=pass
 
-#EXTINF:-1,Digi Sport 1 RO
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1351
-#EXTINF:-1,Digi Sport 2 RO
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1350
-#EXTINF:-1,Digi Sport 3 RO
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1349
-#EXTINF:-1,Digi Sport 4 RO
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1348
+#EXTINF:0,SKYNET SPORTS HD
+http://183.89.60.166:9981/stream/channelid/1191387475?ticket=7377644659eacaa47b558166b2b4f4cbf40c18f3&profile=pass
+#EXTINF:0,SKYNET SPORTS PLUS
+http://183.89.60.166:9981/stream/channelid/676750919?ticket=ea5f3efcf2421502e310dc6331186c057b525795&profile=pass
+#EXTINF:0,SKYNET SPORTS 1
+http://183.89.60.166:9981/stream/channelid/823029946?ticket=9a5cb0c7bfb9855429981ac48ded48c7b14b98ff&profile=pass
+#EXTINF:0,SKYNET SPORTS 2
+http://183.89.60.166:9981/stream/channelid/1231593719?ticket=77956b7582c37e3d57c1c9e58e1b074380daf52a&profile=pass
+#EXTINF:0,SKYNET SPORTS 3
+http://183.89.60.166:9981/stream/channelid/1309776948?ticket=62067a7470a88e80c630b2ba040d7e534a255336&profile=pass
+#EXTINF:0,SKYNET SPORTS 4
+http://183.89.60.166:9981/stream/channelid/720091925?ticket=b005985c8a60372217add57a9c1441929d4e3695&profile=pass
+#EXTINF:0,SKYNET SPORTS 5
+http://183.89.60.166:9981/stream/channelid/975184703?ticket=4bb027aadb44b80c987a3a4a93f856bf1bddc394&profile=pass
+#EXTINF:0,SKYNET SPORTS 6
+http://183.89.60.166:9981/stream/channelid/1511608493?ticket=4690b21c51199f7e294c38fa8f300c355ef4df69&profile=pass
 
 #EXTINF:-1,VT: HBO HD
 http://118.71.144.120:8889/udp/225.1.2.233:30120
@@ -330,9 +353,9 @@ http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1129
 #EXTINF:-1,Star Sports 2
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1128
 #EXTINF:-1,Sony ESPN 
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/3991
+http://iptv.rent:80/tout919rss/ufy3ajkisy/3991
 #EXTINF:-1,Sony SIX 
-http://iptv.rent:80/u0iq0tukof/uykr7dqgvi/5548
+http://iptv.rent:80/tout919rss/ufy3ajkisy/5548
 #EXTINF:-1,SONY TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1,SONY TEN 2 HD
@@ -526,4 +549,3 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
