@@ -149,13 +149,6 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,BEIN_SPORTS_1_HD INDO
-http://universeiptv.com:8000/mostfasolo/4938234/31993
-#EXTINF:-1,BEIN_SPORTS_2_HD INDO
-http://universeiptv.com:8000/mostfasolo/4938234/31992
-#EXTINF:-1,BEIN_SPORTS_3_HD INDO
-http://universeiptv.com:8000/mostfasolo/4938234/31991
-
 #EXTINF:-1,HBO INDIA FHD
 http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34702.ts
 #EXTINF:-1,MOVIES NOW FHD
