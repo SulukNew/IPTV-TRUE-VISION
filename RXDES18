@@ -157,9 +157,9 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 #EXTINF:-1,JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1,Sony Channel
-http://210.210.155.35/uq2663/h/h06/index.m3u8
+http://210.210.155.35/uq2663/h/h06/01.m3u8
 #EXTINF:-1,KIX
-http://210.210.155.35/uq2663/h/h07/index.m3u8
+http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1,CINEMA WORLD
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1,K+
@@ -259,20 +259,40 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Skynet Sports HD
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5396
-#EXTINF:-1,Skynet Sports 1
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5395
-#EXTINF:-1,Skynet Sports 2
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5394
-#EXTINF:-1,Skynet Sports 3
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5393
-#EXTINF:-1,Skynet Sports 4
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5392
-#EXTINF:-1,Skynet Sports 5
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5391
-#EXTINF:-1,Skynet Sports 6
-http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5390
+#EXTINF:0,TRUE ASIAN SERIES HD
+http://61.90.226.115:1935/stream/channelid/1916800694
+#EXTINF:0,TRUE X-ZYTE
+http://61.90.226.115:1935/stream/channelid/1621864748
+#EXTINF:0,TRUE MUSIC HD
+http://61.90.226.115:1935/stream/channelid/406017691
+#EXTINF:0,FOX
+http://61.90.226.115:1935/stream/channelid/2128251805
+#EXTINF:0,EDGE SPORT
+http://61.90.226.115:1935/stream/channelid/433635145
+#EXTINF:0,EUROSPORT
+http://61.90.226.115:1935/stream/channelid/541387797
+#EXTINF:0,SKYNET SPORTS HD
+http://61.90.226.115:1935/stream/channelid/249348781
+#EXTINF:0,SKYNET SPORTS PLUS
+http://61.90.226.115:1935/stream/channelid/1547773020
+#EXTINF:0,FOX SPORTS 1
+http://61.90.226.115:1935/stream/channelid/401510855
+#EXTINF:0,FOX SPORTS 2
+http://61.90.226.115:1935/stream/channelid/1613421481
+#EXTINF:0,FOX SPORTS 3
+http://61.90.226.115:1935/stream/channelid/1144566682
+#EXTINF:0,SKYNET SPORTS 1
+http://61.90.226.115:1935/stream/channelid/121957906
+#EXTINF:0,SKYNET SPORTS 2
+http://61.90.226.115:1935/stream/channelid/49897063
+#EXTINF:0,SKYNET SPORTS 3
+http://61.90.226.115:1935/stream/channelid/582997723
+#EXTINF:0,SKYNET SPORTS 4
+http://61.90.226.115:1935/stream/channelid/1206896753
+#EXTINF:0,SKYNET SPORTS 5
+http://61.90.226.115:1935/stream/channelid/1552177711
+#EXTINF:0,SKYNET SPORTS 6
+http://61.90.226.115:1935/stream/channelid/1637708415
 
 #EXTINF:-1,FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
