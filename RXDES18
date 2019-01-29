@@ -3,6 +3,10 @@
 https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1,SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
+#EXTINF:-1,TRACE SPORT
+http://61.216.177.73/sta/ch91865016.m3u8
+#EXTINF:-1,TRACE URBAN
+http://61.216.177.73/sta/ch91865018.m3u8
 
 #EXTINF:-1,FOX ACTION MOVIES
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
@@ -352,22 +356,24 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,Sky Sports F1 HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/6535
-#EXTINF:-1,Sky Sports Mix HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7925
-#EXTINF:-1,Sky Sports News HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/15702
-#EXTINF:-1,Sky Sports Action HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7920
-#EXTINF:-1,Sky Sports Arena HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/15710
-#EXTINF:-1,Sky Sports Football HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/625255
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7932
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/7923
+#EXTINF:-1,UK: Sky Sports Action HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10321
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10318
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/21701
+#EXTINF:-1,UK: Sky Sports Football HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10306
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10303
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10299
+#EXTINF:-1,UK: Sky Sports MIX HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10295
+#EXTINF:-1,UK: Sky Sports News HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10290
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://thenew.tv:8000/GLAMATIZE24/8CtJqfXa5/10286
 
 #EXTINF:-1,Star Sports 1
 http://gorillaiptv.online:25461/lizzie/lizzie/1129
@@ -529,10 +535,10 @@ http://31.220.2.149:8081/live/hdq6/playlist.m3u8
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1,PTV SPORTS
 http://163.172.86.59:3135/1009PTV/HD/index.m3u8
-#EXTINF:-1,CCTV 5+
-http://117.169.72.6:8080/wh7f454c46tw84549318_325266698/ysten-businessmobile/live/hdcctv05plus/1.m3u8?icpid=88888888&RTS=1545105181&from=18140001&hms_devid=6
-#EXTINF:-1,CCTV 5
-http://111.48.34.185/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225800/2.m3u8?icpid=88888888&from=1&hms_devid=1463
+#EXTINF:-1,CCTV 5 HD
+http://tv6.ime.moe/hls/cctv5hd.m3u8
+#EXTINF:-1,CCTV 5+ HD
+http://tv6.ime.moe/hls/cctv5phd.m3u8
 
 #EXTINF:-1,AD SPORT 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
