@@ -160,79 +160,104 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://210.210.155.35/uq2663/h/h06/index.m3u8
 #EXTINF:-1,KIX
 http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1,AXN
-http://210.210.155.35/uq2663/h/h09/index.m3u8
+http://210.210.155.35/uq2663/h/h09/01.m3u8
 #EXTINF:-1,DIVA HD
-http://210.210.155.35/uq2663/h/h11/index.m3u8
+http://210.210.155.35/uq2663/h/h11/01.m3u8
+#EXTINF:-1,SBS
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+#EXTINF:-1,IN TV
+http://210.210.155.35/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1,MEDIACORP
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1,BTV CINEMA
+http://84.43.207.130/btvcinema/btvcinema.m3u8
 
 #EXTINF:-1,HBO INDIA FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34702.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34702.ts
 #EXTINF:-1,MOVIES NOW FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34697.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34697.ts
 #EXTINF:-1,MN PLUS FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34699.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34699.ts
 #EXTINF:-1,MNX FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34698.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34698.ts
 #EXTINF:-1,SONY LE PLEX FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34689.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34689.ts
 #EXTINF:-1,SONY PIX FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34587.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34587.ts
 #EXTINF:-1,STAR GOLD FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34582.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34582.ts
 #EXTINF:-1,STAR GOLD SELECT FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34581.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34581.ts
 #EXTINF:-1,STAR MOVIES FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34688.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34688.ts
 #EXTINF:-1,STAR MOVIES SELECT FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34687.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34687.ts
 #EXTINF:-1,STAR WORLD FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34686.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34686.ts
 #EXTINF:-1,STAR WORLD PREMIER FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34685.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34685.ts
 #EXTINF:-1,WARNER BROS FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34677.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34677.ts
 #EXTINF:-1,TATA SKY WORLD CINEMA FHD
-http://king-ott.com:80/live/6victor1116magic08/ap0Qj71Ysd/34683.ts
+http://king-ott.com:80/live/Kirikou/Kirikou/34683.ts
 
 #EXTINF:-1,SONY ESPN HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34495.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34495.ts
 #EXTINF:-1,SONY SIX HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34494.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34494.ts
 #EXTINF:-1,TEN 1 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34486.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34486.ts
 #EXTINF:-1,TEN 2 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34485.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34485.ts
 #EXTINF:-1,TEN 3 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34484.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34484.ts
 #EXTINF:-1,STAR SPORTS 1 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34493.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34493.ts
 #EXTINF:-1,STAR SPORTS 2 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34491.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34491.ts
 #EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34489.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34489.ts
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34488.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34488.ts
 #EXTINF:-1,STAR SPORTS 1 HINDI HD
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34492.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34492.ts
 #EXTINF:-1,STAR SPORTS 3
-http://tvservice.pro:80/live/6victor1116magic08/ap0Qj71Ysd/34490.ts
+http://tvservice.pro:80/live/Kirikou/Kirikou/34490.ts
 
 #EXTINF:-1,IN: &FLIX HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+http://tvservice.pro:80/live/Kirikou/Kirikou/34718.ts
 #EXTINF:-1,IN: &PRIVE HD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,IN: &PICTURES HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Bein Movies HD1
-http://smart-hdip.com:6204/ali010/ali010/2151
-#EXTINF:-1,Bein Movies HD2
-http://smart-hdip.com:6204/ali010/ali010/2303
-#EXTINF:-1,Bein Movies HD3
-http://smart-hdip.com:6204/ali010/ali010/4068
-#EXTINF:-1,Bein Movies HD4
-http://smart-hdip.com:6204/ali010/ali010/2712
+http://tvservice.pro:80/live/Kirikou/Kirikou/34717.ts
+
+#EXTINF:-1,FOX ACTION Movies
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
+#EXTINF:-1,MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Skynet Sports HD
 http://iptv.rent:80/8zrh3jr6u/x6jzw6b54p/5396
@@ -265,28 +290,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,OSN: STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,THRILL
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,FOX ACTION Movies
-http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC1 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC3 HD
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,BTV CINEMA
-http://84.43.207.130/btvcinema/btvcinema.m3u8
 #EXTINF:-1,SONY MOVIE
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 #EXTINF:-1,History Asia
