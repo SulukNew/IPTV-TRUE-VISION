@@ -28,7 +28,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup3/cg335production/ch62/02.m3u8
 
 #EXTINF:-1,NBCSN
-http://addonfreak.com:8080/live/WHMCSMAG:WHMCS:30956/Vd866k3kSv/1785.ts
+http://tele-live.n4t.co:23000/live/hsdbqq7v/q3qgd832/31974.ts
 #EXTINF:-1,SETANTA SPORTS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/02.m3u8
 #EXTINF:-1,FOX SPORTS
@@ -334,35 +334,53 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM PARLEMENT
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://89.38.99.168:19688/mani/mani/1029
-#EXTINF:-1,SKY SPORTS ACTION HD
-http://89.38.99.168:19688/mani/mani/1025
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://89.38.99.168:19688/mani/mani/1021
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://89.38.99.168:19688/mani/mani/10987
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://89.38.99.168:19688/mani/mani/35761
-#EXTINF:-1,Sky SPORTS F1 HD
-http://89.38.99.168:19688/mani/mani/1022
-#EXTINF:-1,SKY SPORTS MIX HD
-http://89.38.99.168:19688/mani/mani/1190
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://89.38.99.168:19688/mani/mani/33836
-#EXTINF:-1,BT SPORTS 1 HD
-http://89.38.99.168:19688/mani/mani/1045
-#EXTINF:-1,BT SPORTS 2 HD
-http://89.38.99.168:19688/mani/mani/1044
-#EXTINF:-1,BT SPORTS 3 HD
-http://89.38.99.168:19688/mani/mani/1043
-#EXTINF:-1,BT SPORTS ESPN HD
-http://89.38.99.168:19688/mani/mani/1039
+#EXTINF:-1,Sky Sports News
+http://51.15.161.236:25461/live/allchannels/all_pannels/1953.ts
+#EXTINF:-1,Sky Sports Premier League
+http://51.15.161.236:25461/live/allchannels/all_pannels/1935.ts
+#EXTINF:-1,Sky Sports Action
+http://51.15.161.236:25461/live/allchannels/all_pannels/1951.ts
+#EXTINF:-1,Sky Sports Arena
+http://51.15.161.236:25461/live/allchannels/all_pannels/1949.ts
+#EXTINF:-1,Sky Sports Box Office
+http://51.15.161.236:25461/live/allchannels/all_pannels/1934.ts
+#EXTINF:-1,Sky Sports F1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1945.ts
+#EXTINF:-1,Sky Sports Football
+http://51.15.161.236:25461/live/allchannels/all_pannels/1943.ts
+#EXTINF:-1,Sky Sports Golf
+http://51.15.161.236:25461/live/allchannels/all_pannels/1941.ts
+#EXTINF:-1,Sky Sports Main
+http://51.15.161.236:25461/live/allchannels/all_pannels/1939.ts
+#EXTINF:-1,Sky Sports Mix
+http://51.15.161.236:25461/live/allchannels/all_pannels/1937.ts
+#EXTINF:-1,BT Sport 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1932.ts
+#EXTINF:-1,BT Sport 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/1930.ts
+#EXTINF:-1,BT Sport 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/1928.ts
+#EXTINF:-1,BT Sport ESPN
+http://51.15.161.236:25461/live/allchannels/all_pannels/1926.ts
+#EXTINF:-1,TSN 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/176.ts
+#EXTINF:-1,TSN 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/177.ts
+#EXTINF:-1,TSN 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/178.ts
+#EXTINF:-1,TSN 4
+http://51.15.161.236:25461/live/allchannels/all_pannels/179.ts
+#EXTINF:-1,TSN 5
+http://51.15.161.236:25461/live/allchannels/all_pannels/180.ts
 
-#EXTINF:-1,Star Sports 1
-http://gorillaiptv.online:25461/lizzie/lizzie/1129
-#EXTINF:-1,Star Sports 2
-http://gorillaiptv.online:25461/lizzie/lizzie/1128
+#EXTINF:-1,SPORTS NET WORLD HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1823.ts
+#EXTINF:-1,RMC SPORT 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/729.ts
+#EXTINF:-1,RMC SPORT 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/730.ts
+#EXTINF:-1,RMC SPORT 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/731.ts
 #EXTINF:-1,Sony ESPN 
 http://iptv.rent:80/tout919rss/ufy3ajkisy/3991
 #EXTINF:-1,Sony SIX 
@@ -399,26 +417,12 @@ http://localhd.tv:8081/bdcmf444/t4usjUnrZ8/3609
 #EXTINF:-1,AR: BEIN SPORTS 12 HD
 http://localhd.tv:8081/bdcmf444/t4usjUnrZ8/3610
 
-#EXTINF:-1,beIN Sports 1 HD FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12961
-#EXTINF:-1,beIN Sports 2 HD FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/5709
-#EXTINF:-1,beIN Sports 3 HD FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12957
-#EXTINF:-1,beIN Sports 4 Max FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8562
-#EXTINF:-1,beIN Sports 6 Max FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8538
-#EXTINF:-1,beIN Sports 7 Max FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/8537
-#EXTINF:-1,beIN Sports Max 8 FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12956
-#EXTINF:-1,beIN Sports Max 8 HD FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12955
-#EXTINF:-1,beIN Sports Max 9 FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12954
-#EXTINF:-1,beIN Sports Max 10 FR
-http://iptv.rent:80/r6jq0xd6je/hj8blgqmw/12953
+#EXTINF:-1,bein france 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/143.ts
+#EXTINF:-1,bein france 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/144.ts
+#EXTINF:-1,bein france 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/145.ts
 
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
