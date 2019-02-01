@@ -373,6 +373,8 @@ http://51.15.161.236:25461/live/allchannels/all_pannels/179.ts
 #EXTINF:-1,TSN 5
 http://51.15.161.236:25461/live/allchannels/all_pannels/180.ts
 
+#EXTINF:-1,NBCSN HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/1421
 #EXTINF:-1,SPORTS NET WORLD HD
 http://51.15.161.236:25461/live/allchannels/all_pannels/1823.ts
 #EXTINF:-1,RMC SPORT 1
@@ -381,16 +383,16 @@ http://51.15.161.236:25461/live/allchannels/all_pannels/729.ts
 http://51.15.161.236:25461/live/allchannels/all_pannels/730.ts
 #EXTINF:-1,RMC SPORT 3
 http://51.15.161.236:25461/live/allchannels/all_pannels/731.ts
-#EXTINF:-1,Sony ESPN 
-http://iptv.rent:80/tout919rss/ufy3ajkisy/3991
-#EXTINF:-1,Sony SIX 
-http://iptv.rent:80/tout919rss/ufy3ajkisy/5548
-#EXTINF:-1,SONY TEN 1 HD
-http://163.172.218.205:8081/T/1/index.m3u8
-#EXTINF:-1,SONY TEN 2 HD
-http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
-#EXTINF:-1,SONY TEN 3 HD
-http://163.172.218.205:8081/T/2/index.m3u8
+#EXTINF:-1,Sony ESPN HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29136
+#EXTINF:-1,IN: Sony Six HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29126
+#EXTINF:-1,IN: Sony Ten 1 HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29125
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29124
+#EXTINF:-1,IN: SONY TEN 3 HD
+http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29123
 
 #EXTINF:-1,AR: BEIN SPORTS 1 HD
 http://localhd.tv:8081/bdcmf444/t4usjUnrZ8/3356
@@ -456,18 +458,19 @@ http://cdn6.woideas.com/11sp.m3u8
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1,MATCH FOOTBALL 1 HD
-http://persik.by/stream/3602/287583/10266.m3u8
+
+#EXTINF:-1,MATCH FOOTBALL 1 HD 
+http://persik.by/stream/0713/382544/10266.m3u8
 #EXTINF:-1,MATCH FOOTBALL 2 HD
-http://persik.by/stream/3602/287583/10267.m3u8
+http://persik.by/stream/0713/382544/10267.m3u8
 #EXTINF:-1,MATCH FOOTBALL 3 HD
-http://persik.by/stream/3602/287583/10268.m3u8
+http://persik.by/stream/0713/382544/10268.m3u8
 #EXTINF:-1,MATCH ARENA
-http://persik.by/stream/3602/287583/261.m3u8
+http://persik.by/stream/0713/382544/261.m3u8
 #EXTINF:-1,MATCH
-http://persik.by/stream/3602/287583/1077.m3u8
+http://persik.by/stream/0713/382544/276.m3u8
 #EXTINF:-1,FOOTBALL
-http://persik.by/stream/176/296165/10294.m3u8
+http://persik.by/stream/0713/382544/10294.m3u8
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,SETANTA SPORT+
