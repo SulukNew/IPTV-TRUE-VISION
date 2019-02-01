@@ -8,66 +8,157 @@ http://61.216.177.73/sta/ch91865016.m3u8
 #EXTINF:-1,TRACE URBAN
 http://61.216.177.73/sta/ch91865018.m3u8
 
-#EXTINF:-1,FOX ACTION MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/02.m3u8
-#EXTINF:-1,FOX MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/02.m3u8
-#EXTINF:-1,FOX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/02.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/02.m3u8
-#EXTINF:-1,FOX LIFE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/02.m3u8
-#EXTINF:-1,Blue Ant Ent
-http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
-#EXTINF:-1,Blue Ant Extreme
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
-#EXTINF:-1,Comedy Netw
-http://edge.linknetott.swiftserve.com/channelgroup3/cg335production/ch62/02.m3u8
+#EXTINF:-1,HBO INDIA FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34702.ts
+#EXTINF:-1,MOVIES NOW FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34697.ts
+#EXTINF:-1,MN PLUS FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34699.ts
+#EXTINF:-1,MNX FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34698.ts
+#EXTINF:-1,IN: &FLIX HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34718.ts
+#EXTINF:-1,IN: &PRIVE HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34717.ts
+#EXTINF:-1,SONY LE PLEX FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34689.ts
+#EXTINF:-1,SONY PIX FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34587.ts
+#EXTINF:-1,STAR GOLD FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34582.ts
+#EXTINF:-1,STAR GOLD SELECT FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34581.ts
+#EXTINF:-1,STAR MOVIES FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34688.ts
+#EXTINF:-1,STAR MOVIES SELECT FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34687.ts
+#EXTINF:-1,STAR WORLD FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34686.ts
+#EXTINF:-1,STAR WORLD PREMIER FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34685.ts
+#EXTINF:-1,WARNER BROS FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34677.ts
+#EXTINF:-1,TATA SKY WORLD CINEMA FHD
+http://king-ott.com:80/live/Kirikou/Kirikou/34683.ts
 
-#EXTINF:-1,NBCSN
-http://tele-live.n4t.co:23000/live/hsdbqq7v/q3qgd832/31974.ts
-#EXTINF:-1,SETANTA SPORTS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch44)/02.m3u8
-#EXTINF:-1,FOX SPORTS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/02.m3u8
-#EXTINF:-1,FOX SPORTS 3
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
-#EXTINF:-1,EUROSPORT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/02.m3u8
+#EXTINF:-1,SONY ESPN HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34495.ts
+#EXTINF:-1,SONY SIX HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34494.ts
+#EXTINF:-1,TEN 1 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34486.ts
+#EXTINF:-1,TEN 2 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34485.ts
+#EXTINF:-1,TEN 3 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34484.ts
+#EXTINF:-1,STAR SPORTS 1 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34493.ts
+#EXTINF:-1,STAR SPORTS 2 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34491.ts
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34489.ts
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34488.ts
+#EXTINF:-1,STAR SPORTS 1 HINDI HD
+http://tvservice.pro:80/live/Kirikou/Kirikou/34492.ts
+#EXTINF:-1,STAR SPORTS 3
+http://tvservice.pro:80/live/Kirikou/Kirikou/34490.ts
 
-#EXTINF:-1,ANIMAL PLANET
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/02.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/02.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-#EXTINF:-1,LOVE NATURE 4K
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
-#EXTINF:-1,LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/02.m3u8
-#EXTINF:-1,ASIAN FOOD CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/02.m3u8
-#EXTINF:-1,CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://king-ott.com:80/live/Veton/Veton/34695.ts
+#EXTINF:-1,NAT GEO WILD FHD
+http://king-ott.com:80/live/Veton/Veton/34694.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://king-ott.com:80/live/Veton/Veton/34693.ts
+#EXTINF:-1,ANIMAL PLANET WORLD FHD
+http://king-ott.com:80/live/Veton/Veton/34716.ts
+#EXTINF:-1,HISTORY TV18 FHD
+http://king-ott.com:80/live/Veton/Veton/34701.ts
+#EXTINF:-1,FOX LIFE FHD
+http://king-ott.com:80/live/Veton/Veton/34703.ts
+#EXTINF:-1,AXN FHD
+http://king-ott.com:80/live/Veton/Veton/34715.ts
+#EXTINF:-1,TLC WORLD FHD
+http://king-ott.com:80/live/Veton/Veton/34680.ts
+#EXTINF:-1,TRAVEL XP FHD
+http://king-ott.com:80/live/Veton/Veton/34679.ts
 
-#EXTINF:-1,J'GO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1,KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1,LIFETIME
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/02.m3u8
+#EXTINF:-1,SONY BBC EARTH HD
+http://tvservice.pro:80/live/Veton/Veton/34590.ts
+#EXTINF:-1,SONY HD
+http://tvservice.pro:80/live/Veton/Veton/34589.ts
+#EXTINF:-1,SONY MAX HD
+http://tvservice.pro:80/live/Veton/Veton/34588.ts
+#EXTINF:-1,SONY PIX HD
+http://tvservice.pro:80/live/Veton/Veton/34587.ts
+#EXTINF:-1,SONY ROX HD
+http://tvservice.pro:80/live/Veton/Veton/34586.ts
 
-#EXTINF:-1,WAKU WAKU JAPAN
-http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/02.m3u8
-#EXTINF:-1,eGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://tvservice.pro:80/live/Veton/Veton/34636.ts
+#EXTINF:-1,DISH BOX OFFICE PREMIER
+http://tvservice.pro:80/live/Veton/Veton/34635.ts
+#EXTINF:-1,AND PICTURES HD
+http://tvservice.pro:80/live/Veton/Veton/34657.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://tvservice.pro:80/live/Veton/Veton/34654.ts
+#EXTINF:-1,HISTORY TV18 HD
+http://tvservice.pro:80/live/Veton/Veton/34628.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://tvservice.pro:80/live/Veton/Veton/34609.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://tvservice.pro:80/live/Veton/Veton/34608.ts
+#EXTINF:-1,STAR GOLD HD
+http://tvservice.pro:80/live/Veton/Veton/34582.ts
+#EXTINF:-1,STAR GOLD SELECT HD
+http://tvservice.pro:80/live/Veton/Veton/34581.ts
+#EXTINF:-1,TATA SKY BOLLYWOOD PREMIERE HD
+http://tvservice.pro:80/live/Veton/Veton/34576.ts
+#EXTINF:-1,TRAVEL XP HD
+http://tvservice.pro:80/live/Veton/Veton/34575.ts
+
+#EXTINF:0,TRUE ASIAN HD
+http://61.90.226.115:1935/stream/channelid/1916800694
+#EXTINF:0,FOX
+http://61.90.226.115:1935/stream/channelid/2128251805
+#EXTINF:0,TRUE X-ZYTE
+http://61.90.226.115:1935/stream/channelid/983536006
+#EXTINF:0,TRUE X-ZYTE
+http://61.90.226.115:1935/stream/channelid/1621864748
+#EXTINF:0,TRUE MUSIC HD
+http://61.90.226.115:1935/stream/channelid/406017691
+#EXTINF:0,EDGE SPORT
+http://61.90.226.115:1935/stream/channelid/433635145
+#EXTINF:0,EUROSPORT
+http://61.90.226.115:1935/stream/channelid/541387797
+#EXTINF:0,FOX SPORTS 1
+http://61.90.226.115:1935/stream/channelid/401510855
+#EXTINF:0,FOX SPORTS 2
+http://61.90.226.115:1935/stream/channelid/1613421481
+#EXTINF:0,FOX SPORTS 3
+http://61.90.226.115:1935/stream/channelid/1144566682
+#EXTINF:0,SKYNET SPORTS 1
+http://61.90.226.115:1935/stream/channelid/121957906
+#EXTINF:0,SKYNET SPORTS 2
+http://61.90.226.115:1935/stream/channelid/49897063
+#EXTINF:0,SKYNET SPORTS 3
+http://61.90.226.115:1935/stream/channelid/582997723
+#EXTINF:0,SKYNET SPORTS 4
+http://61.90.226.115:1935/stream/channelid/1206896753
+#EXTINF:0,SKYNET SPORTS 5
+http://61.90.226.115:1935/stream/channelid/1552177711
+#EXTINF:0,SKYNET SPORTS 6
+http://61.90.226.115:1935/stream/channelid/1637708415
+#EXTINF:0,SKYNET SPORTS HD
+http://61.90.226.115:1935/stream/channelid/249348781
+#EXTINF:0,SKYNET SPORTS PLUS
+http://61.90.226.115:1935/stream/channelid/1547773020
+#EXTINF:0,True Sports 5
+http://61.90.226.115:1935/stream/channelid/197900818
+#EXTINF:0,True Sports 6
+http://61.90.226.115:1935/stream/channelid/63228381
+#EXTINF:0,True Sports 7
+http://61.90.226.115:1935/stream/channelid/494647273
 
 #EXTINF:-1,Da Vinci HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
@@ -188,63 +279,6 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,BTV CINEMA
 http://84.43.207.130/btvcinema/btvcinema.m3u8
-
-#EXTINF:-1,HBO INDIA FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34702.ts
-#EXTINF:-1,MOVIES NOW FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34697.ts
-#EXTINF:-1,MN PLUS FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34699.ts
-#EXTINF:-1,MNX FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34698.ts
-#EXTINF:-1,SONY LE PLEX FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34689.ts
-#EXTINF:-1,SONY PIX FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34587.ts
-#EXTINF:-1,STAR GOLD FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34582.ts
-#EXTINF:-1,STAR GOLD SELECT FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34581.ts
-#EXTINF:-1,STAR MOVIES FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34688.ts
-#EXTINF:-1,STAR MOVIES SELECT FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34687.ts
-#EXTINF:-1,STAR WORLD FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34686.ts
-#EXTINF:-1,STAR WORLD PREMIER FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34685.ts
-#EXTINF:-1,WARNER BROS FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34677.ts
-#EXTINF:-1,TATA SKY WORLD CINEMA FHD
-http://king-ott.com:80/live/Kirikou/Kirikou/34683.ts
-
-#EXTINF:-1,SONY ESPN HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34495.ts
-#EXTINF:-1,SONY SIX HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34494.ts
-#EXTINF:-1,TEN 1 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34486.ts
-#EXTINF:-1,TEN 2 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34485.ts
-#EXTINF:-1,TEN 3 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34484.ts
-#EXTINF:-1,STAR SPORTS 1 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34493.ts
-#EXTINF:-1,STAR SPORTS 2 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34491.ts
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34489.ts
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34488.ts
-#EXTINF:-1,STAR SPORTS 1 HINDI HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34492.ts
-#EXTINF:-1,STAR SPORTS 3
-http://tvservice.pro:80/live/Kirikou/Kirikou/34490.ts
-
-#EXTINF:-1,IN: &FLIX HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34718.ts
-#EXTINF:-1,IN: &PRIVE HD
-http://tvservice.pro:80/live/Kirikou/Kirikou/34717.ts
 
 #EXTINF:-1,FOX ACTION Movies
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
