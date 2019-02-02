@@ -117,49 +117,6 @@ http://tvservice.pro:80/live/Veton/Veton/34576.ts
 #EXTINF:-1,TRAVEL XP HD
 http://tvservice.pro:80/live/Veton/Veton/34575.ts
 
-#EXTINF:0,TRUE ASIAN HD
-http://61.90.226.115:1935/stream/channelid/1916800694
-#EXTINF:0,FOX
-http://61.90.226.115:1935/stream/channelid/2128251805
-#EXTINF:0,TRUE X-ZYTE
-http://61.90.226.115:1935/stream/channelid/983536006
-#EXTINF:0,TRUE X-ZYTE
-http://61.90.226.115:1935/stream/channelid/1621864748
-#EXTINF:0,TRUE MUSIC HD
-http://61.90.226.115:1935/stream/channelid/406017691
-#EXTINF:0,EDGE SPORT
-http://61.90.226.115:1935/stream/channelid/433635145
-#EXTINF:0,EUROSPORT
-http://61.90.226.115:1935/stream/channelid/541387797
-#EXTINF:0,FOX SPORTS 1
-http://61.90.226.115:1935/stream/channelid/401510855
-#EXTINF:0,FOX SPORTS 2
-http://61.90.226.115:1935/stream/channelid/1613421481
-#EXTINF:0,FOX SPORTS 3
-http://61.90.226.115:1935/stream/channelid/1144566682
-#EXTINF:0,SKYNET SPORTS 1
-http://61.90.226.115:1935/stream/channelid/121957906
-#EXTINF:0,SKYNET SPORTS 2
-http://61.90.226.115:1935/stream/channelid/49897063
-#EXTINF:0,SKYNET SPORTS 3
-http://61.90.226.115:1935/stream/channelid/582997723
-#EXTINF:0,SKYNET SPORTS 4
-http://61.90.226.115:1935/stream/channelid/1206896753
-#EXTINF:0,SKYNET SPORTS 5
-http://61.90.226.115:1935/stream/channelid/1552177711
-#EXTINF:0,SKYNET SPORTS 6
-http://61.90.226.115:1935/stream/channelid/1637708415
-#EXTINF:0,SKYNET SPORTS HD
-http://61.90.226.115:1935/stream/channelid/249348781
-#EXTINF:0,SKYNET SPORTS PLUS
-http://61.90.226.115:1935/stream/channelid/1547773020
-#EXTINF:0,True Sports 5
-http://61.90.226.115:1935/stream/channelid/197900818
-#EXTINF:0,True Sports 6
-http://61.90.226.115:1935/stream/channelid/63228381
-#EXTINF:0,True Sports 7
-http://61.90.226.115:1935/stream/channelid/494647273
-
 #EXTINF:-1,Da Vinci HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1,ANIMAX
@@ -297,26 +254,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 #EXTINF:-1,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,SKYNET SPORTS HD
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6444
-#EXTINF:-1,SKYNET SPORTS 1
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6438
-#EXTINF:-1,SKYNET SPORTS 2
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6439
-#EXTINF:-1,SKYNET SPORTS 3
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6440
-#EXTINF:-1,SKYNET SPORTS 4
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6441
-#EXTINF:-1,SKYNET SPORTS 5
-http://ksportiptv.com:1557/Nesti-sokoli/xJbp862aSu/6442
-
-#EXTINF:-1,FOX SPORT 1
-http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-
 #EXTINF:-1,VT: FOX MOVIES HD
 http://hplus.huuvinh.ooo/v5live.m3u8?id=foxmovies-hd&type=m3u
 #EXTINF:-1,VT: WARNER BROS HD
@@ -427,6 +364,28 @@ http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29125
 http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29124
 #EXTINF:-1,IN: SONY TEN 3 HD
 http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29123
+
+#EXTINF:-1,SKYNET SPORTS HD
+http://main.realiptv.to:80/P7ZzJik0Ai/V7S2BZ1sKG/9545
+#EXTINF:-1,Skynet Sport 1
+http://gorillaiptv.online:25461/lizzie/lizzie/1335
+#EXTINF:-1,Skynet Sport 2
+http://gorillaiptv.online:25461/lizzie/lizzie/1334
+#EXTINF:-1,Skynet Sport 3
+http://gorillaiptv.online:25461/lizzie/lizzie/1333
+#EXTINF:-1,Skynet Sport 4
+http://gorillaiptv.online:25461/lizzie/lizzie/1332
+#EXTINF:-1,Skynet Sport 5
+http://gorillaiptv.online:25461/lizzie/lizzie/1331
+#EXTINF:-1,Skynet Sport 6
+http://51.15.161.236:25461/live/allchannels/all_pannels/2305.ts
+
+#EXTINF:-1,FOX SPORT 1
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 
 #EXTINF:-1,AR: BEIN SPORTS 1 HD
 http://localhd.tv:8081/bdcmf444/t4usjUnrZ8/3356
