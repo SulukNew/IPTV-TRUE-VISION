@@ -8,119 +8,124 @@ http://61.216.177.73/sta/ch91865016.m3u8
 #EXTINF:-1,TRACE URBAN
 http://61.216.177.73/sta/ch91865018.m3u8
 
-#EXTINF:-1,HBO INDIA FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34702.ts
-#EXTINF:-1,MOVIES NOW FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34697.ts
-#EXTINF:-1,MN PLUS FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34699.ts
-#EXTINF:-1,MNX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34698.ts
-#EXTINF:-1,SONY LE PLEX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34689.ts
-#EXTINF:-1,SONY PIX FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
-#EXTINF:-1,AND FLIX HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34718.ts
-#EXTINF:-1,AND PRIVE HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34717.ts
-#EXTINF:-1,STAR GOLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34582.ts
-#EXTINF:-1,STAR GOLD SELECT FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34581.ts
-#EXTINF:-1,STAR MOVIES FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34688.ts
-#EXTINF:-1,STAR MOVIES SELECT FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34687.ts
-#EXTINF:-1,STAR WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34686.ts
-#EXTINF:-1,STAR WORLD PREMIER FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34685.ts
-#EXTINF:-1,WARNER BROS FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34677.ts
-#EXTINF:-1,TATA SKY WORLD CINEMA FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34683.ts
-#EXTINF:-1,AND FLIX HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34718.ts
-#EXTINF:-1,AND PRIVE HD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34717.ts
 
-#EXTINF:-1,NAT GEO PEOPLE FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34695.ts
-#EXTINF:-1,NAT GEO WILD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34694.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34693.ts
-#EXTINF:-1,ANIMAL PLANET WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34716.ts
-#EXTINF:-1,HISTORY TV18 FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34701.ts
-#EXTINF:-1,FOX LIFE FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34703.ts
-#EXTINF:-1,AXN FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34715.ts
-#EXTINF:-1,TLC WORLD FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34680.ts
-#EXTINF:-1,TRAVEL XP FHD
-http://king-ott.com:80/live/911485735621/oEkfM7LZzZgeH2p/34679.ts
 
-#EXTINF:-1,SONY BBC EARTH HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34590.ts
-#EXTINF:-1,SONY HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34589.ts
-#EXTINF:-1,SONY MAX HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34588.ts
-#EXTINF:-1,SONY PIX HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34587.ts
-#EXTINF:-1,SONY ROX HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34586.ts
+#EXTINF:-1,MY: Fox Movies Action HD
+http://landiptv.live:8080/Ling/12345/145984
+#EXTINF:-1,MY: FOX MOVIES HD
+http://landiptv.live:8080/Ling/12345/145985
+#EXTINF:-1,MY: Fox Movies Premium
+http://landiptv.live:8080/Ling/12345/145986
+#EXTINF:-1,MY: FOX FAMILY MOVIES HD
+http://landiptv.live:8080/Ling/12345/145982
+#EXTINF:-1,MY: NAT GEO ASIA HD
+http://landiptv.live:8080/Ling/12345/146002
+#EXTINF:-1,MY: NAT GEO PEOPLE HD
+http://landiptv.live:8080/Ling/12345/146003
+#EXTINF:-1,MY: NAT GEO WILD HD
+http://landiptv.live:8080/Ling/12345/150670
 
-#EXTINF:-1,DISCOVERY WORLD HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34636.ts
-#EXTINF:-1,DISH BOX OFFICE PREMIER
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34635.ts
-#EXTINF:-1,AND PICTURES HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34657.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34654.ts
-#EXTINF:-1,HISTORY TV18 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34628.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34609.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34608.ts
-#EXTINF:-1,STAR GOLD HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34582.ts
-#EXTINF:-1,STAR GOLD SELECT HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34581.ts
-#EXTINF:-1,TATA SKY BOLLYWOOD PREMIERE HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34576.ts
-#EXTINF:-1,TRAVEL XP HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34575.ts
+#EXTINF:-1,MY: ASTRO AEC HD
+http://landiptv.live:8080/Ling/12345/142600
+#EXTINF:-1,MY: Astro Awani
+http://landiptv.live:8080/Ling/12345/145959
+#EXTINF:-1,MY: ASTRO CERIA
+http://landiptv.live:8080/Ling/12345/150651
+#EXTINF:-1,MY: ASTRO CRICKET HD
+http://landiptv.live:8080/Ling/12345/150652
+#EXTINF:-1,MY: ASTRO OASIS HD
+http://landiptv.live:8080/Ling/12345/150654
+#EXTINF:-1,MY: ASTRO PRIMA HD
+http://landiptv.live:8080/Ling/12345/145965
+#EXTINF:-1,MY: ASTRO QUAN JIA HD
+http://landiptv.live:8080/Ling/12345/150655
+#EXTINF:-1,MY: ASTRO RIA HD
+http://landiptv.live:8080/Ling/12345/145967
+#EXTINF:-1,MY: ASTRO SHUANG XING HD
+http://landiptv.live:8080/Ling/12345/150656
+#EXTINF:-1,MY: ASTRO TARA HD
+http://landiptv.live:8080/Ling/12345/142610
+#EXTINF:-1,MY: ASTRO VAANAVIL HD
+http://landiptv.live:8080/Ling/12345/142657
+#EXTINF:-1,MY: ASTRO VINMEEN HD
+http://landiptv.live:8080/Ling/12345/142612
+#EXTINF:-1,MY: ASTRO WARNA HD
+http://landiptv.live:8080/Ling/12345/142613
+#EXTINF:-1,MY: ASTRO XI YUE
+http://landiptv.live:8080/Ling/12345/142614
+#EXTINF:-1,MY: ASTRO XIAO TAI YANG
+http://landiptv.live:8080/Ling/12345/142615
 
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34489.ts
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34488.ts
-#EXTINF:-1,STAR SPORTS 1 ENGLISH HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34493.ts
-#EXTINF:-1,STAR SPORTS 1 HINDI HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34492.ts
-#EXTINF:-1,STAR SPORTS 2 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34491.ts
-#EXTINF:-1,STAR SPORTS 3
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34490.ts
+#EXTINF:-1,MY: AXN HD
+http://landiptv.live:8080/Ling/12345/142662
+#EXTINF:-1,MY: BABY FIRST
+http://landiptv.live:8080/Ling/12345/142663
+#EXTINF:-1,MY: BBC EARTH HD
+http://landiptv.live:8080/Ling/12345/142664
+#EXTINF:-1,MY: BBC LIFESTYLE
+http://landiptv.live:8080/Ling/12345/142665
+#EXTINF:-1,MY: BLUE ANT EXTREME
+http://landiptv.live:8080/Ling/12345/142667
+#EXTINF:-1,MY: BOLLY ONE HD
+http://landiptv.live:8080/Ling/12345/142622
+#EXTINF:-1,MY: BOOMERANG HD KD
+http://landiptv.live:8080/Ling/12345/145969
+#EXTINF:-1,MY: CARTOON NETWORK
+http://landiptv.live:8080/Ling/12345/145970
+#EXTINF:-1,MY: CELESTIAL MOVIES
+http://landiptv.live:8080/Ling/12345/150657
+#EXTINF:-1,MY: CINEMA WORLD HD
+http://landiptv.live:8080/Ling/12345/145973
+#EXTINF:-1,MY: DISCOVERY CHANNEL
+http://landiptv.live:8080/Ling/12345/145974
 
-#EXTINF:-1,SONY ESPN HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34495.ts
-#EXTINF:-1,SONY SIX HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34494.ts
-#EXTINF:-1,TEN 1 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34486.ts
-#EXTINF:-1,TEN 2 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34485.ts
-#EXTINF:-1,TEN 3 HD
-http://tvservice.pro:80/live/911485735621/oEkfM7LZzZgeH2p/34484.ts
+#EXTINF:-1,MY: SkyNet Fox Action Movies HD
+http://landiptv.live:8080/Ling/12345/142672
+#EXTINF:-1,MY: SkyNet Movies HD
+http://landiptv.live:8080/Ling/12345/142675
+#EXTINF:-1,MY: SkyNet MTV China
+http://landiptv.live:8080/Ling/12345/142676
+#EXTINF:-1,MY: SkyNet Music
+http://landiptv.live:8080/Ling/12345/142677
+#EXTINF:-1,MY: SkyNet Phoenix Info News
+http://landiptv.live:8080/Ling/12345/142678
+#EXTINF:-1,MY: SkyNet Sports HD
+http://landiptv.live:8080/Ling/12345/146025
+#EXTINF:-1,MY: SkyNet Sports Plus ANIMATION HD
+http://landiptv.live:8080/Ling/12345/142849
+#EXTINF:-1,MY: SkyNet Sports Plus HD
+http://landiptv.live:8080/Ling/12345/142679
+#EXTINF:-1,MY: SkyNet World Drama
+http://landiptv.live:8080/Ling/12345/142635
+
+#EXTINF:-1,MY: Astro SuperSport 1 FHD
+http://landiptv.live:8080/Ling/12345/147234
+#EXTINF:-1,MY: Astro SuperSport 2 FHD
+http://landiptv.live:8080/Ling/12345/147235
+#EXTINF:-1,MY: Astro SuperSport 3 FHD
+http://landiptv.live:8080/Ling/12345/147236
+#EXTINF:-1,MY: Astro SuperSport 4 FHD
+http://landiptv.live:8080/Ling/12345/147237
+
+#EXTINF:-1,MY: SkyNet Sports 1 HD
+http://landiptv.live:8080/Ling/12345/146018
+#EXTINF:-1,MY: SkyNet Sports 2
+http://landiptv.live:8080/Ling/12345/146020
+#EXTINF:-1,MY: SkyNet Sports 3
+http://landiptv.live:8080/Ling/12345/146021
+#EXTINF:-1,MY: SkyNet Sports 4
+http://landiptv.live:8080/Ling/12345/146022
+#EXTINF:-1,MY: SkyNet Sports 5
+http://landiptv.live:8080/Ling/12345/146023
+#EXTINF:-1,MY: SkyNet Sports 6
+http://landiptv.live:8080/Ling/12345/146024
+
+#EXTINF:-1,MY: FOX SPORTS 1 (ASIAN CUP)
+http://landiptv.live:8080/Ling/12345/145987
+#EXTINF:-1,MY: FOX SPORTS 2 (ASIAN CUP)
+http://landiptv.live:8080/Ling/12345/145988
+#EXTINF:-1,MY: FOX SPORTS 3 (ASIAN CUP)
+http://landiptv.live:8080/Ling/12345/145989
 
 #EXTINF:-1,Da Vinci HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
