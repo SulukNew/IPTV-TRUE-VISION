@@ -1,64 +1,40 @@
 #EXTM3U
 #EXTINF:-1,SULUK INTRO
 https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
-#EXTINF:-1,SULUK ANTHEM
-https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
-#EXTINF:-1,TRACE SPORT
-http://61.216.177.73/sta/ch91865016.m3u8
-#EXTINF:-1,TRACE URBAN
-http://61.216.177.73/sta/ch91865018.m3u8
-
-#EXTINF:-1,VIP: MY HD Fox Action Movies HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/6175
-#EXTINF:-1,MY: Fox Movies Premium
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/8462
-#EXTINF:-1,VIP: MY HD Fox Family Movies HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/6174
-#EXTINF:-1,MY: CINEMA WORLD HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29636
-#EXTINF:-1,MY: DISCOVERY CHANNEL
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29635
-#EXTINF:-1,MY: DIVA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29626
-#EXTINF:-1,MY: DUNIA SINEMA
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29632
-
 #EXTINF:-1,MY: ASTRO AEC HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29666
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32276
 #EXTINF:-1,MY: ASTRO ARENA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29665
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32275
 #EXTINF:-1,MY: ASTRO AWANI HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29664
-#EXTINF:-1,MY: ASTRO BELLA
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29663
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32274
 #EXTINF:-1,MY: ASTRO CERIA
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29662
-#EXTINF:-1,MY: ASTRO MAYA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29660
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32273
+#EXTINF:-1,MY: ASTRO CRICKET HD
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32272
 #EXTINF:-1,MY: ASTRO OASIS HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29659
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32271
 #EXTINF:-1,MY: ASTRO PRIMA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29658
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32270
 #EXTINF:-1,MY: ASTRO QUAN JIA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29657
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32269
 #EXTINF:-1,MY: ASTRO RIA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29656
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32268
 #EXTINF:-1,MY: ASTRO SHUANG XING HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29655
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32267
 #EXTINF:-1,MY: ASTRO TARA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29654
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32266
 #EXTINF:-1,MY: ASTRO VAANAVIL HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29653
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32265
 #EXTINF:-1,MY: ASTRO VINMEEN HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29652
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32264
 #EXTINF:-1,MY: ASTRO WARNA HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29651
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32263
 #EXTINF:-1,MY: ASTRO XI YUE
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29650
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32262
 #EXTINF:-1,MY: ASTRO XIAO TAI YANG
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29649
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32261
 #EXTINF:-1,MY: AXN HD
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29648
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32260
 
 #EXTINF:-1,MY: ASTRO SUPERSPORTS 1
 http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/27363
@@ -71,11 +47,11 @@ http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/27366
 #EXTINF:-1,MY: BEIN SPORTS
 http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29643
 #EXTINF:-1,MY: FOX SPORTS 1
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29623
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32236
 #EXTINF:-1,MY: FOX SPORTS 2
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29622
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32235
 #EXTINF:-1,MY: FOX SPORTS 3
-http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/29621
+http://iptv-line.com:6969/lorenzo3/lorenzo3/32234
 
 #EXTINF:-1,TH: TRUE SPORTS 1 HD
 http://peyek-iptv.dnsq.us:6969/solmapaltu1/Lontong/8260
@@ -298,68 +274,39 @@ http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.
 #EXTINF:-1,RTM SPORT HD
 http://rtm-live.glueapi.io/smil:rtmch008/chunklist_b1040000_sleng.m3u8
 
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://c2z.me:8000/cccam-free.com/hsuej572/22311
-#EXTINF:-1,UK: SKY SPORTS ARENA
-http://c2z.me:8000/cccam-free.com/hsuej572/22308
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://c2z.me:8000/cccam-free.com/hsuej572/22310
-#EXTINF:-1,UK: SKY SPORTS F1
-http://c2z.me:8000/cccam-free.com/hsuej572/22320
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://c2z.me:8000/cccam-free.com/hsuej572/22317
-#EXTINF:-1,UK: SKY SPORTS GOLF
-http://c2z.me:8000/cccam-free.com/hsuej572/22316
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://c2z.me:8000/cccam-free.com/hsuej572/22323
-#EXTINF:-1,UK: SKY SPORTS MIX
-http://c2z.me:8000/cccam-free.com/hsuej572/22307
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://c2z.me:8000/cccam-free.com/hsuej572/22326
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE *
-http://c2z.me:8000/cccam-free.com/hsuej572/22313
+#EXTINF:-1,Sport-UK: Sky Sports Action HD
+http://185.165.243.15:8080/kemal/kemal/48941
+#EXTINF:-1,Sport-UK: Sky Sports Arena HD
+http://185.165.243.15:8080/kemal/kemal/48938
+#EXTINF:-1,Sport-UK: Sky Sports Cricket HD
+http://185.165.243.15:8080/kemal/kemal/48935
+#EXTINF:-1,Sport-UK: Sky Sports F1
+http://185.165.243.15:8080/kemal/kemal/48932
+#EXTINF:-1,Sport-UK: Sky Sports Golf HD
+http://185.165.243.15:8080/kemal/kemal/48925
+#EXTINF:-1,Sport-UK: Sky Sports Main Event HD
+http://185.165.243.15:8080/kemal/kemal/48922
+#EXTINF:-1,Sport-UK: Sky Sports Mix HD
+http://185.165.243.15:8080/kemal/kemal/48920
+#EXTINF:-1,Sport-UK: Sky Sports News
+http://185.165.243.15:8080/kemal/kemal/48918
+#EXTINF:-1,Sport-UK: Sky Sports Premier League HD
+http://185.165.243.15:8080/kemal/kemal/48915
 
-#EXTINF:-1,BT Sport 1
-http://c2z.me:8000/cccam-free.com/hsuej572/22304
-#EXTINF:-1,BT Sport 2
-http://c2z.me:8000/cccam-free.com/hsuej572/22301
-#EXTINF:-1,BT Sport 3
-http://c2z.me:8000/cccam-free.com/hsuej572/22299
-#EXTINF:-1,beoutQ.sport1
-http://c2z.me:8000/cccam-free.com/hsuej572/31938
-#EXTINF:-1,beoutQ.sport2
-http://c2z.me:8000/cccam-free.com/hsuej572/31937
-#EXTINF:-1,beoutQ.Sport3
-http://c2z.me:8000/cccam-free.com/hsuej572/31936
-#EXTINF:-1,beoutQ.Sport4
-http://c2z.me:8000/cccam-free.com/hsuej572/31935
-#EXTINF:-1,beoutQ.Sport5
-http://c2z.me:8000/cccam-free.com/hsuej572/31934
-#EXTINF:-1,beoutQ.Sport6
-http://c2z.me:8000/cccam-free.com/hsuej572/31933
-#EXTINF:-1,beoutQ.Sport7
-http://c2z.me:8000/cccam-free.com/hsuej572/31932
-#EXTINF:-1,beoutQ.Sport8
-http://c2z.me:8000/cccam-free.com/hsuej572/31931
-#EXTINF:-1,beoutQ.Sport9
-http://c2z.me:8000/cccam-free.com/hsuej572/31930
-#EXTINF:-1,beoutQ.Sport10
-http://c2z.me:8000/cccam-free.com/hsuej572/31929
+#EXTINF:-1,UK: BT Sport 1 HD
+http://185.165.243.15:8080/kemal/kemal/27869
+#EXTINF:-1,UK: BT Sport 2 HD
+http://185.165.243.15:8080/kemal/kemal/28898
+#EXTINF:-1,UK: BT Sport 3 HD
+http://185.165.243.15:8080/kemal/kemal/28896
 
-#EXTINF:-1,NBCSN HD
-http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/1421
-#EXTINF:-1,SPORTS NET WORLD HD
-http://51.15.161.236:25461/live/allchannels/all_pannels/1823.ts
-#EXTINF:-1,RMC SPORT 1
-http://51.15.161.236:25461/live/allchannels/all_pannels/729.ts
-#EXTINF:-1,RMC SPORT 2
-http://51.15.161.236:25461/live/allchannels/all_pannels/730.ts
-#EXTINF:-1,RMC SPORT 3
-http://51.15.161.236:25461/live/allchannels/all_pannels/731.ts
-#EXTINF:-1,Sony ESPN HD
-http://c2z.me:8000/cccam-free.com/hsuej572/24680
+#EXTINF:-1,STAR SPORTS 1 HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
+#EXTINF:-1,STAR SPORTS 1 HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
+
 #EXTINF:-1,IN: Sony Six HD
-http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29126
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
 #EXTINF:-1,IN: Sony Ten 1 HD
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
@@ -401,53 +348,30 @@ http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 #EXTINF:-1,FOX SPORT 3
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
 
-#EXTINF:-1,AR - BEIN SPORT 1
-http://c2z.me:8000/cccam-free.com/hsuej572/4412
-#EXTINF:-1,AR - BEIN SPORT 2
-http://c2z.me:8000/cccam-free.com/hsuej572/23358
-#EXTINF:-1,AR - BEIN SPORT 3
-http://c2z.me:8000/cccam-free.com/hsuej572/189
-#EXTINF:-1,AR - BEIN SPORT 4
-http://c2z.me:8000/cccam-free.com/hsuej572/266
-#EXTINF:-1,AR - BEIN SPORT 5
-http://c2z.me:8000/cccam-free.com/hsuej572/267
-#EXTINF:-1,AR - BEIN SPORT 6
-http://c2z.me:8000/cccam-free.com/hsuej572/268
-#EXTINF:-1,AR - BEIN SPORT 7
-http://c2z.me:8000/cccam-free.com/hsuej572/269
-#EXTINF:-1,AR - BEIN SPORT 8
-http://c2z.me:8000/cccam-free.com/hsuej572/8
-#EXTINF:-1,AR - BEIN SPORT 9
-http://c2z.me:8000/cccam-free.com/hsuej572/9
-#EXTINF:-1,AR - BEIN SPORT 10
-http://c2z.me:8000/cccam-free.com/hsuej572/18429
-#EXTINF:-1,AR - BEIN SPORT 11
-http://c2z.me:8000/cccam-free.com/hsuej572/17088
-#EXTINF:-1,AR - BEIN SPORT 12
-http://c2z.me:8000/cccam-free.com/hsuej572/17087
-#EXTINF:-1,AR - BEIN SPORT 13
-http://c2z.me:8000/cccam-free.com/hsuej572/17086
-#EXTINF:-1,AR - BEIN SPORT 14
-http://c2z.me:8000/cccam-free.com/hsuej572/17085
-
-#EXTINF:-1,BEIN SPORTS 1 HD FR
-http://c2z.me:8000/cccam-free.com/hsuej572/3370
-#EXTINF:-1,BEIN SPORTS 2 HD FR
-http://c2z.me:8000/cccam-free.com/hsuej572/3369
-#EXTINF:-1,BEIN SPORTS 3 HD FR
-http://c2z.me:8000/cccam-free.com/hsuej572/3368
-#EXTINF:-1,BEIN SPORT MAX 4
-http://c2z.me:8000/cccam-free.com/hsuej572/3900
-#EXTINF:-1,BEIN SPORT MAX 5
-http://c2z.me:8000/cccam-free.com/hsuej572/3901
-#EXTINF:-1,BEIN SPORT MAX 6
-http://c2z.me:8000/cccam-free.com/hsuej572/3902
-#EXTINF:-1,BEIN SPORT MAX 7
-http://c2z.me:8000/cccam-free.com/hsuej572/3903
-#EXTINF:-1,BEIN SPORT MAX 8
-http://c2z.me:8000/cccam-free.com/hsuej572/3904
-#EXTINF:-1,BEIN SPORT MAX 9
-http://c2z.me:8000/cccam-free.com/hsuej572/4040
+#EXTINF:-1,BEIN SPORT 1 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/5816
+#EXTINF:-1,BEIN SPORT 2 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/5817
+#EXTINF:-1,BEIN SPORT 3 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/5818
+#EXTINF:-1,BEIN SPORT 4 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6027
+#EXTINF:-1,BEIN SPORT 5 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6028
+#EXTINF:-1,BEIN SPORT 6 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6029
+#EXTINF:-1,BEIN SPORT 7 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6030
+#EXTINF:-1,BEIN SPORT 8 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6031
+#EXTINF:-1,BEIN SPORT 9 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6032
+#EXTINF:-1,BEIN SPORT 10 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/6033
+#EXTINF:-1,BEIN SPORT 11 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/5708
+#EXTINF:-1,BEIN SPORT 12 HD
+http://nasaiptv.tk:8000/05djordje_dimitrov4/1tdqXy64pA/5282
 
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
@@ -482,18 +406,17 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
-#EXTINF:-1,MATCH FOOTBALL 1 HD 
-http://persik.by/stream/0713/382544/10266.m3u8
-#EXTINF:-1,MATCH FOOTBALL 2 HD
-http://persik.by/stream/0713/382544/10267.m3u8
-#EXTINF:-1,MATCH FOOTBALL 3 HD
-http://persik.by/stream/0713/382544/10268.m3u8
-#EXTINF:-1,MATCH ARENA
-http://persik.by/stream/0713/382544/261.m3u8
 #EXTINF:-1,MATCH
-http://persik.by/stream/0713/382544/276.m3u8
-#EXTINF:-1,FOOTBALL
-http://persik.by/stream/0713/382544/10294.m3u8
+http://524bcc33.iptvspy.ru/iptv/47GBLESQNCRRFN/212/index.m3u8
+#EXTINF:-1,MATCH FOOTBALL 1 HD 
+http://524bcc33.iptvspy.ru/iptv/47GBLESQNCRRFN/222/index.m3u8
+#EXTINF:-1,MATCH FOOTBALL 2 HD 
+http://524bcc33.iptvspy.ru/iptv/47GBLESQNCRRFN/211/index.m3u8
+#EXTINF:-1,MATCH FOOTBALL 3 HD 
+http://524bcc33.iptvspy.ru/iptv/47GBLESQNCRRFN/206/index.m3u8
+#EXTINF:-1,MATCH ARENA
+http://524bcc33.iptvspy.ru/iptv/47GBLESQNCRRFN/207/index.m3u8
+
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,SETANTA SPORT+
