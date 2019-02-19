@@ -148,18 +148,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 #EXTINF:-1,STAR WORLD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
 
-#EXTINF:-1,HBO
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-#EXTINF:-1,OSN MOVIES ACTION
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-AC.m3u8
-#EXTINF:-1,OSN MOVIES
-http://95.170.215.118/hls/m3u8/OSN-MOVIES-HD.m3u8
-OSN MOVIES FIRST HD
-http://95.170.215.118/hls/m3u8/OSN-Movies-First.m3u8
-#EXTINF:-1,OSN MOVIES ACTION
-http://95.170.215.118/hls/m3u8/FOX-ACTION-MOV.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES HD
-http://95.170.215.118/hls/m3u8/FOX-FAMILY-MOV.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1,FOX HD
