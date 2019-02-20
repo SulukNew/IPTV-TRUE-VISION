@@ -6,6 +6,8 @@ https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 http://31.220.1.190:80/Fran%C3%A7ois/12345/142848
 #EXTINF:-1,HBO INDIA
 http://31.220.1.190:80/Fran%C3%A7ois/12345/64345
+#EXTINF:-1,SONY PIX HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30424
 #EXTINF:-1,Star Movies HD
 http://31.220.1.190:80/François/12345/70287
 #EXTINF:-1,Star World HD
@@ -134,14 +136,14 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1,BTV CINEMA
 http://84.43.207.130/btvcinema/btvcinema.m3u8
 
-#EXTINF:-1,BEIN MOVIES 1
-http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
-#EXTINF:-1,BEIN MOVIES 2
-http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
-#EXTINF:-1,BEIN MOVIES 3
-http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
-#EXTINF:-1,BEIN MOVIES 4
-http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
+#EXTINF:-1,BEIN MOVIES PREMIERE HD
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/10518
+#EXTINF:-1,BEIN MOVIES ACTION HD
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/10519
+#EXTINF:-1,BEIN MOVIES PREMIERE
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/16191
+#EXTINF:-1,BEIN MOVIES STARS
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/16190
 
 #EXTINF:-1,STAR MOVIES 
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
@@ -273,42 +275,35 @@ http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21191
 #EXTINF:-1,BeoutQ 10 HD
 http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21190
 
-#EXTINF:-1,Sky Sports F1 HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/15708
-#EXTINF:-1,Sky Sports Mix HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7925
-#EXTINF:-1,Sky Sports News HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/15701
-#EXTINF:-1,Sky Sports Action HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7927
-#EXTINF:-1,Sky Sports Arena HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7926
-#EXTINF:-1,Sky Sports Football HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/625255
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7932
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7931
-#EXTINF:-1,Sky Sports The Open UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/625251
-#EXTINF:-1,Premier Sports HD UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7915
-#EXTINF:-1,Eir Sport 1 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6612
-#EXTINF:-1,Eir Sport 2 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6611
-#EXTINF:-1,ESPN UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6610
-#EXTINF:-1,Eurosport 1 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6609
-#EXTINF:-1,Eurosport 2 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6608
-#EXTINF:-1,BT Sports 1 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6646
-#EXTINF:-1,BT Sports 2 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/66532
-#EXTINF:-1,BT Sports 3 UK
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/6644
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30229
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30226
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30451
+#EXTINF:-1,UK: SKY SPORTS ARENA HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30210
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30218
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30221
+#EXTINF:-1,UK: SKY SPORTS USA HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30213
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30450
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30452
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30449
+
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30205
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30202
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30199
+#EXTINF:-1,UK: BT SPORT ESPN HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30197
 
 #EXTINF:-1,STAR SPORTS 1 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
@@ -317,8 +312,8 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 
 #EXTINF:-1,IN: Sony Six HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
-#EXTINF:-1,IN: Sony ESPN HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/3991
+#EXTINF:-1,SONY ESPN HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30429
 #EXTINF:-1,IN: Sony Ten 1 HD
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
@@ -326,14 +321,16 @@ http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1,IN: SONY TEN 3 HD
 http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29123
 
-#EXTINF:-1,FS1 HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/63735
-#EXTINF:-1,FS2 HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/63365
-#EXTINF:-1,Bein Sports English FHD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/4902
-#EXTINF:-1,USA: NBCSN HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/14403
+#EXTINF:-1,TSN 1
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/63
+#EXTINF:-1,TSN 2
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/62
+#EXTINF:-1,TSN 3
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/61
+#EXTINF:-1,TSN 4
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/60
+#EXTINF:-1,TSN 5
+http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/59
 
 #EXTINF:-1,BR: Fox Sports 1 FHD
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11227.ts
@@ -342,12 +339,12 @@ http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11226.ts
 #EXTINF:-1,BR: Fox Sports 3 FHD
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11225.ts
 
-#EXTINF:-1,ES: Movistar  Moto GP
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/13529
-#EXTINF:-1,ES: Movistar F1 HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/13549
-#EXTINF:-1,ES: Bein LaLiga HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/8745
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30762
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30760
+#EXTINF:-1,ES: BEIN SPORTS HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30641
 
 #EXTINF:-1,Bein Sports HD 1
 http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/1.ts
@@ -383,12 +380,14 @@ http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
 
-#EXTINF:-1,TIVIBU SPORT 1
-http://95.170.215.120/hls/m3u8/Tivibu-sport-1.m3u8
-#EXTINF:-1,TIVIBU SPORT 2
-http://95.170.215.120/hls/m3u8/Tivi-busport-2.m3u8
-#EXTINF:-1,TIVIBU SPORT 3
-http://95.170.215.120/hls/m3u8/Tivi-busport-3.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30629
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30628
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30627
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30626
 
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
